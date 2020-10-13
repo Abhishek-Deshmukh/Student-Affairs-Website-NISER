@@ -1,0 +1,23 @@
+$footer-height: 10vh;
+footer {
+  height: $footer-height;
+  background-color: $porange;
+  width: 100vw;
+  article {
+    height: $footer-height;
+    background-color: $porange;
+    display: flex;
+  }
+  p {
+    margin: auto;
+    color: white;
+    a {
+      color: $pyellow;
+      transition: 0.2s;
+      &:hover {
+        font-size: 18px;
+        color: white;
+      }
+    }
+  }
+}
