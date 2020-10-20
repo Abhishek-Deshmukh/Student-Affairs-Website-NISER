@@ -1,19 +1,13 @@
 # student_affairs
 
 ## Project setup
+Install Node.js, npm and [gatsby](https://www.gatsbyjs.com/tutorial/part-zero/#using-the-gatsby-cli).
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+gastby develop
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The site can be accessed at localhost:8000/ .
