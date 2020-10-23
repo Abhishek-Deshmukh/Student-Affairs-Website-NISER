@@ -1,10 +1,7 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
- */
-
 module.exports = {
-  /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    title: `Student Affairs Website NISER`,
+    description: `This is the best student affairs website of any college!`,
+  },
+  plugins: [`gatsby-plugin-sass`],
 }
