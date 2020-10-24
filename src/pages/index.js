@@ -5,12 +5,18 @@ import { useSiteMetadata } from "../hooks/use-site-metadata"
 import Layout from "../components/Layout"
 
 export default function Home() {
-  const { title, description } = useSiteMetadata()
+  // <h1>Welcome to {title}</h1>
+  // <p>{description}</p>
+  // <p> Link to the <Link to="/about/">about page</Link>.</p>
+  // const { title, description } = useSiteMetadata()
   return (
     <Layout>
-      <h1>Welcome to {title}</h1>
-      <p>{description}</p>
-      <p> Link to the <Link to="/about/">about page</Link>.</p>
+      <header>
+        <div className="center">
+          <h1>NISER</h1>
+          <h2>Student Affairs</h2>
+        </div>
+      </header>
     </Layout>
   )
 }

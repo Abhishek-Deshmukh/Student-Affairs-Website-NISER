@@ -4,7 +4,5 @@ import React from "react"
 import "../styles/global.scss"
 
 export default function Layout(props) {
-  return (
-    <main>{props.children}</main>
-  )
+  return <main>{props.children}</main>
 }

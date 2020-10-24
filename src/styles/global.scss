@@ -4,3 +4,31 @@ Global styles for the website
 
 // Importing bootstrap scss
 @import "../../node_modules/bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap");
+
+$page_bg: #0C4B33;
+$section_bg2: #20AA76;
+$section_bg: #44B78B;
+$primary_text_color: #ffffff;
+$secondary_text_color: #000000;
+
+html, body {
+  background: $page_bg;
+  color: $primary_text_color;
+}
+header {
+  display: flex;
+  width: 100vw;
+  height: 32vh;
+  font-family: 'Proza Libre', sans-serif;
+  .center{
+    margin: auto;
+    text-align: center;
+    h1 {
+      font-size: 42px;
+    }
+    h2 {
+      font-size: 16px;
+    }
+  }
+}
