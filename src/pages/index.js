@@ -1,14 +1,41 @@
 import React from "react"
-import { Link } from "gatsby"
 
 import { useSiteMetadata } from "../hooks/use-site-metadata"
 import Layout from "../components/Layout"
+import IndexCard from "../components/IndexCard"
 
 export default function Home() {
-  // <h1>Welcome to {title}</h1>
-  // <p>{description}</p>
-  // <p> Link to the <Link to="/about/">about page</Link>.</p>
-  // const { title, description } = useSiteMetadata()
+  // TODO: get this info, and the images from the graphql api
+  const sections = [
+    {
+      title: "Students of NISER",
+      description: "some description of the topic",
+    },
+    {
+      title: "DOSA",
+      description: "some description of the topic",
+    },
+    {
+      title: "Announcements",
+      description: "some description of the topic",
+    },
+    {
+      title: "NISER map",
+      description: "some description of the topic",
+    },
+    {
+      title: "Extracurricular Facilities",
+      description: "some description of the topic",
+    },
+    {
+      title: "Student's Gymkhana",
+      description: "some description of the topic",
+    },
+    {
+      title: "Exam Scholarship Reward",
+      description: "some description of the topic",
+    },
+  ]
   return (
     <Layout>
       <header>
@@ -17,6 +44,11 @@ export default function Home() {
           <h2>Student Affairs</h2>
         </div>
       </header>
+      <div className="container-fluid row">
+        {sections.map((section, index) => {
+          return <IndexCard key={index} context={section} index={index} />
+        })}
+      </div>
     </Layout>
   )
 }

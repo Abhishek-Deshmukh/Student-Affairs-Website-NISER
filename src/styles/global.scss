@@ -3,16 +3,17 @@ Global styles for the website
 */
 
 // Importing bootstrap scss
-@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "./bootstrap/_bootstrap-grid";
 @import url("https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap");
 
-$page_bg: #0C4B33;
-$section_bg2: #20AA76;
-$section_bg: #44B78B;
+$page_bg: #0c4b33;
+$section_bg2: #20aa76;
+$section_bg: #44b78b;
 $primary_text_color: #ffffff;
 $secondary_text_color: #000000;
 
-html, body {
+html,
+body {
   background: $page_bg;
   color: $primary_text_color;
 }
@@ -20,8 +21,8 @@ header {
   display: flex;
   width: 100vw;
   height: 32vh;
-  font-family: 'Proza Libre', sans-serif;
-  .center{
+  font-family: "Proza Libre", sans-serif;
+  .center {
     margin: auto;
     text-align: center;
     h1 {
@@ -29,6 +30,36 @@ header {
     }
     h2 {
       font-size: 16px;
+    }
+  }
+}
+
+.border-right {
+  border-right: 1px solid $section_bg;
+}
+
+.index-card {
+  margin: 40px 0px;
+  width: 100%;
+  display: flex;
+  font-family: "Proza Libre", sans-serif;
+  .center {
+    margin: auto;
+    text-align: center;
+    h2 {
+      line-height: 0.2;
+    }
+    .button {
+      padding: 6px 24px;
+      border: 2px solid $primary_text_color;
+      border-radius: 8px;
+      transition: 0.2s;
+      text-decoration: none;
+      color: $primary_text_color;
+      &:hover {
+        background: $primary_text_color;
+        color: $page_bg;
+      }
     }
   }
 }
