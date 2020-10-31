@@ -36,7 +36,9 @@ export default function NavigationBar(props) {
   ]
   return (
     <nav>
+    <a href="/">
       <Img fixed={logo.file.childImageSharp.fixed} alt="NISER logo" />
+    </a>
       {width < 768 && (
         <div className="ham">
           <input type="checkbox" onClick={toggle} />
