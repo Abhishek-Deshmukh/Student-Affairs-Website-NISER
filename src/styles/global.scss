@@ -1,5 +1,5 @@
 @import "./bootstrap/_bootstrap-grid";
-@import url("https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre:wght@500&family=Roboto&display=swap');
 
 $page_bg: #0c4b33;
 $section_bg2: #20aa76;
@@ -22,6 +22,7 @@ body {
   position: fixed;
   opacity: 0.05;
   transform: translate(-17vw, 10vh);
+  z-index: 0;
 }
 nav {
   width: 100vw;
@@ -160,6 +161,36 @@ header {
         background: $primary_text_color;
         color: $page_bg;
       }
+    }
+  }
+}
+
+// article page
+.article-container {
+  position: relative;
+  background: $section_bg;
+  z-index: 50;
+  color: black;
+  h1,
+  h2 {
+    font-family: "Proza Libre", sans-serif;
+  }
+  h1 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  }
+  p {
+    font-size: 19px;
+    font-family: 'Roboto', sans-serif;
+  }
+  aside {
+    background: $section_bg2;
+    padding: 20px;
+    input {
+      background: $section_bg;
+      width: 100%;
+      border: none;
+      padding: 7px;
+      text-align: center;
     }
   }
 }
