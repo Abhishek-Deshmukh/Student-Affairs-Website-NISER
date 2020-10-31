@@ -7,7 +7,7 @@ export default function NavigationBar(props) {
   const { height, width } = useWindowDimensions()
   const logo = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "white_logo.png" }) {
+      file(relativePath: { eq: "assets/white_logo.png" }) {
         childImageSharp {
           fixed(width: 100) {
             ...GatsbyImageSharpFixed

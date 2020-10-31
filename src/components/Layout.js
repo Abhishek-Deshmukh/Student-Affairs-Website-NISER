@@ -10,7 +10,7 @@ import NavigationBar from "./NavigationBar"
 export default function Layout(props) {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "white_logo.png" }) {
+      file(relativePath: { eq: "assets/white_logo.png" }) {
         childImageSharp {
           fixed(width: 1400) {
             ...GatsbyImageSharpFixed
