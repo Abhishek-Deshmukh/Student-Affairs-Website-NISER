@@ -1,7 +1,6 @@
 ---
 title: "WOMEN’S CELL"
 ---
-
 The Government of India (GoI) has enacted the Protection of Women from Sexual Harassment at Workplace (Prevention, Prohibition and Redressal) Act (the SH Act), 2013. For details, see: [http://www.shebox.nic.in](http://www.shebox.nic.in/home/notification) (SHe-Box – Ministry of Women & Child Development)
 
 
@@ -33,5 +32,3 @@ You may also file your complaint directly at http://www.shebox.nic.in/user/regis
 
 
     [Click here to view Circular](https://www.niser.ac.in/docs/2017/women's-cell.pdf)
-
-

@@ -1,7 +1,6 @@
 ---
 title: "STUDENTS GYMKHANA"
 ---
-
 Students Gymkhana is the Student Union of NISER. It works with a core to strengthen the voice of NISERites in all possible ways and coordinate the action on time.
 
 The Students Gymkhana along with its infrastructure is an organization to meet the following objectives:
@@ -20,7 +19,7 @@ The Students Gymkhana along with its infrastructure is an organization to meet t
 
 .. To organize cultural and sports events for students in NISER.
 
-The union is composed of 5 members: 
+The union is composed of 5 members:
 
 President, [Photo, Anuj Verma, SMS Int-MSc. 5th year]
 
@@ -32,7 +31,7 @@ Sports Secretary, [Photo, Aranya Giri, SPS Int. MSc., 5th-year ]
 
 Treasurer Secretary. [Photo, Charanpreet Singh, SPS PhD., 5th-year]
 
-The members of Gymkhana are elected annually by an election conducted fairly under the eyes of Dean, SA. 
+The members of Gymkhana are elected annually by an election conducted fairly under the eyes of Dean, SA.
 
 Email Id: studentsgymkhana@niser.ac.in
 

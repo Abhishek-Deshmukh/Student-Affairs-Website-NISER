@@ -1,7 +1,6 @@
 ---
 title: "EXTRA-CURRICULAR FACILITIES"
 ---
-
 Apart from classes, labs, libraries in all the schools of NISER there are various sports, musical, yoga, and cultural facilities in NISER.
 
 
@@ -20,8 +19,7 @@ Apart from classes, labs, libraries in all the schools of NISER there are variou
 9. Yoga Room: SAC room no.[XYZ]
 10.  Gym: SAC room no. [XYZ]
 11.  Music Room: SAC room no. [XYZ]
-12.  Dance Room: SAC room no. [XYZ] 
+12.  Dance Room: SAC room no. [XYZ]
 13.  Basketball Court (Temporary): In SAC
 14.  Open Auditorium: In front of Library Building
-15.  Chess and Carrom: In the common room of all hostels 
-
+15.  Chess and Carrom: In the common room of all hostels

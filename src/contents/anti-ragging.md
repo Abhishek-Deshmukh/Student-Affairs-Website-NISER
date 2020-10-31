@@ -1,11 +1,8 @@
 ---
 title: "ANTI-RAGGING"
 ---
-
-
-
-1. 
-What Constitutes Ragging: 
+1.
+What Constitutes Ragging:
 a) Any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, treating, or handling with rudeness a fresher or any other student.
 
 b) Indulging in rowdy or indisciplined activities by any student or students which causes or is likely to cause annoyance, hardship, physical or psychological harm or to raise fear or apprehension thereof in any fresher or any other student.
@@ -28,7 +25,7 @@ j) Any act of physical or mental abuse (including bullying and exclusion) target
 
 
 
-2. 
+2.
 Where Can I get Help?
 a)You may contact NISER administration to report your complaints against Ragging. The Anti-Ragging Squad of NISER is aimed at making NISER a ragging-free-Campus. Feel free to contact any member of this committee for complaints related to Ragging. List of members of Anti-Ragging Squad which examines the issues related to Ragging in NISER are:
 
@@ -43,10 +40,8 @@ a)You may contact NISER administration to report your complaints against Ragging
 *   Dr. Subhankar Mishra, Member
 *   Dr. Amaresh Kumar Jaiswal, Member
 
-b)We, at the Ragging Prevention Program are ready to help. You can call us any time on 1800 180 5522. It is a free phone. You can also send an E mail on helpline@antiragging.in. 
+b)We, at the Ragging Prevention Program are ready to help. You can call us any time on 1800 180 5522. It is a free phone. You can also send an E mail on helpline@antiragging.in.
 
 c)Do we need to give some email-id of a member of Anti-Ragging Squad?[Ask Renjith]
 
 [Click here to view Circular](https://www.niser.ac.in/docs/2019/Anti-Rangging%20Squard.pdf)
-
-

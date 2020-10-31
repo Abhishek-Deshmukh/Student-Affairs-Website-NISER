@@ -1,15 +1,14 @@
 ---
 title: "EVENT (year-wise)"
 ---
-
- [Put Details]
+[Put Details]
 
 
 
 *   <span style="text-decoration:underline;">Solar Eclipse: </span>(26 Dec 2019) Astronomy Club
 *   UMANG 2019: (Oct.) Intra-NISER Cultural Fest was organized by the Cultural Committee of NISER from 18 Oct to 20 Oct. Events of Art, Dance, Music, Drama, Quiz, Fashion Show, Open MIc, Chess, Photography, Yoga, Short film making and Online Games were organized. Around 300 students participated in Umang.
 
-    Chess, Food Fest, Art on Cue, Short Film Making, Yoga Events, Rangreza, Monoranaga, 
+    Chess, Food Fest, Art on Cue, Short Film Making, Yoga Events, Rangreza, Monoranaga,
 
 *   Food Fest: (Oct. 2019) Zarriya
 *   Indian Film Project: (9 Oct. 2019) Film Club
