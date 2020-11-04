@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import useWindowDimensions from "./useWindowDimensions"
 
@@ -36,9 +36,9 @@ export default function NavigationBar(props) {
   ]
   return (
     <nav>
-    <a href="/">
+    <Link to="/">
       <Img fixed={logo.file.childImageSharp.fixed} alt="NISER logo" />
-    </a>
+    </Link>
       {width < 768 && (
         <div className="ham">
           <input type="checkbox" onClick={toggle} />
@@ -53,7 +53,7 @@ export default function NavigationBar(props) {
           {links.map(link => {
             return (
               <li  key={link.name}>
-                <a href="lmao">{link.name}</a>
+                <Link to="/">{link.name}</Link>
               </li>
             )
           })}

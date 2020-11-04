@@ -1,5 +1,5 @@
 import React from "react"
-// import { Link } from "gatsby"
+import { Link } from "gatsby"
 import useWindowDimensions from "./useWindowDimensions"
 
 export default function IndexCard(props) {
@@ -16,7 +16,7 @@ export default function IndexCard(props) {
       <div className="center">
         <p>Image here</p>
         <h2>{props.context.title}</h2>
-        <a href={props.context.link} className="button">Checkout</a>
+        <Link to={props.context.link} className="button">Checkout</Link>
       </div>
     </div>
   )

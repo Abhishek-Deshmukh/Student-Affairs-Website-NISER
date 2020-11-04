@@ -1,5 +1,5 @@
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 
 export default function ContentPage({ data }) {
@@ -37,7 +37,7 @@ export default function ContentPage({ data }) {
               }
               return (
                 <li>
-                  <a href={heading.path}>{heading.heading}</a>
+                  <Link to={heading.path}>{heading.heading}</Link>
                 </li>
               )
             })}
