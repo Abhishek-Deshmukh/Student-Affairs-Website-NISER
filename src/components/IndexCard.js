@@ -16,8 +16,7 @@ export default function IndexCard(props) {
       <div className="center">
         <p>Image here</p>
         <h2>{props.context.title}</h2>
-        <p>{props.context.description}</p>
-        <a href="#" className="button">Checkout</a>
+        <a href={props.context.link} className="button">Checkout</a>
       </div>
     </div>
   )
