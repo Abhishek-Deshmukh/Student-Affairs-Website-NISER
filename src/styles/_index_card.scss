@@ -1,0 +1,28 @@
+.border-right {
+  border-right: 1px solid $section_bg;
+}
+.index-card {
+  margin: 40px 0px;
+  width: 100%;
+  display: flex;
+  font-family: "Proza Libre", sans-serif;
+  .center {
+    margin: auto;
+    text-align: center;
+    h2 {
+      line-height: 1.1;
+    }
+    .button {
+      padding: 6px 24px;
+      border: 2px solid $primary_text_color;
+      border-radius: 8px;
+      transition: 0.2s;
+      text-decoration: none;
+      color: $primary_text_color;
+      &:hover {
+        background: $primary_text_color;
+        color: $page_bg;
+      }
+    }
+  }
+}

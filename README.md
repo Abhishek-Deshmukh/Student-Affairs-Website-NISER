@@ -22,7 +22,7 @@ $ npm run feed
 
 -[ ] Content on the navigationBar
 -[ ] Implement Search functionality
--[ ] Link cards on home page to actual pages
+-[x] Link cards on home page to actual pages
 -[ ] Make the content page responsive
 -[ ] Images on Home page
 -[ ] Figure out how to put images in the content
@@ -32,7 +32,7 @@ $ npm run feed
 -[ ] Setup mailgo for mails and phone numbers
 -[ ] Page transitions coz clicking links make a lot of visual noise.
 -[ ] For links, add target="_blank" attribute in the 'a' tag (opens link in new tab)
--[ ] Break the global.scss into manageable files and import
+-[x] Break the global.scss into manageable files and import
 -[ ] A footer ?
 -[ ] Go over font decisions?
 -[ ] Test across devices

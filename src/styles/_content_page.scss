@@ -1,0 +1,43 @@
+// article page
+.article-container {
+  position: relative;
+  background: $section_bg;
+  z-index: 50;
+  color: black;
+  font-size: 19px;
+  font-family: "Roboto", sans-serif;
+  aside {
+    background: $section_bg2;
+    padding: 20px;
+    input {
+      background: $section_bg;
+      width: 100%;
+      border: none;
+      padding: 7px;
+      text-align: center;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 10px;
+      li {
+        line-height: 1;
+        font-weight: 700;
+        margin-bottom: 16px;
+        a {
+          text-decoration: none;
+          color: black;
+        }
+      }
+    }
+  }
+  article {
+    padding-left: 30px;
+    h1,
+    h2 {
+      font-family: "Proza Libre", sans-serif;
+    }
+    h1 {
+      border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+    }
+  }
+}
