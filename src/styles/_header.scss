@@ -4,15 +4,20 @@ header {
   height: 32vh;
   font-family: "Proza Libre", sans-serif;
   .center {
+    padding: 0% 20%;
     margin: auto;
     text-align: center;
     h1 {
       z-index: 1;
       font-size: 42px;
+      background: linear-gradient(90deg, #272640, #312244, #3e1f47, #4d194d);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
     h2 {
       z-index: 1;
-      font-size: 16px;
+      font-size: 20px;
+      color: #4d194d;
     }
   }
 }

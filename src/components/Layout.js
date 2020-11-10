@@ -27,7 +27,7 @@ export default function Layout(props) {
       </div>
       <header>
         <div className="center">
-          <h1>NISER</h1>
+          <h1>National Institute of Science Education and Research</h1>
           <h2>Student Affairs</h2>
         </div>
       </header>
