@@ -1,11 +1,11 @@
 @import "./bootstrap/_bootstrap-grid";
 @import url("https://fonts.googleapis.com/css2?family=Proza+Libre:wght@500&family=Roboto&display=swap");
 
-$page_bg: #0c4b33;
-$section_bg2: #20aa76;
-$section_bg: #44b78b;
-$primary_text_color: #ffffff;
-$secondary_text_color: #000000;
+$page_bg: #667eea;
+$section_bg: rgba(255, 255, 255, 0.1);
+$section_bg2: rgba(255, 255, 255, 0.1);
+$primary_text_color: #000000;
+$secondary_text_color: #ffffff;
 
 html,
 body {
@@ -15,14 +15,16 @@ body {
   overflow-x: hidden;
   background: $page_bg;
   color: $primary_text_color;
+  background-image: -webkit-linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
 
-//// index page styling
 .background-logo {
   position: fixed;
-  opacity: 0.05;
+  opacity: 0.1;
   transform: translate(-17vw, 0vh);
   z-index: 0;
+  pointer-events: none;
 }
 
 @import '_content_page';

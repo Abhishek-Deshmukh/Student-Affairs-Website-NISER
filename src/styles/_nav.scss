@@ -1,10 +1,13 @@
 nav {
+  padding: 20px 0px 0px 20px;
   z-index: 1;
   width: 100vw;
   display: flex;
   transition: 0.2s;
   Img {
-    margin: auto;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    // margin: auto;
     z-index: 101;
   }
   ul {
