@@ -32,6 +32,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    `gatsby-plugin-transition-link`,
   ],
 
 }
