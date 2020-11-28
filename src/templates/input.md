@@ -1,29 +1,5 @@
 <!-- Output copied to clipboard! -->
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 3.187 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sat Oct 31 2020 07:04:06 GMT-0700 (PDT)
-* Source doc: Student Affairs Content - dev
-
-WARNING:
-You have 21 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
 
 <p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
@@ -48,7 +24,7 @@ Do not put images into the document, let the developer know if you want to put i
 
 ## For Developers:
 
-The following document can be converted into markdown using the [`Docs to Markdown` Add-on](https://gsuite.google.com/u/1/marketplace/app/docs_to_markdown/700168918607?hl=en&pann=docs_addon_widget). Just remove this page from the output. Feed it to the website builder which should already be in place.
+The following document can be converted into markdown using the [`Docs to Markdown` Add-on](https://gsuite.google.com/u/1/marketplace/app/docs_to_markdown/700168918607?hl=en&pann=docs_addon_widget). Feed the output to the website builder which should already be in place.
 
 ---start---
 
@@ -93,24 +69,21 @@ Apart from classes, labs, libraries in all the schools of NISER there are variou
 
 
 
-1. Badminton Court: in Library Building Foyer
-2. Cricket Ground: behind Yamuna Hostel (SOH5)
-3. Football ground: between faculty/staff residence and SAC
-4. Student Activity Center: (SAC) between Brahmaputra Hostel (DOH3) and Rushikulya Hostel (SOH2)
-5. TT table: in SAC room no. [XYZ] and the common room of all hostels.
-6. Volleyball Court: between Krishna Hostel (DOH1) and Mahanadi Hostel (SOH1)
-
-                               behind Kaveri Hostel (SOH4)
-
-7. Kabaddi Ground: in front of Daya Hostel (SOH3)
-8. Kho-Kho Ground: in front of Daya Hostel (SOH3)
-9. Yoga Room: SAC room no.[XYZ]
-10.  Gym: SAC room no. [XYZ]
-11.  Music Room: SAC room no. [XYZ]
-12.  Dance Room: SAC room no. [XYZ]
-13.  Basketball Court (Temporary): In SAC
-14.  Open Auditorium: In front of Library Building
-15.  Chess and Carrom: In the common room of all hostels
+1. **Badminton Court**: in Library Building Foyer
+2. **Cricket Ground**: behind Yamuna Hostel (SOH5)
+3. **Football ground**: between faculty/staff residence and SAC
+4. **Student Activity Center**: (SAC) between Brahmaputra Hostel (DOH3) and Rushikulya Hostel (SOH2)
+5. **TT table**: in SAC room no. [XYZ] and the common room of all hostels.
+6. **Volleyball Court**: between Krishna Hostel (DOH1) and Mahanadi Hostel (SOH1), behind Kaveri Hostel (SOH4)
+7. **Kabaddi Ground**: in front of Daya Hostel (SOH3)
+8. **Kho-Kho Ground**: in front of Daya Hostel (SOH3)
+9. **Yoga Room**: SAC room no.[XYZ]
+10.  **Gym**: SAC room no. [XYZ]
+11.  **Music Room**: SAC room no. [XYZ]
+12.  **Dance Room**: SAC room no. [XYZ]
+13.  **Basketball Court (Temporary)**: In SAC
+14.  **Open Auditorium**: In front of Library Building
+15.  **Chess and Carrom**: In the common room of all hostels
 
 
 # STUDENTS GYMKHANA
@@ -162,64 +135,69 @@ There are various graduate and post-graduate level examinations/ internship oppo
 
 1. Kishore Vagyanik Protsahan Yojana (KVPY):
 
-    Students in their 1st year, having secured a minimum of 60% (50% for SC/ST/PWD) marks in aggregate in MATHEMATICS and SCIENCE subjects (Physics/Chemistry/Biology) in the XII Standard Board Examination are eligible to appear for the KVPY Aptitude test (SB Stream). In the 1st year final examination they must secure 60% (50% for SC/ST/PWD) marks before taking up the fellowship if awarded.
+Students in their 1st year, having secured a minimum of 60% (50% for SC/ST/PWD) marks in aggregate in MATHEMATICS and SCIENCE subjects (Physics/Chemistry/Biology) in the XII Standard Board Examination are eligible to appear for the KVPY Aptitude test (SB Stream). In the 1st year final examination they must secure 60% (50% for SC/ST/PWD) marks before taking up the fellowship if awarded.
+
+Source: [http://kvpy.iisc.ernet.in/main/index.htm](http://kvpy.iisc.ernet.in/main/index.htm)
 
 
-    Source: [http://kvpy.iisc.ernet.in/main/index.htm](http://kvpy.iisc.ernet.in/main/index.htm)
 
 2. National Initiative on Undergraduate Sciences (NIUS):
 
-     Internship for 1st-year Int. MSc students in the field of Physics, Chemistry, and Biology. The current structure of the NIUS program for students consists of an exposure-cum-enrichment-camp followed by two to three camps for completion of project work.
+ Internship for 1st-year Int. MSc students in the field of Physics, Chemistry, and Biology. The current structure of the NIUS program for students consists of an exposure-cum-enrichment-camp followed by two to three camps for completion of project work.
+
+Source: [https://nius.hbcse.tifr.res.in/](https://nius.hbcse.tifr.res.in/)
 
 
-    Source: [https://nius.hbcse.tifr.res.in/](https://nius.hbcse.tifr.res.in/)
 
 3. Madhava Mathematics Competition:
 
-###
-    First, second and Third Year Int. M.Sc. students are eligible to participate in this competition.
+
+### First, second and Third Year Int. M.Sc. students are eligible to participate in this competition.
+
+Source: [http://www.madhavacompetition.com/](http://www.madhavacompetition.com/)
+
+             [http://www.hbcse.tifr.res.in/madhava](http://www.hbcse.tifr.res.in/madhava)
 
 
-    Source: [http://www.madhavacompetition.com/](http://www.madhavacompetition.com/)
-
-
-                 [http://www.hbcse.tifr.res.in/madhava](http://www.hbcse.tifr.res.in/madhava)
 
 4. Aryabhata Contest:
 
-###
-    For Science college students from 18 to 24 years old.
+
+### For Science college students from 18 to 24 years old.
+
+Source: [https://www.aictsd.com/aryabhatta-national-maths-competition/](https://www.aictsd.com/aryabhatta-national-maths-competition/)
 
 
-    Source: [https://www.aictsd.com/aryabhatta-national-maths-competition/](https://www.aictsd.com/aryabhatta-national-maths-competition/)
 
 5. Indian Academy of Science (IAS) Summer Fellowship Programme:
 
-    Students in their 2nd, 3rd or 4th year can apply.
+Students in their 2nd, 3rd or 4th year can apply.
+
+Source: [https://www.ias.ac.in/](https://www.ias.ac.in/)
+
+https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp
 
 
-    Source: [https://www.ias.ac.in/](https://www.ias.ac.in/)
-
-
-    https://web-japps.ias.ac.in:8443/fellowship2021/application_instructions.jsp
 
 6. S.N. Bose Fellowship:
 
-    For an internship in the US. Open to students of Atmospheric and Earth Sciences; Chemical Sciences; Engineering Sciences; Mathematical and Computational Sciences and Physical Sciences. Scholarship includes stipend, health insurance and airfare expenses.
+For an internship in the US. Open to students of Atmospheric and Earth Sciences; Chemical Sciences; Engineering Sciences; Mathematical and Computational Sciences and Physical Sciences. Scholarship includes stipend, health insurance and airfare expenses.
+
+Source: [https://www.iusstf.org/program/for-indian-students](https://www.iusstf.org/program/for-indian-students)
 
 
-    Source: [https://www.iusstf.org/program/for-indian-students](https://www.iusstf.org/program/for-indian-students)
 
 7. Khorana Program for Scholars:
 
-    For an internship in the US. Students pursuing research in Biotechnology and allied areas (including agricultural, food, health,  biomedical sciences, and interdisciplinary areas like Computational Sciences, Big Data, Machine Learning, etc.) are eligible to apply. First Year, Final year and Ph.D. students are _NOT _eligible to apply. The scholarship includes a stipend, health insurance, and airfare expenses.
+For an internship in the US. Students pursuing research in Biotechnology and allied areas (including agricultural, food, health,  biomedical sciences, and interdisciplinary areas like Computational Sciences, Big Data, Machine Learning, etc.) are eligible to apply. First Year, Final year and Ph.D. students are _NOT _eligible to apply. The scholarship includes a stipend, health insurance, and airfare expenses.
+
+Source: [https://www.iusstf.org/program/khorana-program-for-scholars](https://www.iusstf.org/program/khorana-program-for-scholars)
 
 
-    Source: [https://www.iusstf.org/program/khorana-program-for-scholars](https://www.iusstf.org/program/khorana-program-for-scholars)
 
 8. Summer Research Fellowship Programme (SRFP), JNCASR:
 
-          Summer internship at JNCASR,   Bangalore.
+Summer internship at JNCASR,   Bangalore.
 
 Eligibility:
 
@@ -239,230 +217,191 @@ Source: [http://www.jncasr.ac.in/fe/srfp.php](http://www.jncasr.ac.in/fe/srfp.ph
 NISER has various Clubs aimed at promoting/organising various cultural, sports and other student activities. The various clubs of NISER are:
 
 
-
-1. Arts Club
+## Arts Club
 
 A place where one can express themselves through the language of art.
 
-Contact:
+**Contact**:
 
+Irene Aniyan Puthethu (6282722754)
 
-     Irene Aniyan Puthethu (6282722754)
+[arc@niser.ac.in](mailto:arc@niser.ac.in)
 
 
-    [arc@niser.ac.in](mailto:arc@niser.ac.in)
+## Astronomy Club
 
+The club takes part in various activities and experiments that are related to Astronomy and associated branches. Our primary goal is to popularize and generate curiosity on the subject of Astronomy and to inculcate scientific temperament amongst the students and staff at NISER.
 
+**Contact**:
 
-2. Astronomy Club
+Karan (9818703645)
 
-    The club takes part in various activities and experiments that are related to Astronomy and associated branches. Our primary goal is to popularize and generate curiosity on the subject of Astronomy and to inculcate scientific temperament amongst the students and staff at NISER.
+astroclub@niser.ac.in
 
 
-    Contact:
+## Chess Club
 
+We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for the IISM games each year.
 
-    	Karan (9818703645)
+**Contact**:
 
+Abubakr Mohammad Jamal (7358786560)
 
-    	astroclub@niser.ac.in
+chess.club@niser.ac.in
 
-3. Chess Club
 
-    We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for the IISM games each year.
+## Coding Club
 
+We aim to cultivate and promote a coding culture among people in NISER. Club activities range from student seminars on (theoretical) computer science topics to recreational programming contests.
 
-    Contact:
+**Contact**:
 
+Ayush Singh (8745928569)
 
-    	Abubakr Mohammad Jamal (7358786560)
+code@niser.ac.in
 
 
-    chess.club@niser.ac.in
+## Dance Club
 
-4. Coding Club
+Reconnect with your senses and let your body express, communicate, and imbibe with your moves.
 
-    We aim to cultivate and promote a coding culture among people in NISER. Club activities range from student seminars on (theoretical) computer science topics to recreational programming contests.
+**Contact**:
 
+H.Subham Kumar (7093375381)
 
-    Contact:
+dance@niser.ac.in
 
 
-    	Ayush Singh (8745928569)
+## Drama and Music Club
 
+A club dedicated to promoting, conducting, and nurturing Drama and Music culture in NISER.
 
-    code@niser.ac.in
+The Club conducts inter and intra college events, moderates the music room and is the coordinator of SPICMACAY, NISER chapter.
 
-5. Dance Club
+**Contact**:
 
-    Reconnect with your senses and let your body express, communicate, and imbibe with your moves.
+Spandan Anupam (9658582393)
 
+dmc@niser.ac.in
 
-    Contact:
 
+## Film Club
 
-    	H.Subham Kumar (7093375381)
+Film Club of NISER is the club for the movie lovers of NISER. Started in 2013 by a few film enthusiasts, the club has ever since promoted the culture of film appreciation and film making amongst the student community of NISER.
 
+**Contact**:
 
-    dance@niser.ac.in
+Ashish V (9495034462)
 
-6. Drama and Music Club
+Debaiudh Das (8420869435)
 
-    A club dedicated to promoting, conducting, and nurturing Drama and Music culture in NISER.
+filmclub@niser.ac.in
 
 
-    The Club conducts inter and intra college events, moderates the music room and is the coordinator of SPICMACAY, NISER chapter.
+## Literary Club
 
+Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. _The Polyglots_ initiative provides a platform to learn different regional and international languages. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus.
 
-    Contact:
+**Contact**:
 
+Varun Govind B (8917284120)
 
-    	Spandan Anupam (9658582393)
+Salil Javed V P (8848034504)
 
+litc@niser.ac.in
 
-    dmc@niser.ac.in
 
-7. Film Club
+## Mathematix Club
 
-    Film Club of NISER is the club for the movie lovers of NISER. Started in 2013 by a few film enthusiasts, the club has ever since promoted the culture of film appreciation and film making amongst the student community of NISER.
+MathematiX club hosts various activities of interest for math enthusiasts of NISER, with undergraduate students being the target audience. Since its inception in 2009, its prime motive has been to introduce students to topics not generally encountered in the undergraduate curriculum and provide a platform to students where mathematical ideas can be discussed and debated.
 
+**Contact**:
 
-    Contact:
+Prem Nigam Kar (8466872125)
 
+mathematicx@niser.ac.in
 
-    	Ashish V (9495034462)
 
+## Nature Club
 
-    Debaiudh Das (8420869435)
+Adventure and having fun while learning and caring about nature is at the heart of OorNa, The Nature Club. As NISER is a campus gifted with many different species of plants, birds, and even a few animals, the club conducts nature walks which are both educational and recreational at the same time. It also conducts nature walks in other places near the campus. Also, the club encourages students to come up with any event which they might organize with its help.
 
+**Contact**:
 
-    filmclub@niser.ac.in
-
-8. Literary Club
-
-    Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. _The Polyglots_ initiative provides a platform to learn different regional and international languages. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus.
-
-
-    Contact:
-
-
-    Varun Govind B (8917284120)
-
-
-    Salil Javed V P (8848034504)
-
-
-    litc@niser.ac.in
-
-9. Mathematix Club
-
-    MathematiX club hosts various activities of interest for math enthusiasts of NISER, with undergraduate students being the target audience. Since its inception in 2009, its prime motive has been to introduce students to topics not generally encountered in the undergraduate curriculum and provide a platform to students where mathematical ideas can be discussed and debated.
-
-
-    Contact:
-
-
-    Prem Nigam Kar (8466872125)
-
-
-    mathematicx@niser.ac.in
-
-
-
-
-10.
-Nature Club
-
-    Adventure and having fun while learning and caring about nature is at the heart of OorNa, The Nature Club. As NISER is a campus gifted with many different species of plants, birds, and even a few animals, the club conducts nature walks which are both educational and recreational at the same time. It also conducts nature walks in other places near the campus. Also, the club encourages students to come up with any event which they might organize with its help.
-
-Contact:
-
-	Devashish Sonowal (9348377323)
+Devashish Sonowal (9348377323)
 
 oorna_natureclub@niser.ac.in
 
 
+## Photography Club
 
-11.
-Photography Club
 The photography club conducts photography competitions round semester with themes and agendas, we also cover nearly event happening in NISER
 
-Contact:
+**Contact**:
 
-	Rahul Arora  (9911976148)
+Rahul Arora  (9911976148)
 
 shots@niser.ac.in
 
 
+## Quizone (Quiz Club)
 
-12.
-Quizone (Quiz Club)
+We at Quizone are committed to promoting the culture of quizzing on campus and organising quizzes for the members of NISER and for the public.
 
-    We at Quizone are committed to promoting the culture of quizzing on campus and organising quizzes for the members of NISER and for the public.
-
-Contact:
+**Contact**:
 
 Saswat Das (6370147889)
 
 quizone@niser.ac.in
 
 
+## Robo Tech Club
 
-13.
-Robo Tech Club
+The club for the geeky one’s :) An inclusive community of “HUMANS”(mostly) that does all kinds of robotics and technology-related stuff. Here it’s all about DIY.
 
-    The club for the geeky one’s :) An inclusive community of “HUMANS”(mostly) that does all kinds of robotics and technology-related stuff. Here it’s all about DIY.
+**Contact**:
 
-
-    Contact:
-
-
-    	Manabputra (9153156311)
+Manabputra (9153156311)
 
 rtc@niser.ac.in
 
 
+## Science Activities Club
 
-14.
-Science Activities Club
-Contact:
+**Contact**:
 
-	sac@niser.ac.in
-
+sac@niser.ac.in
 
 
-15.
-Sports Club
+## Sports Club
+
 Sports club administers all the sports activities at NISER. It represents the institute at various sports events.
 
-Contact:
+**Contact**:
 
-	Aranya Giri (9430398221)
+Aranya Giri (9430398221)
 
 sportsclub@niser.ac.in
 
 
+## Yoga Club
 
-16.
-Yoga Club
+A club which aims to keep NISER minds and body healthy.
 
-    A club which aims to keep NISER minds and body healthy.
-
-Contact:
+**Contact**:
 
 Nikhil Kumar (8457029451)
 
 yogaclub@niser.ac.in
 
 
+## Zaariya
 
-17.
-Zaariya
 Zaariya was built on the shoulders and combined wisdom of many. When it all started we were yet a small community of students and faculty but within this group was a need, the need to go out and do something for the community at large. The motive of Zaariya is the intertwining of lives, learning, and growing together with the society.
 
-Contact:
+**Contact**:
 
-		Shivam Mahapatra (8984288527)
+Shivam Mahapatra (8984288527)
 
 zaariya@niser.ac.in
 
@@ -508,49 +447,53 @@ zaariya@niser.ac.in
 # CAMPUS LIFE
 
 
+## Student Life
 
-*   Student Life
-
-    NISER, located at the suburb of Bhubaneswar, is surrounded by greenery and nature. With the verdure giving the much needed harmony and calmness, the lives of the students here is an ideal balance of efforts and enjoyment. Major tourist spots are within 50 km range of the institute and the accessibility to the capital city through the university bus service gives the students the options to explore a myriad of ancient architectures, cultural sites, recreational activities. The students joining the institute can expect themselves to work in a positive and rational environment. The freshers/new members need not worry about how to fit in the scene. There is a strong inter-batch relationship with the students coming to help each other. Likewise, the teacher-student relationship at NISER is in fine feather. The students are always welcomed to discuss the doubts and to ask guidance related to academic matters with professors. The workload at NISER is manageable and gives the students good enough leisure time to hone their extra curricular skills and to let themselves participate in sports and fitness.
-
-*   Hostels
-
-    There are 9 hostels (4 double occupancy hostels and 5 single occupancy hostels) situated within the campus for housing the students of NISER. The boys and girls are housed in separate hostels. All the hostels have furnished bedrooms, 24/7 desk services and high speed LAN connection in each room. The hostels are assisted with laundry facilities, common room for gatherings, cable TV, mail service and night time security patrols. Any hostel related problem communicated through the elected Hostel Executive Committee (HEC) members to the caretakers or the warden. The students are expected to be within the hostel before 11 pm and are not allowed to invite restricted people to their rooms. Students are expected to follow the hostel rules as defined in the attached pdf. [Hostel Rules pdf.](https://www.niser.ac.in/docs/2017/hostel_rules.pdf) Any action violating the rules of the hostel community might lead to punitive measures as decided by the authorities. Disciplinary Action Structure for violation of hostel rule is given in [attached pdf here](https://www.niser.ac.in/docs/2019/disciplinary_action_hostel.pdf). For more details on the hostel rules and facilities please visit ([the hostel site](https://www.niser.ac.in/hostels/)).
+NISER, located at the suburb of Bhubaneswar, is surrounded by greenery and nature. With the verdure giving the much needed harmony and calmness, the lives of the students here is an ideal balance of efforts and enjoyment. Major tourist spots are within 50 km range of the institute and the accessibility to the capital city through the university bus service gives the students the options to explore a myriad of ancient architectures, cultural sites, recreational activities. The students joining the institute can expect themselves to work in a positive and rational environment. The freshers/new members need not worry about how to fit in the scene. There is a strong inter-batch relationship with the students coming to help each other. Likewise, the teacher-student relationship at NISER is in fine feather. The students are always welcomed to discuss the doubts and to ask guidance related to academic matters with professors. The workload at NISER is manageable and gives the students good enough leisure time to hone their extra curricular skills and to let themselves participate in sports and fitness.
 
 
-    Every year, hostel days are celebrated wherein various competitions are organised for the residents. These functions are closed with a grand party. The sole aim of these functions and events is to make a sociable and interactive environment for the students to live in.
+## Hostels
 
-*   Food & Dining
+There are 9 hostels (4 double occupancy hostels and 5 single occupancy hostels) situated within the campus for housing the students of NISER. The boys and girls are housed in separate hostels. All the hostels have furnished bedrooms, 24/7 desk services and high speed LAN connection in each room. The hostels are assisted with laundry facilities, common room for gatherings, cable TV, mail service and night time security patrols. Any hostel related problem communicated through the elected Hostel Executive Committee (HEC) members to the caretakers or the warden. The students are expected to be within the hostel before 11 pm and are not allowed to invite restricted people to their rooms. Students are expected to follow the hostel rules as defined in the attached pdf. [Hostel Rules pdf.](https://www.niser.ac.in/docs/2017/hostel_rules.pdf) Any action violating the rules of the hostel community might lead to punitive measures as decided by the authorities. Disciplinary Action Structure for violation of hostel rule is given in [attached pdf here](https://www.niser.ac.in/docs/2019/disciplinary_action_hostel.pdf). For more details on the hostel rules and facilities please visit ([the hostel site](https://www.niser.ac.in/hostels/)).
 
-    The catering services are available at 4 hostels in NISER. The food can either be ordered for a takeaway service or can be enjoyed in the dining halls of the hostels within the scheduled time table. The menus of the canteens are pre-decided and are flexible. There are regular inspections on the food quality and services of the caterers by the mess-in-charge of each hostel.  A night canteen has also been set-up at the Students Activity Centre which functions when the hostel canteens are closed. Any problems with the food quality or the services in the Mess can be brought into notice with the help of mess incharges of the hostel.
-
-*   Services in NISER
-
-    NISER has kept in mind the services a person can need during their stay in the campus and has made available a scheduled transportation system, a shopping complex, banks and post-office within the premises. NISER has its own bus service which shuttles between NISER Campus and Bhubaneswar. The shopping complex provides space for stationary shops, general utility store, fast food corners. Two bank branches, namely State Bank of India (SBI) and Indian Overseas Bank (IOB), are located within the premises of NISER. One branch of Indian Post Office is located inside the Campus too.
+Every year, hostel days are celebrated wherein various competitions are organised for the residents. These functions are closed with a grand party. The sole aim of these functions and events is to make a sociable and interactive environment for the students to live in.
 
 
-    *health center*
+## Food & Dining
 
-*   Academia
+The catering services are available at 4 hostels in NISER. The food can either be ordered for a takeaway service or can be enjoyed in the dining halls of the hostels within the scheduled time table. The menus of the canteens are pre-decided and are flexible. There are regular inspections on the food quality and services of the caterers by the mess-in-charge of each hostel.  A night canteen has also been set-up at the Students Activity Centre which functions when the hostel canteens are closed. Any problems with the food quality or the services in the Mess can be brought into notice with the help of mess incharges of the hostel.
 
-    NISER offers positions for students in Integrated M.Sc. Programme, Integrated Ph.D. Programme and Ph.D. Program. NISER currently has 7 schools, namely, Biological Sciences, Chemical Sciences, Computer Sciences, Earth and Planetary Sciences, Mathematical Sciences, Physical Sciences and Humanities. Students are highly encouraged and helped to improve their research skills, in any of the schools. NISER also gives a great opportunity to students for Interdisciplinary courses and projects. NISER aims to equip students with a solid foundation and skills to tackle important research problems.
 
-*   Discipline
+## Services in NISER
 
-    The students of NISER are expected to follow a strict code of conduct. They are supposed to act in a manner which shows their belonging to an institute of national importance. Their behaviour or any activity should not bring down the prestige of the Institute. Any action which violates the rules ensuring the safety and freedom of all the other members may be considered as violation of the code of conduct and may invite a disciplinary action against the doer. The rules laid down by the authorities for maintaining the decorum of the institute should be given utmost importance. For more details on such rules and regulations can be read in section 12 of [the attached pdf.](https://www.niser.ac.in/docs/2012/UGManual(Latest).pdf)
+NISER has kept in mind the services a person can need during their stay in the campus and has made available a scheduled transportation system, a shopping complex, banks and post-office within the premises. NISER has its own bus service which shuttles between NISER Campus and Bhubaneswar. The shopping complex provides space for stationary shops, general utility store, fast food corners. Two bank branches, namely State Bank of India (SBI) and Indian Overseas Bank (IOB), are located within the premises of NISER. One branch of Indian Post Office is located inside the Campus too.
 
-*   Sports
+*health center*
 
-    NISER has been active in Sports and Fitness. We have an instructor to help with the training and for increasing the participation of students in the sports activities. NISER has a Sports club which has sub groups in it where all the games of both men and women are given equal importance. The club has weekly practice sessions with the instructor so that the students can hone their skills in the favored sport. Inter batch tournaments are held regularly to boost healthy competition among the players and help them prepare for the Inter-College Tournaments. [Aranya Giri, put your input here]
 
-*   Culture
+## Academia
 
-    The cultural fests at NISER are conducted periodically, wherein, intra college and intercollege fests are organized along with the festival celebrations and gatherings. NISER hosts Intra-college fests where members from nearby? colleges are invited to participate and compete in various events. Inter-college fests are conducted likewise. The major festivals and days of National Importance are also celebrated at the community centre, amphitheater, and SAC to enjoy the festivities together.
+NISER offers positions for students in Integrated M.Sc. Programme, Integrated Ph.D. Programme and Ph.D. Program. NISER currently has 7 schools, namely, Biological Sciences, Chemical Sciences, Computer Sciences, Earth and Planetary Sciences, Mathematical Sciences, Physical Sciences and Humanities. Students are highly encouraged and helped to improve their research skills, in any of the schools. NISER also gives a great opportunity to students for Interdisciplinary courses and projects. NISER aims to equip students with a solid foundation and skills to tackle important research problems.
 
-*   Others
 
-    [Blank for now]
+## Discipline
 
+The students of NISER are expected to follow a strict code of conduct. They are supposed to act in a manner which shows their belonging to an institute of national importance. Their behaviour or any activity should not bring down the prestige of the Institute. Any action which violates the rules ensuring the safety and freedom of all the other members may be considered as violation of the code of conduct and may invite a disciplinary action against the doer. The rules laid down by the authorities for maintaining the decorum of the institute should be given utmost importance. For more details on such rules and regulations can be read in section 12 of [the attached pdf.](https://www.niser.ac.in/docs/2012/UGManual(Latest).pdf)
+
+
+## Sports
+
+NISER has been active in Sports and Fitness. We have an instructor to help with the training and for increasing the participation of students in the sports activities. NISER has a Sports club which has sub groups in it where all the games of both men and women are given equal importance. The club has weekly practice sessions with the instructor so that the students can hone their skills in the favored sport. Inter batch tournaments are held regularly to boost healthy competition among the players and help them prepare for the Inter-College Tournaments. [Aranya Giri, put your input here]
+
+
+## Culture
+
+The cultural fests at NISER are conducted periodically, wherein, intra college and intercollege fests are organized along with the festival celebrations and gatherings. NISER hosts Intra-college fests where members from nearby? colleges are invited to participate and compete in various events. Inter-college fests are conducted likewise. The major festivals and days of National Importance are also celebrated at the community centre, amphitheater, and SAC to enjoy the festivities together.
+
+
+## Others
+
+[Blank for now]
 
 
 # NEARBY
@@ -601,7 +544,7 @@ EVENTS
 
 # FORMS FOR STUDENTS
 
-[Insert this link to open] [https://www.niser.ac.in/content/student-forms](https://www.niser.ac.in/content/student-forms)
+<object data="https://www.niser.ac.in/content/student-forms" width="600" height="400"> <embed src="https://www.niser.ac.in/content/student-forms" width="600" height="400"> </embed> </object>
 
 
 # ANTI-RAGGING

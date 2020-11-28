@@ -1,4 +1,4 @@
 ---
 title: "FORMS FOR STUDENTS"
 ---
-[Insert this link to open] [https://www.niser.ac.in/content/student-forms](https://www.niser.ac.in/content/student-forms)
+<object data="https://www.niser.ac.in/content/student-forms" width="600" height="400"> <embed src="https://www.niser.ac.in/content/student-forms" width="600" height="400"> </embed> </object>

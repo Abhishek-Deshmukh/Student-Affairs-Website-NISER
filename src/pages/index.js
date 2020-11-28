@@ -147,7 +147,7 @@ export default function Home() {
     },
     {
       title: "Forms for Students",
-      link: "/forms-for-students/",
+      link: "https://www.niser.ac.in/content/student-forms",
       image: images.forms,
     },
     {

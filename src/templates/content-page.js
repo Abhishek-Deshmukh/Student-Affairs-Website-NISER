@@ -12,7 +12,7 @@ export default function ContentPage({ data }) {
   const headings = order.map(x => {
     return {
       heading: x,
-      path: "/" + x.replaceAll(" ", "-").toLowerCase() + "/",
+      path: "/" + x.replaceAll(" ", "-").replaceAll("’", "").toLowerCase() + "/",
     }
   })
   return (
