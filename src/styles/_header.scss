@@ -1,7 +1,10 @@
 header {
   display: flex;
   width: 100vw;
-  height: 32vh;
+  height: 50vh;
+  @media(min-width: 768px){
+    height: 32vh;
+  }
   font-family: "Proza Libre", sans-serif;
   .center {
     padding: 0% 20%;
