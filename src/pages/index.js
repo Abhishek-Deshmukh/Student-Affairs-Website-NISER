@@ -8,70 +8,74 @@ export default function Home() {
   // const images =
   const images = useStaticQuery(graphql`
     {
-      gallery: file(relativePath: {eq: "assets/icons/gallery.png"}) {
+      gallery: file(relativePath: { eq: "assets/icons/gallery.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      nearby: file(relativePath: {eq: "assets/icons/nearby.png"}) {
+      nearby: file(relativePath: { eq: "assets/icons/nearby.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      contact: file(relativePath: {eq: "assets/icons/contact-us.png"}) {
+      contact: file(relativePath: { eq: "assets/icons/contact-us.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      events: file(relativePath: {eq: "assets/icons/events.png"}) {
+      events: file(relativePath: { eq: "assets/icons/events.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      scholarship: file(relativePath: {eq: "assets/icons/scholarship.png"}) {
+      scholarship: file(relativePath: { eq: "assets/icons/scholarship.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      niser_map: file(relativePath: {eq: "assets/icons/niser-map.png"}) {
+      niser_map: file(relativePath: { eq: "assets/icons/niser-map.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      students_of_niser: file(relativePath: {eq: "assets/icons/students-of-niser.png"}) {
+      students_of_niser: file(
+        relativePath: { eq: "assets/icons/students-of-niser.png" }
+      ) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      clubs: file(relativePath: {eq: "assets/icons/clubs.png"}) {
+      clubs: file(relativePath: { eq: "assets/icons/clubs.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      announcements: file(relativePath: {eq: "assets/icons/announcements.png"}) {
+      announcements: file(
+        relativePath: { eq: "assets/icons/announcements.png" }
+      ) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
           }
         }
       }
-      forms: file(relativePath: {eq: "assets/icons/forms.png"}) {
+      forms: file(relativePath: { eq: "assets/icons/forms.png" }) {
         childImageSharp {
           fixed(width: 140) {
             ...GatsbyImageSharpFixed
@@ -121,7 +125,7 @@ export default function Home() {
     {
       title: "Event (year-wise)",
       link: "/event-(year-wise)/",
-      image: images.events
+      image: images.events,
     },
     {
       title: "Alumni",
@@ -134,12 +138,12 @@ export default function Home() {
     {
       title: "Near by",
       link: "/nearby/",
-      image: images.nearby
+      image: images.nearby,
     },
     {
       title: "Gallery",
       link: "/gallery/",
-      image: images.gallery
+      image: images.gallery,
     },
     {
       title: "Students Achievements",
@@ -178,10 +182,12 @@ export default function Home() {
   ]
   return (
     <Layout>
-      <div className="container-fluid row">
-        {sections.map((section, index) => {
-          return <IndexCard key={index} context={section} index={index} />
-        })}
+      <div className="container-fluid">
+        <div className="row">
+          {sections.map((section, index) => {
+            return <IndexCard key={index} context={section} index={index} />
+          })}
+        </div>
       </div>
     </Layout>
   )
