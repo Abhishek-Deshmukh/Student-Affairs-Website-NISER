@@ -17,7 +17,7 @@ nav {
     list-style-type: none;
     width: 80vw;
     display: flex;
-    padding-left: 50vw;
+    padding-left: auto;
     li {
       margin: auto;
       a {
@@ -95,7 +95,7 @@ nav {
       z-index: 100;
       display: grid;
       text-align: center;
-      padding: 0px;
+      padding: 20vh 0px;
       margin: 0px;
       transition: 0.2s;
     }

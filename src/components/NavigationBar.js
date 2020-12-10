@@ -27,11 +27,23 @@ export default function NavigationBar(props) {
   const links = [
     {
       name: "Home",
-      link: "#",
+      link: "/",
     },
     {
-      name: "About",
-      link: "#",
+      name: "Announcements",
+      link: "/announcements/",
+    },
+    {
+      name: "Clubs",
+      link: "/club-information/",
+    },
+    {
+      name: "Achievements",
+      link: "/students-achievements/",
+    },
+    {
+      name: "Contact Us",
+      link: "/contact-us/",
     },
   ]
   return (
@@ -53,7 +65,7 @@ export default function NavigationBar(props) {
           {links.map(link => {
             return (
               <li  key={link.name}>
-                <Link to="/">{link.name}</Link>
+                <Link to={link.link}>{link.name}</Link>
               </li>
             )
           })}
