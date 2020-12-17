@@ -3,6 +3,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/Layout"
 import IndexCard from "../components/IndexCard"
+import SEO from "../components/SEO"
 
 export default function Home() {
   // const images =
@@ -182,6 +183,7 @@ export default function Home() {
   ]
   return (
     <Layout>
+      <SEO home={true} />
       <div className="container-fluid">
         <div className="row">
           {sections.map((section, index) => {

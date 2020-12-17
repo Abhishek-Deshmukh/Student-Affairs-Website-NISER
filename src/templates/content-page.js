@@ -2,6 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 import order from "../contents/order.json"
+import SEO from "../components/SEO"
 
 export default function ContentPage({ data }) {
   var post = data.markdownRemark
@@ -19,6 +20,7 @@ export default function ContentPage({ data }) {
   })
   return (
     <Layout>
+      <SEO title={post.frontmatter.title} />
       <div className="article-container">
         <div className="container-fluid">
           <div className="row">

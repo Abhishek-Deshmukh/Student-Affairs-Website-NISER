@@ -1,7 +1,7 @@
 module.exports = {
 
   siteMetadata: {
-    title: `Student Affairs Website NISER`,
+    title: `NISER Student Affairs`,
     description: `This is the best student affairs website of any college!`,
   },
 
@@ -32,6 +32,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-remark`,
+    `gatsby-plugin-react-helmet`,
   ],
 
 }
