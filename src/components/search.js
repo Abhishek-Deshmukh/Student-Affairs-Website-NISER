@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import SearchResultCard from "../components/SearchResultCard"
 import Fuse from "fuse.js"
@@ -21,19 +21,27 @@ export default function Search(props) {
         }
       }
     }
-  `).allMarkdownRemark.edges
+  `).allMarkdownRemark.edges.filter(
+    data_point => data_point.node.frontmatter.title !== ""
+  )
   const fuse = new Fuse(data, {
     isCaseSensitive: false,
     includeMatches: true,
     shouldSort: true,
-    findAllMatches: true,
+    findAllMatches: false,
     ignoreLocation: true,
     includeScore: false,
+    threshold: 0.3,
     keys: ["node.frontmatter.title", "node.html"],
   })
   const outputs = fuse.search("'" + props.query)
   return (
     <div className="container">
+      {
+        // {data.map(function (data_point, index) {
+        //   return <pre>{JSON.stringify(data_point)}</pre>
+        // })}
+      }
       {outputs.map(function (output, index) {
         return (
           <SearchResultCard output={output.item.node} index={output.refIndex} />
