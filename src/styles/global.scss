@@ -12,6 +12,7 @@ $secondary_text_color: #ffffff;
 
 html,
 body {
+  min-height: 100vh;
   padding: 0px;
   margin: 0px;
   width: 100vw;
@@ -34,3 +35,4 @@ body {
 @import "_nav";
 @import "_header";
 @import "_index_card";
+@import "_search_page";

@@ -1,11 +1,11 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
-import { useLocation } from "@reach/router"
+// import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby"
 
 const SEO = ({ title, description, home }) => {
-  const { pathname } = useLocation()
+  // const { pathname } = useLocation()
 
   const data = useStaticQuery(graphql`
     query {

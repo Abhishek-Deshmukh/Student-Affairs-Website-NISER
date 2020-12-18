@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Fuse from "fuse.js"
 import SearchResultCard from "../components/SearchResultCard"
@@ -27,18 +27,24 @@ export default function About() {
     includeScore: false,
     keys: ["node.frontmatter.title", "node.html"],
   })
-  // TODO: get this (query) from input field
-  //     - Add a text input
-  //     - hook or something to make it work realtime, it will be fast enough because of the small amount of data
-  const query = "student"
+  const [query, setQuery] = useState("")
+  const handleQueryChange = e => {
+    setQuery(e.currentTarget.value)
+  }
   const outputs = fuse.search(query)
   return (
     <Layout>
       <div className="container">
+        <input
+          type="text"
+          placeholder="Search"
+          className="search-input-box"
+          onChange={handleQueryChange}
+        />
         {outputs.map(function (output, index) {
           return (
             <div>
-            <SearchResultCard output={output.item.node} />
+              <SearchResultCard output={output.item.node} />
             </div>
           )
         })}
