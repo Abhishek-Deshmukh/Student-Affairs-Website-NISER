@@ -1,8 +1,9 @@
-import React from "react"
+import React, { useState } from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 import order from "../contents/order.json"
 import SEO from "../components/SEO"
+import Search from "../components/search"
 
 export default function ContentPage({ data }) {
   var post = data.markdownRemark
@@ -18,14 +19,27 @@ export default function ContentPage({ data }) {
         "/" + x.replaceAll(" ", "-").replaceAll("’", "").toLowerCase() + "/",
     }
   })
+  const [query, setQuery] = useState("")
+  const handleQueryChange = e => {
+    setQuery(e.target.value)
+  }
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
+      <input
+        type="text"
+        placeholder="Search"
+        className="search-input-box"
+        onChange={handleQueryChange}
+      />
+    {
+      query.length > 0 ?
+      <Search query={query} />
+      :
       <div className="article-container">
         <div className="container-fluid">
           <div className="row">
             <aside className="col-xl-3 col-lg-4 col-md-4 col-sm-12">
-              <input type="text" placeholder="Search" />
               <ul>
                 {headings.map(heading => {
                   if (
@@ -49,6 +63,7 @@ export default function ContentPage({ data }) {
           </div>
         </div>
       </div>
+    }
     </Layout>
   )
 }

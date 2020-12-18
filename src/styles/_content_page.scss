@@ -1,4 +1,13 @@
 // article page
+.search-input-box {
+  background: $section_bg;
+  padding: 7px;
+  border: none;
+  width: 100%;
+  height: 47px;
+  text-align: center;
+  margin-bottom: 1px;
+}
 .article-container {
   position: relative;
   background: $section_bg;
@@ -9,13 +18,6 @@
   aside {
     background: $section_bg2;
     padding: 20px;
-    input {
-      background: $section_bg;
-      width: 100%;
-      border: none;
-      padding: 7px;
-      text-align: center;
-    }
     ul {
       list-style-type: none;
       padding-left: 10px;
@@ -44,3 +46,4 @@
     }
   }
 }
+@import "_search_card";
