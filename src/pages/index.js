@@ -175,11 +175,11 @@ export default function Home() {
       title: "Discipline",
       link: "/discipline/",
     },
-    {
-      title: "Contact Us",
-      link: "/contact-us/",
-      image: images.contact,
-    },
+    // {
+    //   title: "Contact Us",
+    //   link: "/contact-us/",
+    //   image: images.contact,
+    // },
   ]
   return (
     <Layout>
