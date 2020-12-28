@@ -1,5 +1,4 @@
 module.exports = {
-
   siteMetadata: {
     title: `NISER Student Affairs`,
     description: `This is the best student affairs website of any college!`,
@@ -14,7 +13,22 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              // It's important to specify the maxWidth (in pixels) of
+              // the content container as this plugin uses this as the
+              // base for generating different widths of each image.
+              maxWidth: 590,
+            },
+          },
+        ],
+      },
+    },
     // The path to src folder
     {
       resolve: `gatsby-source-filesystem`,
@@ -31,8 +45,15 @@ module.exports = {
         path: `${__dirname}/src/contents/`,
       },
     },
+    // This is for the content pages
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/contents/images/`,
+      },
+    },
     `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
   ],
-
 }

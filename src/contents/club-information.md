@@ -1,7 +1,7 @@
 ---
 title: "CLUB INFORMATION"
 ---
-NISER has various Clubs aimed at promoting/organising various cultural, sports and other student activities. The various clubs of NISER are:
+NISER has various clubs aimed at promoting/organising various cultural, sports and other student activities. The various clubs of NISER are:
 
 
 ## Arts Club
@@ -10,7 +10,9 @@ A place where one can express themselves through the language of art.
 
 **Contact**:
 
-Irene Aniyan Puthethu (6282722754)
+Prajwal Roopnath
+
+(8431619842)
 
 [arc@niser.ac.in](mailto:arc@niser.ac.in)
 
@@ -21,18 +23,18 @@ The club takes part in various activities and experiments that are related to As
 
 **Contact**:
 
-Karan (9818703645)
+Anshuman (9439975152)
 
 astroclub@niser.ac.in
 
 
 ## Chess Club
 
-We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for the IISM games each year.
+We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for IISM’s Chess games each year.
 
-**Contact**:
+**Contact:**
 
-Abubakr Mohammad Jamal (7358786560)
+Amareshwar (6370666477)
 
 chess.club@niser.ac.in
 
@@ -54,7 +56,7 @@ Reconnect with your senses and let your body express, communicate, and imbibe wi
 
 **Contact**:
 
-H.Subham Kumar (7093375381)
+Vaishali (7004806893)
 
 dance@niser.ac.in
 
@@ -65,9 +67,9 @@ A club dedicated to promoting, conducting, and nurturing Drama and Music culture
 
 The Club conducts inter and intra college events, moderates the music room and is the coordinator of SPICMACAY, NISER chapter.
 
-**Contact**:
+Contact:
 
-Spandan Anupam (9658582393)
+Yashaswini (9406583817)
 
 dmc@niser.ac.in
 
@@ -76,24 +78,20 @@ dmc@niser.ac.in
 
 Film Club of NISER is the club for the movie lovers of NISER. Started in 2013 by a few film enthusiasts, the club has ever since promoted the culture of film appreciation and film making amongst the student community of NISER.
 
-**Contact**:
+**Contact:**
 
-Ashish V (9495034462)
-
-Debaiudh Das (8420869435)
+Suraj (9078675657)
 
 filmclub@niser.ac.in
 
 
 ## Literary Club
 
-Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. _The Polyglots_ initiative provides a platform to learn different regional and international languages. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus.
+Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus. Additionally the club overlooks _The Polyglots_, an initiative to provide a platform to learn different regional and international languages.
 
-**Contact**:
+**Contact:**
 
-Varun Govind B (8917284120)
-
-Salil Javed V P (8848034504)
+Vinayak (7073534191)
 
 litc@niser.ac.in
 
@@ -102,9 +100,11 @@ litc@niser.ac.in
 
 MathematiX club hosts various activities of interest for math enthusiasts of NISER, with undergraduate students being the target audience. Since its inception in 2009, its prime motive has been to introduce students to topics not generally encountered in the undergraduate curriculum and provide a platform to students where mathematical ideas can be discussed and debated.
 
-**Contact**:
+**Contact:**
 
-Prem Nigam Kar (8466872125)
+Archisman Bhattacharjee
+
+(7319151917)
 
 mathematicx@niser.ac.in
 
@@ -124,9 +124,9 @@ oorna_natureclub@niser.ac.in
 
 The photography club conducts photography competitions round semester with themes and agendas, we also cover nearly event happening in NISER
 
-**Contact**:
+**Contact:**
 
-Rahul Arora  (9911976148)
+Debashish Paik (9078450563)
 
 shots@niser.ac.in
 
@@ -144,11 +144,13 @@ quizone@niser.ac.in
 
 ## Robo Tech Club
 
-The club for the geeky one’s :) An inclusive community of “HUMANS”(mostly) that does all kinds of robotics and technology-related stuff. Here it’s all about DIY.
+"This club was set up as a means to serve the hobbies of a group of robotics enthusiasts, the club has grown into a much bigger endeavour, with more than 70 club members(2019). We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality.
 
-**Contact**:
+As a community we empower each other with skills and knowledge about present day technology such as Development Board Programming, Image Processing, IOT  etc. We are currently working on a one year schedule for all our club members with the hopes of enabling everyone with the required knowledge of using technology in the most efficient way for functioning in various feats of our  academic and professional career."
 
-Manabputra (9153156311)
+**Contact:**
+
+Jyothish (7597204329)
 
 rtc@niser.ac.in
 
@@ -157,6 +159,8 @@ rtc@niser.ac.in
 
 **Contact**:
 
+Manabputra (9153156311)
+
 sac@niser.ac.in
 
 
@@ -164,30 +168,32 @@ sac@niser.ac.in
 
 Sports club administers all the sports activities at NISER. It represents the institute at various sports events.
 
-**Contact**:
+**Contact:**
 
-Aranya Giri (9430398221)
+Balabhadra Pradhan
+
+(8114794378)
 
 sportsclub@niser.ac.in
 
 
 ## Yoga Club
 
-A club which aims to keep NISER minds and body healthy.
+A club which aims to keep NISER minds and body healthy through yoga.
 
-**Contact**:
+**Contact:**
 
-Nikhil Kumar (8457029451)
+Shyamali Naikwade (9405650548)
 
 yogaclub@niser.ac.in
 
 
 ## Zaariya
 
-Zaariya was built on the shoulders and combined wisdom of many. When it all started we were yet a small community of students and faculty but within this group was a need, the need to go out and do something for the community at large. The motive of Zaariya is the intertwining of lives, learning, and growing together with the society.
+Zaariya was built on the shoulders and combined wisdom of many. When it all started we were yet a small community of students and faculty but within this group was a need, the need to go out and do something for the community at large. The motive of Zaariya is the intertwining of lives, learning, and growing together with society.
 
 **Contact**:
 
-Shivam Mahapatra (8984288527)
+Prem Nigam Kar (8466872125)
 
 zaariya@niser.ac.in

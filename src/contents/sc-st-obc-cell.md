@@ -1,7 +1,7 @@
 ---
 title: "SC-ST-OBC CELL"
 ---
-In pursuance of the regulation of the University Grants Commission, New Delhi (UGC) to install a system to Lodge Complaints against the instances of Caste Based Discrimination, an online portal has been developed for the use of students of the Institute. They may register their grievances and concerns regarding SC/ST/OBC discrimination and any kind of caste-related injustice online, so as to avail proper solutions for the inconveniences they had experienced.
+In pursuance of the regulation of the University Grants Commission, New Delhi (UGC) to install a system to Lodge Complaints against the instances of Caste Based Discrimination, an online portal has been developed for the use of students of the institute. They may register their grievances and concerns regarding SC/ST/OBC discrimination and any kind of caste-related injustice online, so as to avail proper solutions for the inconveniences they had experienced.
 
 
 

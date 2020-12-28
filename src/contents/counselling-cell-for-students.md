@@ -24,16 +24,17 @@ title: "COUNSELLING CELL FOR STUDENTS"
 *   [Got anxiety?](https://adaa.org/sites/default/files/GotAnxiety-2014.pdf) For college students from ADAA
 3. Within NISER, students can approach any members of the counseling cell:
 *   Dr. Rooplekha Khuntia, Convener
-*   Dr. Pranay Kumar Swain, Member
-*   Dr. Kartik Senapati, Member
-*   Dr. Harapriya Mohapatra, Member
-*   Dr. Amarendra Das, Member
-*   Dr. Sanjay Kumar Swain, Member
+*   Dr. Renjith Mathew, Member
+*   Dr. Kartikeswar Senapati, Member
+*   Dr. Sayantani Bhattacharya, Member
+*   Dr. Arindam Ghosh, Member
 *   Dr. Deepak Kumar Dalai, Member
 *   Dr. Debasmita P. Alone, Member
-*   Mr. Salil Javed, Student, Member
-*   Ms. Medha Naik, Student, Member
-*   Ms. Subhashree Pani, Student, Member
-*   Mr. Rahulraj Mishra, Student, Member
+*   Mr. Anuj Verma,Student Member
+*   Ms. N K U Sarada Anoushka, Student Member
+*   Mr. Suritra Bandyopadhyay, Student Member
+*   Ms. Priya Sahu, Student Member
+*   Ms. Manali Banarjee, Student Member
+*   Ms. Bratati mukherjee, Student Member
 
-        Students in the circular have already graduated
+[Click here to view the Circular](https://www.niser.ac.in/docs/2020/Students_Counselling_Cell_2020.pdf)

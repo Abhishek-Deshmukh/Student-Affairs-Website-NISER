@@ -3,7 +3,7 @@ title: "CAMPUS LIFE"
 ---
 ## Student Life
 
-NISER, located at the suburb of Bhubaneswar, is surrounded by greenery and nature. With the verdure giving the much needed harmony and calmness, the lives of the students here is an ideal balance of efforts and enjoyment. Major tourist spots are within 50 km range of the institute and the accessibility to the capital city through the university bus service gives the students the options to explore a myriad of ancient architectures, cultural sites, recreational activities. The students joining the institute can expect themselves to work in a positive and rational environment. The freshers/new members need not worry about how to fit in the scene. There is a strong inter-batch relationship with the students coming to help each other. Likewise, the teacher-student relationship at NISER is in fine feather. The students are always welcomed to discuss the doubts and to ask guidance related to academic matters with professors. The workload at NISER is manageable and gives the students good enough leisure time to hone their extra curricular skills and to let themselves participate in sports and fitness.
+NISER, located at the suburb of Bhubaneswar, is surrounded by greenery and nature. With the verdure giving the much needed harmony and calmness, the lives of the students here is an ideal balance of efforts and enjoyment. Major tourist spots are within 50 km range of the institute and the accessibility to the capital city through the university bus service gives the students the options to explore a myriad of ancient architectures, cultural sites, recreational activities. The students joining the institute can expect themselves to work in a positive and rational environment. The freshers/new members need not worry about how to fit in the scene. There is a strong inter-batch relationship with the students coming to help each other. Likewise, the teacher-student relationship at NISER is in fine weather. The students are always welcomed to discuss the doubts and to ask guidance related to academic matters with professors. The workload at NISER is manageable and gives the students good enough leisure time to hone their extra curricular skills and to let themselves participate in sports and fitness.
 
 
 ## Hostels
@@ -20,29 +20,35 @@ The catering services are available at 4 hostels in NISER. The food can either b
 
 ## Services in NISER
 
-NISER has kept in mind the services a person can need during their stay in the campus and has made available a scheduled transportation system, a shopping complex, banks and post-office within the premises. NISER has its own bus service which shuttles between NISER Campus and Bhubaneswar. The shopping complex provides space for stationary shops, general utility store, fast food corners. Two bank branches, namely State Bank of India (SBI) and Indian Overseas Bank (IOB), are located within the premises of NISER. One branch of Indian Post Office is located inside the Campus too.
+NISER has kept in mind the services a person can need during their stay in the campus and has made available a scheduled transportation system, a shopping complex, banks and post-office within the premises. NISER has its own bus service which shuttles between NISER Campus and Bhubaneswar. The shopping complex provides space for stationary shops, general utility stores and fast food corners. Two bank branches, namely State Bank of India (SBI) and Indian Overseas Bank (IOB), are located within the premises of NISER. One branch of Indian Post Office is located inside the Campus too.
 
 *health center*
 
 
-## Academia
+## Academics
 
-NISER offers positions for students in Integrated M.Sc. Programme, Integrated Ph.D. Programme and Ph.D. Program. NISER currently has 7 schools, namely, Biological Sciences, Chemical Sciences, Computer Sciences, Earth and Planetary Sciences, Mathematical Sciences, Physical Sciences and Humanities. Students are highly encouraged and helped to improve their research skills, in any of the schools. NISER also gives a great opportunity to students for Interdisciplinary courses and projects. NISER aims to equip students with a solid foundation and skills to tackle important research problems.
+NISER offers students the Integrated M.Sc. Programme, Integrated Ph.D. Programme and the Ph.D. Program. NISER currently has 7 schools, namely, Biological Sciences, Chemical Sciences, Computer Sciences, Earth and Planetary Sciences, Mathematical Sciences, Physical Sciences and Humanities. The structure and facilities of all schools are aimed to make available to students the best resources that enable them to pursue research and hone their skills in their preferred subject. Students are encouraged to take electives of different schools so as to foster a respect for interdisciplinary research. NISER offers a solid foundation for students to begin their careers in science.
 
 
 ## Discipline
 
-The students of NISER are expected to follow a strict code of conduct. They are supposed to act in a manner which shows their belonging to an institute of national importance. Their behaviour or any activity should not bring down the prestige of the Institute. Any action which violates the rules ensuring the safety and freedom of all the other members may be considered as violation of the code of conduct and may invite a disciplinary action against the doer. The rules laid down by the authorities for maintaining the decorum of the institute should be given utmost importance. For more details on such rules and regulations can be read in section 12 of [the attached pdf.](https://www.niser.ac.in/docs/2012/UGManual(Latest).pdf)
+The students of NISER are expected to follow a strict code of conduct and act in a manner befitting the institute. Any activity or behaviour which violates the rules ensuring the safety and freedom of all the other members may be considered as violation of the code of conduct and may invite a disciplinary action against the doer, ranging from reprimand to suspension. The rules laid down by the authorities for maintaining the decorum of the institute should be given utmost importance. For more details on such rules and regulations can be read in section 12 of [the attached pdf.](https://www.niser.ac.in/docs/2012/UGManual(Latest).pdf)
 
 
 ## Sports
 
-NISER has been active in Sports and Fitness. We have an instructor to help with the training and for increasing the participation of students in the sports activities. NISER has a Sports club which has sub groups in it where all the games of both men and women are given equal importance. The club has weekly practice sessions with the instructor so that the students can hone their skills in the favored sport. Inter batch tournaments are held regularly to boost healthy competition among the players and help them prepare for the Inter-College Tournaments. [Aranya Giri, put your input here]
+NISER has adequate sports and fitness facilities. For now, available sports are Athletics, Badminton, Basketball, Carrom, Chess, Cricket, Football, Lawn tennis, Kabaddi, Kho-Kho, Table tennis, Volleyball. Each sport has a well maintained separate playing area.
+
+The fitness of each sportsperson is overlooked by Physical Education Trainer (PET) through regular Gym and Yoga sessions. NISER Sports Club provides the necessary administrative look for each sport. The club comprises the captains from each sport be it mens or womens, and the general secretary of sports affairs. They overlook all the sports activities and aim to increase students participation in sports by arranging various tournaments every semester. Captains regulate the  weekly practice session to hone the skills of newcomers as well the veterans.
+
+Sports in NISER is not just meant to play for your passion towards the game but it also became the source of bondness each person gets with the other NISER members. Like, one of the most anticipated Intra-NISER sports events is the Inter-batch tournaments held every semester. Not only students but the faculties and staff also participate with their team for a healthy competition. This tournament has a tradition that newcomers will do all the necessary arrangements. Through this way they are welcomed to the new campus and to the people with whom they will spend their small but memorable part of college life.
+
+Another major sporting event in which the enthusiastic sports person waits for is the IISM (Inter-IISER Sports Meet). This is an annual inter college sports between IISERs, IISc, NISER and CBS and it usually happens for a week during the winter holidays. NISER hosted the 2018 edition of IISM and overall stood in 4th position. Apart from these each team participates in various sports fest conducted by neary institutes like IIT-Bhubaneswar, AIIMS-Bhubaneswar, NLU-Cuttack, Centurion University, etc.
 
 
 ## Culture
 
-The cultural fests at NISER are conducted periodically, wherein, intra college and intercollege fests are organized along with the festival celebrations and gatherings. NISER hosts Intra-college fests where members from nearby? colleges are invited to participate and compete in various events. Inter-college fests are conducted likewise. The major festivals and days of National Importance are also celebrated at the community centre, amphitheater, and SAC to enjoy the festivities together.
+The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together
 
 
 ## Others

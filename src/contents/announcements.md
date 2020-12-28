@@ -1,4 +1,4 @@
 ---
 title: "ANNOUNCEMENTS"
 ---
-[Blank for now]
+[No Announcements yet]

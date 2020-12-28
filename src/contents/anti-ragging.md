@@ -1,13 +1,13 @@
 ---
 title: "ANTI-RAGGING"
 ---
-1.
-What Constitutes Ragging:
+## What Constitutes Ragging:
+
 a) Any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, treating, or handling with rudeness a fresher or any other student.
 
 b) Indulging in rowdy or indisciplined activities by any student or students which causes or is likely to cause annoyance, hardship, physical or psychological harm or to raise fear or apprehension thereof in any fresher or any other student.
 
-c) Asking any student to do any act which such student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of such fresher or any other student.
+c) Asking any student to do any act which such a student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of such fresher or any other student.
 
 d) Any act by a senior student that prevents, disrupts or disturbs the regular academic activity of any other student or a fresher.
 
@@ -24,10 +24,9 @@ i) Any act that affects the mental health and self-confidence of a fresher or an
 j) Any act of physical or mental abuse (including bullying and exclusion) targeted at another student (fresher or otherwise) on the ground of color, race, religion, caste, ethnicity, gender (including transgender), sexual orientation, appearance, nationality, regional origins, linguistic identity, place of birth, place of residence or economic background.
 
 
+## Where Can I Get Help?
 
-2.
-Where Can I get Help?
-a)You may contact NISER administration to report your complaints against Ragging. The Anti-Ragging Squad of NISER is aimed at making NISER a ragging-free-Campus. Feel free to contact any member of this committee for complaints related to Ragging. List of members of Anti-Ragging Squad which examines the issues related to Ragging in NISER are:
+a)You may contact the NISER administration to report your complaints against Ragging. The Anti-Ragging Squad of NISER is aimed at making NISER a ragging-free-Campus. Feel free to contact any member of this committee for complaints related to Ragging. List of members of Anti-Ragging Squad which examines the issues related to Ragging in NISER are:
 
 
 
