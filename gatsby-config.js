@@ -20,10 +20,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              // It's important to specify the maxWidth (in pixels) of
-              // the content container as this plugin uses this as the
-              // base for generating different widths of each image.
-              maxWidth: 590,
+              maxWidth: 600,
             },
           },
         ],
@@ -45,7 +42,6 @@ module.exports = {
         path: `${__dirname}/src/contents/`,
       },
     },
-    // This is for the content pages
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -53,7 +49,6 @@ module.exports = {
         path: `${__dirname}/src/contents/images/`,
       },
     },
-    `gatsby-transformer-remark`,
     `gatsby-plugin-react-helmet`,
   ],
 }
