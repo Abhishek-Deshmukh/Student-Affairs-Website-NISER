@@ -33,6 +33,7 @@
     }
   }
   article {
+    overflow-X: auto;
     padding-left: 30px;
     h1,
     h2 {
@@ -45,5 +46,13 @@
       color: $primary_text_color;
     }
   }
+}
+table {
+  width: 100%;
+}
+table, td {
+  border: 1px solid #333;
+  border-collapse: collapse;
+  text-align: center;
 }
 @import "_search_card";
