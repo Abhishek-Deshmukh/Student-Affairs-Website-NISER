@@ -10,11 +10,22 @@ fs.readdir(output_directory, (err, files) => {
   if (err) throw err
 
   for (const file of files) {
+    if (file === "images"){continue;} // leaving the images folder
     fs.unlink(path.join(output_directory, file), err => {
       if (err) throw err
     })
   }
 })
+
+function remove_errors(section) {
+  var clean_section = "";
+  for (const line of section.split("\n")){
+    if (line.includes(">>>>>>")){continue;} // that is the error escape sequence (source: the markdown plug-in docs)
+    console.log(line)
+    clean_section += line + "\n"
+  }
+  return clean_section
+}
 
 fs.readFile(input_file, (error, txtString) => {
   if (error) {
@@ -29,7 +40,7 @@ fs.readFile(input_file, (error, txtString) => {
     .trim()
 
   // splitting
-  sections = data.split("\n# ")
+  sections = data.split("\n# ").map(section => remove_errors(section))
 
   // headings
   var headings = []
