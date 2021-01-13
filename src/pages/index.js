@@ -4,6 +4,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/Layout"
 import IndexCard from "../components/IndexCard"
 import SEO from "../components/SEO"
+import Carousel from "../components/Carousel"
 
 export default function Home() {
   // const images =
@@ -137,11 +138,6 @@ export default function Home() {
       link: "/campus-life/",
     },
     {
-      title: "Near by",
-      link: "/nearby/",
-      image: images.nearby,
-    },
-    {
       title: "Gallery",
       link: "/gallery/",
       image: images.gallery,
@@ -175,6 +171,11 @@ export default function Home() {
       title: "Discipline",
       link: "/discipline/",
     },
+    {
+      title: "Near by",
+      link: "/nearby/",
+      image: images.nearby,
+    },
     // {
     //   title: "Contact Us",
     //   link: "/contact-us/",
@@ -184,6 +185,7 @@ export default function Home() {
   return (
     <Layout>
       <SEO home={true} />
+      <Carousel />
       <div className="container-fluid">
         <div className="row">
           {sections.map((section, index) => {

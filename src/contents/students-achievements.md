@@ -8,7 +8,7 @@ title: "STUDENTS ACHIEVEMENTS"
 
 **Special Mentions/ Featured players**
 
-Aranya Giri- with 1 gold, 1 silver, 1bronze in Shot put and 1 gold, 1 silver in Discus Throw
+Aranya Giri- with 1 gold + 1 silver + 1bronze in Shot put; and 1 gold + 1 silver in Discus Throw
 
 Dipanshu Kumar- with 1 silver, 2 bronze in discus throw
 

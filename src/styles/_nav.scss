@@ -1,5 +1,5 @@
 nav {
-  padding: 20px 0px 0px 20px;
+  padding: 20px 0px 0px 60px;
   z-index: 1;
   width: 100vw;
   display: flex;
@@ -9,6 +9,21 @@ nav {
     filter: invert(100%);
     // margin: auto;
     z-index: 101;
+  }
+  .title {
+    padding-left: 20px;
+    min-width: 370px;
+    h1 {
+      font-size: 44px;
+      line-height: 0.5;
+      transform: translateY(40%);
+    }
+    p {
+      line-height: 1.1;
+      font-size: 16px;
+      letter-spacing: 0.01em;
+      color: #333;
+    }
   }
   ul {
     font-family: "Proza Libre", sans-serif;
@@ -29,7 +44,11 @@ nav {
   input {
     display: none;
   }
-  @media (max-width: 767px) {
+  @media (max-width: 1256px) {
+    padding: 20px 0px 0px 20px;
+    .title {
+      text-align: center;
+    }
     .ham {
       display: block;
       position: relative;

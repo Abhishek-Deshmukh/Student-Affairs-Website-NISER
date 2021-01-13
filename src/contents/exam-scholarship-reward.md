@@ -22,9 +22,7 @@ Source: [https://nius.hbcse.tifr.res.in/](https://nius.hbcse.tifr.res.in/)
 
 First, second and Third Year Int. M.Sc. students are eligible to participate in this competition.
 
-Source: [http://www.madhavacompetition.com/](http://www.madhavacompetition.com/)
-
-             [http://www.hbcse.tifr.res.in/madhava](http://www.hbcse.tifr.res.in/madhava)
+Source: [http://www.madhavacompetition.com/](http://www.madhavacompetition.com/), [http://www.hbcse.tifr.res.in/madhava](http://www.hbcse.tifr.res.in/madhava)
 
 
 ## Aryabhata Contest:

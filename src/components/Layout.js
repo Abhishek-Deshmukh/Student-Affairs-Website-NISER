@@ -28,12 +28,6 @@ export default function Layout(props) {
       <div className="background-logo">
         <Img fixed={data.file.childImageSharp.fixed} alt="NISER logo" />
       </div>
-      <header>
-        <div className="center">
-          <h1>National Institute of Science Education and Research</h1>
-          <h2>Student Affairs</h2>
-        </div>
-      </header>
       {props.children}
       <footer>
         <div className="container-fluid">
@@ -44,9 +38,6 @@ export default function Layout(props) {
                 dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
               />
               <p>© 2020 National Institute of Science Education and Research</p>
-            </div>
-            <div className="col-lg-6 col-md-6 col-sm-12">
-              Other information
             </div>
           </div>
         </div>

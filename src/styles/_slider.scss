@@ -1,0 +1,11 @@
+.slider-container {
+  width: 100vw;
+  display: flex;
+  .slider {
+    margin: auto;
+    width: 70vw;
+    @media (max-width: 900px) {
+      width: 100vw;
+    }
+  }
+}

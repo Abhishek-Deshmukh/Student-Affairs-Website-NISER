@@ -22,8 +22,6 @@ The catering services are available at 4 hostels in NISER. The food can either b
 
 NISER has kept in mind the services a person can need during their stay in the campus and has made available a scheduled transportation system, a shopping complex, banks and post-office within the premises. NISER has its own bus service which shuttles between NISER Campus and Bhubaneswar. The shopping complex provides space for stationary shops, general utility stores and fast food corners. Two bank branches, namely State Bank of India (SBI) and Indian Overseas Bank (IOB), are located within the premises of NISER. One branch of Indian Post Office is located inside the Campus too.
 
-*health center*
-
 
 ## Academics
 
@@ -48,9 +46,4 @@ Another major sporting event in which the enthusiastic sports person waits for i
 
 ## Culture
 
-The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together
-
-
-## Others
-
-[Blank for now]
+The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together.

@@ -35,6 +35,6 @@ The members of Gymkhana are elected annually by an election conducted fairly und
 
 Email Id: studentsgymkhana@niser.ac.in
 
-Students Gymkhana Office is in SAC room no. [XYZ].
+Students Gymkhana Office is in SAC room no. 1
 
-More details about the Students Gymkhana can be found here [pdf attached(Constitution)].
+More details about the Students Gymkhana can be found here [[pdf attached(Constitution)]](https://drive.google.com/file/d/16T4KstMaYQt13YEscuEmjpZ12LotAxZX/view?usp=drivesdk).

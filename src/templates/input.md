@@ -3,7 +3,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 9.07 seconds.
+Conversion time: 32.441 seconds.
 
 
 Using this Markdown file:
@@ -16,7 +16,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Tue Dec 29 2020 23:23:54 GMT-0800 (PST)
+* Sat Jan 09 2021 11:14:11 GMT-0800 (PST)
 * Source doc: Student Affairs Content - dev
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
@@ -149,17 +149,18 @@ Apart from classes, labs, libraries in all the schools of NISER there are variou
 2. **Cricket Ground**: behind Yamuna Hostel (SOH5)
 3. **Football ground**: between faculty/staff residence and SAC
 4. **Student Activity Center**: (SAC) between Brahmaputra Hostel (DOH3) and Rushikulya Hostel (SOH2)
-5. **TT table**: in SAC room no. [XYZ] and the common room of all hostels.
-6. **Volleyball Court**: between Krishna Hostel (DOH1) and Mahanadi Hostel (SOH1), behind Kaveri Hostel (SOH4)
-7. **Kabaddi Ground**: in front of Daya Hostel (SOH3)
-8. **Kho-Kho Ground**: in front of Daya Hostel (SOH3)
-9. **Yoga Room**: SAC room no.[XYZ]
-10.  **Gym**: SAC room no. [XYZ]
-11.  **Music Room**: SAC room no. [XYZ]
-12.  **Dance Room**: SAC room no. [XYZ]
-13.  **Basketball Court (Temporary)**: In SAC
-14.  **Open Auditorium**: In front of Library Building
-15.  **Chess and Carrom**: In the common room of all hostels
+5. **Volleyball Court**: between Krishna Hostel (DOH1) and Mahanadi Hostel (SOH1), behind Kaveri Hostel (SOH4)
+6. **Kabaddi Ground**: in front of Daya Hostel (SOH3)
+7. **Kho-Kho Ground**: in front of Daya Hostel (SOH3)
+8. **Sports Room:** SAC room no. 1
+9. **Gym Cardio**: SAC room no. 2
+10. **Gym Strength Training**: SAC room no. 3
+11. **Chess/Carrom/TT**: SAC room no. 4
+12. ** Dance/Literary/Art Room**: SAC room no. 5
+13.  **Music Room**: SAC room no. 6
+14. ** Yoga Room**: SAC room no. 7
+15.  **Basketball Court (Temporary)**: In SAC
+16.  **Open Auditorium**: In front of Library Building
 
 
 # STUDENTS’ GYMKHANA
@@ -198,9 +199,9 @@ The members of Gymkhana are elected annually by an election conducted fairly und
 
 Email Id: studentsgymkhana@niser.ac.in
 
-Students Gymkhana Office is in SAC room no. [XYZ].
+Students Gymkhana Office is in SAC room no. 1
 
-More details about the Students Gymkhana can be found here [pdf attached(Constitution)].
+More details about the Students Gymkhana can be found here [[pdf attached(Constitution)]](https://drive.google.com/file/d/16T4KstMaYQt13YEscuEmjpZ12LotAxZX/view?usp=drivesdk).
 
 
 # EXAM-SCHOLARSHIP-REWARD
@@ -226,9 +227,7 @@ Source: [https://nius.hbcse.tifr.res.in/](https://nius.hbcse.tifr.res.in/)
 
 First, second and Third Year Int. M.Sc. students are eligible to participate in this competition.
 
-Source: [http://www.madhavacompetition.com/](http://www.madhavacompetition.com/)
-
-             [http://www.hbcse.tifr.res.in/madhava](http://www.hbcse.tifr.res.in/madhava)
+Source: [http://www.madhavacompetition.com/](http://www.madhavacompetition.com/), [http://www.hbcse.tifr.res.in/madhava](http://www.hbcse.tifr.res.in/madhava)
 
 
 ## Aryabhata Contest:
@@ -296,57 +295,44 @@ NISER has various clubs aimed at promoting/organising various cultural, sports a
 
 A place where one can express themselves through the language of art.
 
-**Contact**:
-
-Prajwal Roopnath
-
-(8431619842)
-
-[arc@niser.ac.in](mailto:arc@niser.ac.in)
+**Contact**: Prajwal Roopnath (8431619842), [arc@niser.ac.in](mailto:arc@niser.ac.in)
 
 
 ## Astronomy Club
 
 The club takes part in various activities and experiments that are related to Astronomy and associated branches. Our primary goal is to popularize and generate curiosity on the subject of Astronomy and to inculcate scientific temperament amongst the students and staff at NISER.
 
-**Contact**:
+**Contact**: Anshuman (9439975152), [astroclub@niser.ac.in](mailto:astroclub@niser.ac.in)
 
-Anshuman (9439975152)
 
-astroclub@niser.ac.in
+## Brain Matters
+
+Our club hosts an interdisciplinary platform where we get together to discuss, decipher and decode how the brain and its neuronal networks work together to produce action and thoughts, and how much the brain matters in everyday life.
+
+**Contact**: Abhinav (9417880864), brainmatters@niser.ac.in
 
 
 ## Chess Club
 
 We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for IISM’s Chess games each year.
 
-**Contact:**
-
-Amareshwar (6370666477)
-
-chess.club@niser.ac.in
+**Contact: **Amareshwar (6370666477), chess.club@niser.ac.in
 
 
 ## Coding Club
 
 We aim to cultivate and promote a coding culture among people in NISER. Club activities range from student seminars on (theoretical) computer science topics to recreational programming contests.
 
-**Contact**:
-
-Ayush Singh (8745928569)
-
-code@niser.ac.in
+**Contact**: Ayush Singh (8745928569), code@niser.ac.in
 
 
 ## Dance Club
 
-Reconnect with your senses and let your body express, communicate, and imbibe with your moves.
+When in doubt, DANCE it out.
 
-**Contact**:
+Dance club provides a small stress free niche where we can meet, create, teach and grow together without setting boundaries. We encourage participation in intra and inter college events to gain exposure and experience.
 
-Vaishali (7004806893)
-
-dance@niser.ac.in
+**Contact**: Vaishali (7004806893), dance@niser.ac.in
 
 
 ## Drama and Music Club
@@ -355,79 +341,49 @@ A club dedicated to promoting, conducting, and nurturing Drama and Music culture
 
 The Club conducts inter and intra college events, moderates the music room and is the coordinator of SPICMACAY, NISER chapter.
 
-Contact:
-
-Yashaswini (9406583817)
-
-dmc@niser.ac.in
+Contact: Yashaswini (9406583817), dmc@niser.ac.in
 
 
 ## Film Club
 
 Film Club of NISER is the club for the movie lovers of NISER. Started in 2013 by a few film enthusiasts, the club has ever since promoted the culture of film appreciation and film making amongst the student community of NISER.
 
-**Contact:**
-
-Suraj (9078675657)
-
-filmclub@niser.ac.in
+**Contact: **Suraj Sahoo (9078675657), filmclub@niser.ac.in
 
 
 ## Literary Club
 
 Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus. Additionally the club overlooks _The Polyglots_, an initiative to provide a platform to learn different regional and international languages.
 
-**Contact:**
-
-Vinayak (7073534191)
-
-litc@niser.ac.in
+**Contact: **Vinayak (7073534191), litc@niser.ac.in
 
 
 ## Mathematix Club
 
 MathematiX club hosts various activities of interest for math enthusiasts of NISER, with undergraduate students being the target audience. Since its inception in 2009, its prime motive has been to introduce students to topics not generally encountered in the undergraduate curriculum and provide a platform to students where mathematical ideas can be discussed and debated.
 
-**Contact:**
-
-Archisman Bhattacharjee
-
-(7319151917)
-
-mathematicx@niser.ac.in
+**Contact:  **Archisman Bhattacharjee (7319151917), mathematicx@niser.ac.in
 
 
 ## Nature Club
 
 Adventure and having fun while learning and caring about nature is at the heart of OorNa, The Nature Club. As NISER is a campus gifted with many different species of plants, birds, and even a few animals, the club conducts nature walks which are both educational and recreational at the same time. It also conducts nature walks in other places near the campus. Also, the club encourages students to come up with any event which they might organize with its help.
 
-**Contact**:
-
-Devashish Sonowal (9348377323)
-
-oorna_natureclub@niser.ac.in
+**Contact**: Devashish Sonowal (9348377323), oorna_natureclub@niser.ac.in
 
 
 ## Photography Club
 
 The photography club conducts photography competitions round semester with themes and agendas, we also cover nearly event happening in NISER
 
-**Contact:**
-
-Debashish Paik (9078450563)
-
-shots@niser.ac.in
+**Contact: **Debashish Paik (9078450563), shots@niser.ac.in
 
 
 ## Quizone (Quiz Club)
 
 We at Quizone are committed to promoting the culture of quizzing on campus and organising quizzes for the members of NISER and for the public.
 
-**Contact**:
-
-Saswat Das (6370147889)
-
-quizone@niser.ac.in
+**Contact**: Saswat Das (6370147889), quizone@niser.ac.in
 
 
 ## Robo Tech Club
@@ -436,82 +392,60 @@ quizone@niser.ac.in
 
 As a community we empower each other with skills and knowledge about present day technology such as Development Board Programming, Image Processing, IOT  etc. We are currently working on a one year schedule for all our club members with the hopes of enabling everyone with the required knowledge of using technology in the most efficient way for functioning in various feats of our  academic and professional career."
 
-**Contact:**
-
-Jyothish (7597204329)
-
-rtc@niser.ac.in
+**Contact: **Jyothish (7597204329), rtc@niser.ac.in
 
 
 ## Science Activities Club
 
-**Contact**:
+The goal of Science Activities Club, NISER is to work as a platform for science communication for NISER students as well as nearby school children. The club was established in 2013. Over the course of the last 6 years, we have organised various outreach programmes involving our students and students from schools and colleges from Jatni, Bhubaneswar and Cuttack. We are the proud organiser of the NISER OPEN DAY, which is a great opportunity for people from outside NISER to visit us and learn about all types of research that have been going on in NISER. We are also organising DARK MATTER DAY from 2017 to celebrate the advancement in Dark Matter research across the globe. Apart from these major events, we also organise Student and Faculty delivered Talks on every subject and research area, throughout the year, to communicate both the latest research and the foundational ideas to the masses.
 
-Manabputra (9153156311)
-
-sac@niser.ac.in
+**Contact**: Manabputra (9153156311), sac@niser.ac.in
 
 
 ## Sports Club
 
 Sports club administers all the sports activities at NISER. It represents the institute at various sports events.
 
-**Contact:**
-
-Balabhadra Pradhan
-
-(8114794378)
-
-sportsclub@niser.ac.in
+**Contact: **Balabhadra Pradhan (8114794378), sportsclub@niser.ac.in
 
 
 ## Yoga Club
 
 A club which aims to keep NISER minds and body healthy through yoga.
 
-**Contact:**
-
-Shyamali Naikwade (9405650548)
-
-yogaclub@niser.ac.in
+**Contact: **Shyamali Naikwade (9405650548), yogaclub@niser.ac.in
 
 
 ## Zaariya
 
 Zaariya was built on the shoulders and combined wisdom of many. When it all started we were yet a small community of students and faculty but within this group was a need, the need to go out and do something for the community at large. The motive of Zaariya is the intertwining of lives, learning, and growing together with society.
 
-**Contact**:
-
-Prem Nigam Kar (8466872125)
-
-zaariya@niser.ac.in
+**Contact**: Prem Nigam Kar (8466872125), zaariya@niser.ac.in
 
 
 # EVENT (year-wise)
 
-**Solar Eclipse: **(26 Dec, 2019) NISER Astronomy Club. Nearby school students were invited to NISER to observe this event. Also, a team of 5 members of the club went to BJB college for a public observation, outreach and awareness event hosted by Bigyan Chetna Manch, Bhubaneswar.
+**Solar Eclipse: **(26 Dec, 2019) Nearby school students were invited to NISER to observe this event. Also, a team of 5 members of the club went to BJB college for a public observation, outreach and awareness event hosted by Bigyan Chetna Manch, Bhubaneswar. This event was organised by NISER Astronomy Club.
 
-**UMANG 2019**: (Oct.) Intra-NISER Cultural Fest was organised by the Cultural Committee of NISER from 18 Oct to 20 Oct. Events of Art, Dance, Music, Drama, Quiz, Fashion Show, Open MIc, Chess, Photography, Yoga, Short film making and Online Games were organised. Around 300 students participated in Umang.
-
-Chess, Food Fest, Art on Cue, Short Film Making, Yoga Events, Rangreza, Monoranaga,
+**UMANG 2019**: (18-20 Oct, 2019) Intra-NISER Cultural Fest was organised by the Cultural Committee of NISER from 18 Oct to 20 Oct. Events of Art, Dance, Music, Drama, Quiz, Fashion Show, Open MIc, Chess, Photography, Yoga, Short film making and Online Games were organised. Around 300 students participated in Umang. The major events organised in this Fest were Chess, Food Fest, Art on Cue, Short Film Making, Yoga Events, Rangreza, Monoranaga.
 
 **Food Fest: **(Oct. 2019) Zaariya like every year organized the "grand food fest" on the auspicious occasion of diwali which is the biggest fundraising event of our club. Zaariya provided campus residents with the platform to show their cooking skills as well as raising funds for the club. There were more than 20 participating teams and together they raised a good fund(of RS 7000). The event was quite successful and it added fun to the joyful environment of diwali celebration.
 
-**Indian Film Project:** (9 Oct., 2019)The Film Club participated in the India Film Project (IFP) season 9 in October. IFP is Asia’s largest content fest and saw over 36,000 filmmakers participating and producing 1,710 short films! The participation came from 320 cities and 18 countries, with teams from USA, UK, Australia, Turkey, Dubai, Singapore and many more. The challenge was to make a short film on a given theme in 50 hours, and we delivered! Nobody can forget the memories we made in the short span of 2 days and it would be a disservice to attempt to describe how much we learnt as budding filmmakers
+**Indian Film Project:** (9 Oct., 2019) The Film Club participated in the India Film Project (IFP) season 9 in October. IFP is Asia’s largest content fest and saw over 36,000 filmmakers participating and producing 1,710 short films! The participation came from 320 cities and 18 countries, with teams from USA, UK, Australia, Turkey, Dubai, Singapore and many more. The challenge was to make a short film on a given theme in 50 hours, and we delivered! Nobody can forget the memories we made in the short span of 2 days and it would be a disservice to attempt to describe how much we learnt as budding filmmakers
 
 **Blood Donation Camp: **(Sept 2019) A blood donation camp was successfully organised by Zaariya in association with Sahaya at Students Activity Centre(SAC) in NISER on Tuesday, September 10, 2019. The blood donation drive was organised in collaboration with Capital Hospital, one of the oldest government hospitals in Bhubaneswar. In this event, a total 100 people participated in donating blood for a noble cause. Each person donated 1 unit of blood and a total number of 100 units of blood was collected.
 
-**Movie Marathon:** (Sept, 2019) Every year The Film Club conducts two movie marathon events. One is held in the odd semester(usually in September) and one in the even semester(during the Oscar week). These are very warmly appreciated by the community and we see turnouts in huge numbers. Last year we had a short film marathon in the odd semester in which we showed a curated collection of award winning short films like Two by Satyajit Ray and Room 8 which won a BAFTA in 2014. The Oscar marathon is one of the most anticipated events of the club and last year it comprised three spectacular movies namely: Lady Bird, Jo Jo Rabbit and The Lighthouse.
+**Movie Marathon:** (Sept, 2019) Every year the Film Club conducts two movie marathon events. One is held in the odd semester(usually in September) and one in the even semester(during the Oscar week). These are very warmly appreciated by the community and we see turnouts in huge numbers. Last year we had a short film marathon in the odd semester in which we showed a curated collection of award winning short films like Two by Satyajit Ray and Room 8 which won a BAFTA in 2014. The Oscar marathon is one of the most anticipated events of the club and last year it comprised three spectacular movies namely: Lady Bird, Jo Jo Rabbit and The Lighthouse.
 
 **Chandrayaan 2:** (7 Sept, 2019) Astronomy Club. Prof. J. N. Goswami, the chief scientist of Chandrayaan 1 was invited as the chief speaker in a public outreach event.
 
-**Debashis Jena Memorial Tournament (DJMT):**(Sept 6- Oct 3, 2019) The Niser Individuals Tournament is named in memory of one of our institute's greatest sportsmen, **Debashish Jena, **who played a pivotal role in setting up the chess club. This tournament is considered as the selection tournament for the chess team that will go on to represent NISER in IISM. **27** members participated in the 2019 edition of DJMT and the top 6 were selected for IISM. Over the years, DJMT has grown popular among the NISER fraternity. The club is on pursuit of methods to increase the number of participants, a move that intends to increase our bench strength in IISM.
+**Debashis Jena Memorial Tournament (DJMT):**(Sept 6- Oct 3, 2019) The Niser Individuals Tournament is named in memory of one of our institute's greatest sportsmen, **Debashish Jena, **who played a pivotal role in setting up the chess club. This tournament is considered as the selection tournament for the chess team that will go on to represent NISER in IISM. **27** members participated in the 2019 edition of DJMT and the top 6 were selected for IISM. Over the years, DJMT has grown popular among the NISER fraternity. The club is in pursuit of methods to increase the number of participants, a move that intends to increase our bench strength in IISM.
 
 **SPICMACAY Classical Concert:** (19 Aug, 2019) DMC : An early morning Hindustani classical vocal concert by Indian classical vocal artist Pt. Jayateertha Mevundi ji.
 
 **Koffee With Kishore: **(10 Aug 2019) DMC : An cultural event organised on the occasion of the birthday of Kishore Kumar . It showcases drama, music, dance, stand up comedy and any other mode of entertainment that one can think of.
 
-**Inter-Batch Chess Tournament: **(Aug 2019) The Inter-Batch Tournament **(IBT)**, is a key event of the chess club which is aimed towards bringing the players of different batches together as a team and gauge their overall performance. **Each batch puts out a team of 6**(5 players and 1 sub), and a Swiss style team tournament is held. IBT helps to introduce the freshers batch to the chess culture in place already.
+**Inter-Batch Chess Tournament: **(Aug 2019) The Inter-Batch Tournament **(IBT)**, is a key event of the chess club which is aimed towards bringing the players of different batches together as a team and gauge their overall performance. Each batch puts out a team of 6(5 players and 1 sub), and a Swiss style team tournament is held. IBT helps to introduce the freshers batch to the chess culture in place already.
 
 The 2019 edition of IBT saw the participation of Batches 15,16,17,18 and 19. Batch 15, in their last ever IBT came out on top, while Batch 18 were the runners up.
 
@@ -1828,8 +1762,6 @@ The catering services are available at 4 hostels in NISER. The food can either b
 
 NISER has kept in mind the services a person can need during their stay in the campus and has made available a scheduled transportation system, a shopping complex, banks and post-office within the premises. NISER has its own bus service which shuttles between NISER Campus and Bhubaneswar. The shopping complex provides space for stationary shops, general utility stores and fast food corners. Two bank branches, namely State Bank of India (SBI) and Indian Overseas Bank (IOB), are located within the premises of NISER. One branch of Indian Post Office is located inside the Campus too.
 
-*health center*
-
 
 ## Academics
 
@@ -1854,32 +1786,7 @@ Another major sporting event in which the enthusiastic sports person waits for i
 
 ## Culture
 
-The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together
-
-
-## Others
-
-[Blank for now]
-
-
-# NEARBY
-
-
-## Railway Station:
-
-Khurda Road (KUR), [Map Link](https://goo.gl/maps/wZifAjArcuALYUDt8), 3.5km from NISER.
-
-Bhubaneswar (BBS), [Map Link](https://goo.gl/maps/6FeTyBL2M1EKxEwr5), 28.0km from NISER.
-
-
-## Airport:
-
-Biju Patnaik International Airport (BBI), [Map Link](https://goo.gl/maps/uTJWiDH3YzB4pLhf7), 25.3km from NISER.
-
-
-## Post Office:
-
-Jatni Indian Post, (752050), [Map Link](https://goo.gl/maps/PmjCz2yainhyedFk8), 2.5km from NISER.
+The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together.
 
 
 # GALLERY
@@ -2210,7 +2117,7 @@ Jatni Indian Post, (752050), [Map Link](https://goo.gl/maps/PmjCz2yainhyedFk8), 
 
 **Special Mentions/ Featured players**
 
-Aranya Giri- with 1 gold, 1 silver, 1bronze in Shot put and 1 gold, 1 silver in Discus Throw
+Aranya Giri- with 1 gold + 1 silver + 1bronze in Shot put; and 1 gold + 1 silver in Discus Throw
 
 Dipanshu Kumar- with 1 silver, 2 bronze in discus throw
 
@@ -2308,18 +2215,16 @@ a)You may contact the NISER administration to report your complaints against Rag
 
 
 
-*   Dr. Brundaban Sahu, Chairman
-*   Dr. Sumedha, Member
-*   Dr. P.C. Ravikumar, Member
-*   Dr. Deepak Kumar Dalai, Member
-*   Dr. Rudresh Acharya, Member
-*   Dr. Sudakshina Prusty, Member
-*   Dr. Subhankar Mishra, Member
-*   Dr. Amaresh Kumar Jaiswal, Member
+*   Dr. Brundaban Sahu, Chairman (brundaban.sahu@niser.ac.in)
+*   Dr. Sumedha, Member (sumedha@niser.ac.in)
+*   Dr. P.C. Ravikumar, Member (pcr@niser.ac.in)
+*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+*   Dr. Rudresh Acharya, Member (rudresh.acharya@niser.ac.in)
+*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+*   Dr. Subhankar Mishra, Member (smishra@niser.ac.in)
+*   Dr. Amaresh Kumar Jaiswal, Member (a.jaiswal@niser.ac.in)
 
 b)We, at the Ragging Prevention Program are ready to help. You can call us any time on 1800 180 5522. It is a free phone. You can also send an E mail on helpline@antiragging.in.
-
-c)Do we need to give some email-id of a member of Anti-Ragging Squad?[Ask Renjith]
 
 [Click here to view Circular](https://www.niser.ac.in/docs/2019/Anti-Rangging%20Squard.pdf)
 
@@ -2328,30 +2233,39 @@ c)Do we need to give some email-id of a member of Anti-Ragging Squad?[Ask Renjit
 
 The Government of India (GoI) has enacted the Protection of Women from Sexual Harassment at Workplace (Prevention, Prohibition and Redressal) Act (the SH Act), 2013. For details, see: [http://www.shebox.nic.in](http://www.shebox.nic.in/home/notification) (SHe-Box – Ministry of Women & Child Development)
 
+1) ‘Sexual harassment’ includes any one or more of the following acts of behaviors (whether directly or by implication), namely:
 
 
-1. ‘Sexual harassment’ includes any one or more of the following acts of behaviors (whether directly or by implication), namely:
+
 *   physical contact or advances,
 *   demand or request for sexual favors,
 *   sexually colored remarks,
 *   showing any pornography,
 *   any other unwelcome physical, verbal, non-verbal conduct of a sexual nature.
-2. The following circumstances, if it occurs or present in relation to or connected with any act or behavior with sexual harassment may amount to sexual harassment:
+
+2) The following circumstances, if it occurs or present in relation to or connected with any act or behavior with sexual harassment may amount to sexual harassment:
+
+
+
 *   implied or explicit promise of preferential treatment in employment,
 *   implied or explicit threat of detrimental treatment in employment,
 *   implied or explicit threat about her present or future employment status,
 *   humiliating treatment likely to affect her health or safety,
 *   interference with her work or creating an intimidating or offensive or hostile work environment for her.
-3. You may file your grievances against Sexual Harassment to any member of the ‘women’ cell of NISER’. The members of this committee which examines the issues related to Sexual Harassment in NISER are:
-*   Dr. Harapriya Mohapatra, Chairman
-*   Dr. Shikha Verma, Member
-*   Dr. S. Perucheranlathan, Member
-*   Dr. Nabin Jana, Member
-*   Dr. Rooplekha Khuntia, Member
-*   Dr. Sudakshina Prusty, Member
-*   Dr. Bibhupada Tripathy, Member
-*   Mrs. Shabnam Khanum, Member
-*   Mr. Apolina Lakra, Member
+
+3) You may file your grievances against Sexual Harassment to any member of the ‘women’ cell of NISER’. The members of this committee which examines the issues related to Sexual Harassment in NISER are:
+
+
+
+*   Dr. Harapriya Mohapatra, Chairman (hm@niser.ac.in)
+*   Dr. Shikha Verma, Member (shikha@niser.ac.in)
+*   Dr. S. Perucheranlathan, Member (peru@niser.ac.in)
+*   Dr. Nabin Jana, Member (nabinjana@niser.ac.in)
+*   Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
+*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+*   Dr. Bibhupada Tripathy, Member (aoacad@niser.ac.in)
+*   Mrs. Shabnam Khanum, Member (shabnumk@niser.ac.in)
+*   Mr. Apolina Lakra, Member ([apolina@niser.ac.in](mailto:apolina@niser.ac.in))
 
 You may also file your complaint directly at http://www.shebox.nic.in/user/register.
 
@@ -2363,35 +2277,37 @@ You may also file your complaint directly at http://www.shebox.nic.in/user/regis
 
 In pursuance of the regulation of the University Grants Commission, New Delhi (UGC) to install a system to Lodge Complaints against the instances of Caste Based Discrimination, an online portal has been developed for the use of students of the institute. They may register their grievances and concerns regarding SC/ST/OBC discrimination and any kind of caste-related injustice online, so as to avail proper solutions for the inconveniences they had experienced.
 
+1) Students facing any kind of discrimination based on their caste in Campus at academics/hostel/student-activity/sports/events/etc. are encouraged to file grievances against it.
+
+2) The following committee will examine the issues related to the caste discrimination complaints received from SC/ST/OBC students in NISER:
 
 
-1. Students facing any kind of discrimination based on their caste in Campus at academics/hostel/student-activity/sports/events/etc. are encouraged to file grievances against it.
-2. The following committee will examine the issues related to the caste discrimination complaints received from SC/ST/OBC students in NISER:
-*   Dr. Binod Kumar Sahoo, Chairman
-*   Dr. Sudip Burman, Co-Chairperson
-*   Dr. Saikat Hira, Member
-*   Mr. Purna Chandra Sahu, Member
-*   Mr. Sanjay Kumar Patro, Member
+
+*   Dr. Binod Kumar Sahoo, Chairman (bksahoo@niser.ac.in)
+*   Dr. Sudip Burman, Co-Chairperson (sburman@niser.ac.in)
+*   Dr. Saikat Hira, Member (saikat.hira@niser.ac.in)
+*   Mr. Purna Chandra Sahu, Member (purna@niser.ac.in)
+*   Mr. Sanjaya Kumar Patro, Member (sanjayakumar@niser.ac.in)
 *   Mr. Bhagwan Dhal, Member
-*   Mr. Nabin Kumar Sahoo, Member
-*   Mrs. Apolina Akra, Member
+*   Mr. Nabin Kumar Sahoo, Member (nabin@niser.ac.in)
+*   Mrs. Apolina Akra, Member (apolina@niser.ac.in)
 *   Mrs. Bandita Pradhan, Member
-*   Mrs. Lopamudra Sahoo, Member
-*   Mr. Hiralal Das, Member Secretary
-3. You are encouraged to contact any of the members of this committee to file a complaint against caste discrimination.
-4. Do we need to give some email-id of a member of SC-ST-OBC Cell?[Ask Renjith]
+*   Mrs. Lopamudra Sahoo, Member (lsahoo@niser.ac.in)
+*   Mr. Hiralal Das, Member Secretary (hiralal@niser.ac.in)
+
+3) You are encouraged to contact any of the members of this committee to file a complaint against caste discrimination.
+
 
     [Click here to view Circular](https://www.niser.ac.in/docs/2017/SC-ST-OBC-cell-constitution.pdf)
 
 
-
 # COUNSELLING CELL FOR STUDENTS
 
+1) Mental health issues can have a profound impact on how we think, feel, and behave. They can range from the daily worries we all have from time to time, to serious long-term problems that require treatment to manage effectively. If mental health issues are ignored or dismissed as character traits it can lead to further problems.
+
+The common mental illness observed are:
 
 
-1. Mental health issues can have a profound impact on how we think, feel, and behave. They can range from the daily worries we all have from time to time, to serious long-term problems that require treatment to manage effectively. If mental health issues are ignored or dismissed as character traits it can lead to further problems.
-
-    The common mental illness observed are:
 
 *   depression
 *   anxiety
@@ -2400,30 +2316,39 @@ In pursuance of the regulation of the University Grants Commission, New Delhi (U
 *   post-traumatic stress disorder (PTSD)
 *   panic disorders.
 
-    Apart from these, the following mental issues are also considered as a mental illness:
+Apart from these, the following mental issues are also considered as a mental illness:
+
+
 
 *   schizophrenia
 *   eating disorders
 *   substance abuse
 *   bipolar disorder
 *   personality disorder.
-2. NISER will be partnering with YourDost to provide access to counseling services to students. Link to [YourDost](https://yourdost.com). Students can also explore [YourDost](http://yourdost.com/blog/) blog for tips on mental health.
-*   Some poster/brochure about identifying anxiety and depression (Need to find and insert)
+
+2) NISER will be partnering with YourDost to provide access to counseling services to students. Link to [YourDost](https://yourdost.com). Students can also explore [YourDost](http://yourdost.com/blog/) blog for tips on mental health.
+
+
+
 *   [Got anxiety?](https://adaa.org/sites/default/files/GotAnxiety-2014.pdf) For college students from ADAA
-3. Within NISER, students can approach any members of the counseling cell:
-*   Dr. Rooplekha Khuntia, Convener
-*   Dr. Renjith Mathew, Member
-*   Dr. Kartikeswar Senapati, Member
-*   Dr. Sayantani Bhattacharya, Member
-*   Dr. Arindam Ghosh, Member
-*   Dr. Deepak Kumar Dalai, Member
-*   Dr. Debasmita P. Alone, Member
-*   Mr. Anuj Verma,Student Member
-*   Ms. N K U Sarada Anoushka, Student Member
-*   Mr. Suritra Bandyopadhyay, Student Member
-*   Ms. Priya Sahu, Student Member
-*   Ms. Manali Banarjee, Student Member
-*   Ms. Bratati mukherjee, Student Member
+
+3) Within NISER, students can approach any members of the counseling cell:
+
+
+
+*   Dr. Rooplekha Khuntia, Convener (rooplekha@niser.ac.in)
+*   Dr. Renjith Mathew, Member (renjith.mathew@niser.ac.in)
+*   Dr. Kartikeswar Senapati, Member (kartik@niser.ac.in)
+*   Dr. Sayantani Bhattacharya, Member (santana@niser.ac.in)
+*   Dr. Arindam Ghosh, Member (aringh@niser.ac.in)
+*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+*   Dr. Debasmita P. Alone, Member (debasmita@niser.ac.in)
+*   Mr. Anuj Verma,Student Member (anuj.verma@niser.ac.in)
+*   Ms. N K U Sarada Anoushka, Student Member (n.anoushka@niser.ac.in)
+*   Mr. Suritra Bandyopadhyay, Student Member (suritra.bandyopadhyay@niser.ac.in)
+*   Ms. Priya Sahu, Student Member (priya.sahu@niser.ac.in)
+*   Ms. Manali Banerjee, Student Member (manali.banerjee@niser.ac.in)
+*   Ms. Bratati mukherjee, Student Member (bratati.mukherjee@niser.ac.in)
 
 [Click here to view the Circular](https://www.niser.ac.in/docs/2020/Students_Counselling_Cell_2020.pdf)
 
@@ -2446,23 +2371,43 @@ The following committee has been constituted to look after the Disciplinary  iss
 
 
 
-*   Dr. Renjith Mathew, Chairman
-*   Dr. Brundaban Sahu, Member
-*   Dr. Deepak Kumar Dalai, Member
-*   Dr. Sudakshina Prusty, Member
-*   Dr. Binod Kumar Sahoo, Member
-*   Dr. Rooplekha Khuntia, Member
-*   Mr. Haresh Kumar Chaudhary, Member
-*   Ms. Konthalapalli Hradini, Member
-*   Ms. Rashmi Rekha Sahoo, Member
-*   Mr. Subhrakant Jena, Member
-*   Mr. Rajeev Kumar Singh, Member.
+*   Dr. Renjith Mathew, Chairman (renjith.mathew@niser.ac.in)
+*   Dr. Brundaban Sahu, Member (brundaban.sahu@niser.ac.in)
+*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+*   Dr. Binod Kumar Sahoo, Member (bksahoo@niser.ac.in)
+*   Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
+*   Mr. Haresh Kumar Chaudhary, Member (hk.chaudhary@niser.ac.in)
+*   Ms. Konthalapalli Hradini, Member (konthalapalli.hradhini@niser.ac.in)
+*   Ms. Rashmi Rekha Sahoo, Member (rashmirekha.sahoo@niser.ac.in)
+*   Mr. Subhrakant Jena, Member (subhrakant.jena@niser.ac.in)
+*   Mr. Rajeev Kumar Singh, Member (rajeev@niser.ac.in)
 
 [Click here to view Circular](https://www.niser.ac.in/docs/2019/DACS_2019.pdf)
+
+
+# NEARBY
+
+
+## Railway Station:
+
+Khurda Road (KUR), [Map Link](https://goo.gl/maps/wZifAjArcuALYUDt8), 3.5km from NISER.
+
+Bhubaneswar (BBS), [Map Link](https://goo.gl/maps/6FeTyBL2M1EKxEwr5), 28.0km from NISER.
+
+
+## Airport:
+
+Biju Patnaik International Airport (BBI), [Map Link](https://goo.gl/maps/uTJWiDH3YzB4pLhf7), 25.3km from NISER.
+
+
+## Post Office:
+
+Jatni Indian Post, (752050), [Map Link](https://goo.gl/maps/PmjCz2yainhyedFk8), 2.5km from NISER.
 
 
 # CONTACT US
 
 Email-Id: [studentsgymkhana@niser.ac.in](mailto:studentsgymkhana@niser.ac.in)
 
-Gymkhana Office: SAC room no, [XYZ]  (after taking an appointment by mail)
+Gymkhana Office: SAC room no. 1 (after taking an appointment by mail)

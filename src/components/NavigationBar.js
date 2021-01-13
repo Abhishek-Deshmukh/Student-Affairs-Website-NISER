@@ -9,7 +9,7 @@ export default function NavigationBar(props) {
     query {
       file(relativePath: { eq: "assets/white_logo.png" }) {
         childImageSharp {
-          fixed(width: 100) {
+          fixed(width: 150) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -17,7 +17,7 @@ export default function NavigationBar(props) {
     }
   `)
   var initial_nav_open = true;
-  if (width < 768) {
+  if (width < 1256) {
     initial_nav_open = false;
   }
   const [nav_open, change_nav_open] = React.useState(initial_nav_open)
@@ -51,7 +51,11 @@ export default function NavigationBar(props) {
     <Link to="/">
       <Img fixed={logo.file.childImageSharp.fixed} alt="NISER logo" />
     </Link>
-      {width < 768 && (
+    <div className="title">
+      <h1>Student Affairs</h1>
+      <p> National Institute of Science Education and Research </p>
+    </div>
+      {width < 1256 && (
         <div className="ham">
           <input type="checkbox" onClick={toggle} />
           <span></span>

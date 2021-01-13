@@ -16,16 +16,16 @@ The following committee has been constituted to look after the Disciplinary  iss
 
 
 
-*   Dr. Renjith Mathew, Chairman
-*   Dr. Brundaban Sahu, Member
-*   Dr. Deepak Kumar Dalai, Member
-*   Dr. Sudakshina Prusty, Member
-*   Dr. Binod Kumar Sahoo, Member
-*   Dr. Rooplekha Khuntia, Member
-*   Mr. Haresh Kumar Chaudhary, Member
-*   Ms. Konthalapalli Hradini, Member
-*   Ms. Rashmi Rekha Sahoo, Member
-*   Mr. Subhrakant Jena, Member
-*   Mr. Rajeev Kumar Singh, Member.
+*   Dr. Renjith Mathew, Chairman (renjith.mathew@niser.ac.in)
+*   Dr. Brundaban Sahu, Member (brundaban.sahu@niser.ac.in)
+*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+*   Dr. Binod Kumar Sahoo, Member (bksahoo@niser.ac.in)
+*   Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
+*   Mr. Haresh Kumar Chaudhary, Member (hk.chaudhary@niser.ac.in)
+*   Ms. Konthalapalli Hradini, Member (konthalapalli.hradhini@niser.ac.in)
+*   Ms. Rashmi Rekha Sahoo, Member (rashmirekha.sahoo@niser.ac.in)
+*   Mr. Subhrakant Jena, Member (subhrakant.jena@niser.ac.in)
+*   Mr. Rajeev Kumar Singh, Member (rajeev@niser.ac.in)
 
 [Click here to view Circular](https://www.niser.ac.in/docs/2019/DACS_2019.pdf)
