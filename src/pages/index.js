@@ -1,6 +1,6 @@
 import React from "react"
 // import { useSiteMetadata } from "../hooks/use-site-metadata"
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 import IndexCard from "../components/IndexCard"
 import SEO from "../components/SEO"
@@ -186,6 +186,25 @@ export default function Home() {
     <Layout>
       <SEO home={true} />
       <Carousel />
+      <div className="container-fluid content">
+        <div className="row">
+          <div className="col-sm-12 col-md-6 col-lg-3 links">
+            <h3>Quick Links</h3>
+            <ul>
+              <li>
+                <Link to="/announcements">Announcements</Link>
+              </li>
+              <li>
+                <Link to="/campus-life">Campus Life</Link>
+              </li>
+            </ul>
+          </div>
+          <div className="col-sm-12 col-md-6 col-lg-9 summary">
+            <h2>Student Affairs</h2>
+            <p>Content</p>
+          </div>
+        </div>
+      </div>
       <div className="container-fluid">
         <div className="row">
           {sections.map((section, index) => {

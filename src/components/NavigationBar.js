@@ -51,10 +51,12 @@ export default function NavigationBar(props) {
     <Link to="/">
       <Img fixed={logo.file.childImageSharp.fixed} alt="NISER logo" />
     </Link>
-    <div className="title">
-      <h1>Student Affairs</h1>
-      <p> National Institute of Science Education and Research </p>
-    </div>
+    <Link to="/">
+      <div className="title">
+        <h1>Student Affairs</h1>
+        <p> National Institute of Science Education and Research </p>
+      </div>
+    </Link>
       {width < 1256 && (
         <div className="ham">
           <input type="checkbox" onClick={toggle} />
