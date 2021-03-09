@@ -24,14 +24,14 @@ body {
   // background-image: -webkit-linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   // background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   // background: white;
-  background-image: linear-gradient( 109.6deg,  rgba(255,219,47,1) 11.2%, rgba(244,253,0,1) 100.2% );
+  // background-image: linear-gradient( 109.6deg,  rgba(255,219,47,1) 11.2%, rgba(244,253,0,1) 100.2% );
   background-image: linear-gradient( 44.8deg,  rgba(255,136,102,0.67) -53.1%, rgba(255,221,136,0.28) 49% );
   font-family: "Proza Libre", sans-serif;
 }
 
 .background-logo {
   position: fixed;
-  opacity: 0.1;
+  opacity: 0.05;
   transform: translate(-17vw, 0vh);
   z-index: 0;
   pointer-events: none;

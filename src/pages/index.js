@@ -201,7 +201,11 @@ export default function Home() {
           </div>
           <div className="col-sm-12 col-md-6 col-lg-9 summary">
             <h2>Student Affairs</h2>
-            <p>Content</p>
+            <p class="container">
+              Students’ Gymkhana is the student union of NISER. It works with a
+              core to strengthen the voice of NISERites in all possible ways and
+              coordinate actions on time.
+            </p>
           </div>
         </div>
       </div>

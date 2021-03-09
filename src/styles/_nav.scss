@@ -4,6 +4,13 @@ nav {
   width: 100vw;
   display: flex;
   transition: 0.2s;
+  flex-direction: column;
+  .nav-big-container {
+    z-index: 1;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+  }
   Img {
     -webkit-filter: invert(100%);
     filter: invert(100%);
@@ -22,13 +29,28 @@ nav {
   a:active {
     text-decoration: none;
   }
-  .title {
+  .big-title {
     padding-left: 20px;
     min-width: 370px;
     text-decoration: none;
     h1 {
       color: black;
       font-size: 44px;
+      line-height: 0.5;
+      transform: translateY(40%);
+    }
+    p {
+      line-height: 1.1;
+      font-size: 16px;
+      letter-spacing: 0.01em;
+      color: #333;
+    }
+  }
+  .small-title {
+    display: none;
+    h1 {
+      color: black;
+      font-size: 32px;
       line-height: 0.5;
       transform: translateY(40%);
     }
@@ -60,7 +82,11 @@ nav {
   }
   @media (max-width: 1256px) {
     padding: 20px 0px 0px 20px;
-    .title {
+    .big-title {
+      display: none;
+    }
+    .small-title {
+      display: block;
       text-align: center;
     }
     .ham {
