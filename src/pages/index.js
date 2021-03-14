@@ -1,13 +1,13 @@
-import React from "react"
+import React, { useState } from "react"
 // import { useSiteMetadata } from "../hooks/use-site-metadata"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Layout from "../components/Layout"
 import IndexCard from "../components/IndexCard"
 import SEO from "../components/SEO"
 import Carousel from "../components/Carousel"
+import Search from "../components/search"
 
 export default function Home() {
-  // const images =
   const images = useStaticQuery(graphql`
     {
       gallery: file(relativePath: { eq: "assets/icons/gallery.png" }) {
@@ -117,7 +117,6 @@ export default function Home() {
     {
       title: "Exam Scholarship Reward",
       link: "/exam-scholarship-reward/",
-      image: images.scholarship,
     },
     {
       title: "Club Information",
@@ -182,9 +181,25 @@ export default function Home() {
     //   image: images.contact,
     // },
   ]
+  const [query, setQuery] = useState("")
+  const handleQueryChange = e => {
+    setQuery(e.target.value)
+  }
   return (
     <Layout>
       <SEO home={true} />
+      <div className="search-input-box-container">
+        <input
+          type="text"
+          placeholder="Search"
+          className="search-input-box"
+          onChange={handleQueryChange}
+      />
+      </div>
+    {
+      query.length > 0 ?
+      <Search query={query} />
+      :<p></p>}
       <Carousel />
       <div className="container-fluid content">
         <div className="row">

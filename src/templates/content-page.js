@@ -26,44 +26,46 @@ export default function ContentPage({ data }) {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
-      <input
-        type="text"
-        placeholder="Search"
-        className="search-input-box"
-        onChange={handleQueryChange}
-      />
-    {
-      query.length > 0 ?
-      <Search query={query} />
-      :
-      <div className="article-container">
-        <div className="container-fluid">
-          <div className="row">
-            <aside className="col-xl-3 col-lg-4 col-md-4 col-sm-12">
-              <ul>
-                {headings.map(heading => {
-                  if (
-                    heading.heading.toUpperCase() ===
-                    post.frontmatter.title.toUpperCase().replaceAll("-", " ")
-                  ) {
-                    return <li style={{ opacity: 0.5 }}>{heading.heading}</li>
-                  }
-                  return (
-                    <li>
-                      <Link to={heading.path}>{heading.heading}</Link>
-                    </li>
-                  )
-                })}
-              </ul>
-            </aside>
-            <article className="col-xl-8 col-lg-8 col-md-8 col-sm-12">
-              <h1>{post.frontmatter.title}</h1>
-              <div dangerouslySetInnerHTML={{ __html: post.html }} />
-            </article>
+
+      <div className="search-input-box-container">
+        <input
+          type="text"
+          placeholder="Search"
+          className="search-input-box"
+          onChange={handleQueryChange}
+        />
+      </div>
+      {query.length > 0 ? (
+        <Search query={query} />
+      ) : (
+        <div className="article-container">
+          <div className="container-fluid">
+            <div className="row">
+              <aside className="col-xl-3 col-lg-4 col-md-4 col-sm-12">
+                <ul>
+                  {headings.map(heading => {
+                    if (
+                      heading.heading.toUpperCase() ===
+                      post.frontmatter.title.toUpperCase().replaceAll("-", " ")
+                    ) {
+                      return <li style={{ opacity: 0.5 }}>{heading.heading}</li>
+                    }
+                    return (
+                      <li>
+                        <Link to={heading.path}>{heading.heading}</Link>
+                      </li>
+                    )
+                  })}
+                </ul>
+              </aside>
+              <article className="col-xl-8 col-lg-8 col-md-8 col-sm-12">
+                <h1>{post.frontmatter.title}</h1>
+                <div dangerouslySetInnerHTML={{ __html: post.html }} />
+              </article>
+            </div>
           </div>
         </div>
-      </div>
-    }
+      )}
     </Layout>
   )
 }
