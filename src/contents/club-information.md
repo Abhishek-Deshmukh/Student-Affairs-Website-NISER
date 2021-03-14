@@ -29,7 +29,7 @@ Our club hosts an interdisciplinary platform where we get together to discuss, d
 
 We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for IISM’s Chess games each year.
 
-**Contact: **Amareshwar (6370666477), chess.club@niser.ac.in
+**Contact:** Amareshwar (6370666477), chess.club@niser.ac.in
 
 
 ## Coding Club
@@ -54,28 +54,28 @@ A club dedicated to promoting, conducting, and nurturing Drama and Music culture
 
 The Club conducts inter and intra college events, moderates the music room and is the coordinator of SPICMACAY, NISER chapter.
 
-Contact: Yashaswini (9406583817), dmc@niser.ac.in
+**Contact:** Yashaswini (9406583817), dmc@niser.ac.in
 
 
 ## Film Club
 
 Film Club of NISER is the club for the movie lovers of NISER. Started in 2013 by a few film enthusiasts, the club has ever since promoted the culture of film appreciation and film making amongst the student community of NISER.
 
-**Contact: **Suraj Sahoo (9078675657), filmclub@niser.ac.in
+**Contact:** Suraj Sahoo (9078675657), filmclub@niser.ac.in
 
 
 ## Literary Club
 
 Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus. Additionally the club overlooks _The Polyglots_, an initiative to provide a platform to learn different regional and international languages.
 
-**Contact: **Vinayak (7073534191), litc@niser.ac.in
+**Contact:** Vinayak (7073534191), litc@niser.ac.in
 
 
 ## Mathematix Club
 
 MathematiX club hosts various activities of interest for math enthusiasts of NISER, with undergraduate students being the target audience. Since its inception in 2009, its prime motive has been to introduce students to topics not generally encountered in the undergraduate curriculum and provide a platform to students where mathematical ideas can be discussed and debated.
 
-**Contact:  **Archisman Bhattacharjee (7319151917), mathematicx@niser.ac.in
+**Contact:**  Archisman Bhattacharjee (7319151917), mathematicx@niser.ac.in
 
 
 ## Nature Club
@@ -89,7 +89,7 @@ Adventure and having fun while learning and caring about nature is at the heart 
 
 The photography club conducts photography competitions round semester with themes and agendas, we also cover nearly event happening in NISER
 
-**Contact: **Debashish Paik (9078450563), shots@niser.ac.in
+**Contact:** Debashish Paik (9078450563), shots@niser.ac.in
 
 
 ## Quizone (Quiz Club)
@@ -105,7 +105,7 @@ We at Quizone are committed to promoting the culture of quizzing on campus and o
 
 As a community we empower each other with skills and knowledge about present day technology such as Development Board Programming, Image Processing, IOT  etc. We are currently working on a one year schedule for all our club members with the hopes of enabling everyone with the required knowledge of using technology in the most efficient way for functioning in various feats of our  academic and professional career."
 
-**Contact: **Jyothish (7597204329), rtc@niser.ac.in
+**Contact:** Jyothish (7597204329), rtc@niser.ac.in
 
 
 ## Science Activities Club
@@ -119,14 +119,14 @@ The goal of Science Activities Club, NISER is to work as a platform for science 
 
 Sports club administers all the sports activities at NISER. It represents the institute at various sports events.
 
-**Contact: **Balabhadra Pradhan (8114794378), sportsclub@niser.ac.in
+**Contact:** Balabhadra Pradhan (8114794378), sportsclub@niser.ac.in
 
 
 ## Yoga Club
 
 A club which aims to keep NISER minds and body healthy through yoga.
 
-**Contact: **Shyamali Naikwade (9405650548), yogaclub@niser.ac.in
+**Contact:** Shyamali Naikwade (9405650548), yogaclub@niser.ac.in
 
 
 ## Zaariya

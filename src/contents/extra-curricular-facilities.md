@@ -16,8 +16,8 @@ Apart from classes, labs, libraries in all the schools of NISER there are variou
 9. **Gym Cardio**: SAC room no. 2
 10. **Gym Strength Training**: SAC room no. 3
 11. **Chess/Carrom/TT**: SAC room no. 4
-12. ** Dance/Literary/Art Room**: SAC room no. 5
+12.  **Dance/Literary/Art Room**: SAC room no. 5
 13.  **Music Room**: SAC room no. 6
-14. ** Yoga Room**: SAC room no. 7
+14.  **Yoga Room**: SAC room no. 7
 15.  **Basketball Court (Temporary)**: In SAC
 16.  **Open Auditorium**: In front of Library Building
