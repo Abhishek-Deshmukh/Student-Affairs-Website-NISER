@@ -30,3 +30,5 @@ The 2019 edition of IBT saw the participation of Batches 15,16,17,18 and 19. Bat
 RoboTech Club in collaboration with NAC developed a working demonstrative model of PRAGYAN Rove, which was on-board the Chandrayaan – II Mission of ISRO. Our Model was featured in the Chandrayaan II Launch event organised in NISER by School of Earth and Planetary Science (SEPS), NISER. Our model was a major point of attraction among many AV Media who covered this event.
 
 **IISM 2018:** (15-20 Dec, 2018) Sports Club
+
+NISER hosted the IISM 2018, inviting contingents from 9 other participating institutes, coordinating their stay and practice and organising all events of the sports meet on campus.

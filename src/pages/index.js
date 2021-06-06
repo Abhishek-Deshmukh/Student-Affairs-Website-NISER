@@ -93,8 +93,8 @@ export default function Home() {
       image: images.students_of_niser,
     },
     {
-      title: "DOSA",
-      link: "/dosa/",
+      title: "Student Affairs Office",
+      link: "/student-affairs-office/",
     },
     {
       title: "Announcements",
@@ -135,6 +135,10 @@ export default function Home() {
     {
       title: "Campus Life",
       link: "/campus-life/",
+    },
+    {
+      title: "Student Placement Cell",
+      link: "/student-placement-cell/",
     },
     {
       title: "Gallery",
@@ -217,9 +221,10 @@ export default function Home() {
           <div className="col-sm-12 col-md-6 col-lg-9 summary">
             <h2>Student Affairs</h2>
             <p class="container">
-              Students’ Gymkhana is the student union of NISER. It works with a
-              core to strengthen the voice of NISERites in all possible ways and
-              coordinate actions on time.
+              The members of Students’ Gymkhana are the student body
+              representatives of NISER. It works with a core to strengthen the
+              voice of NISERites in all possible ways and coordinate actions
+              on time.
             </p>
           </div>
         </div>

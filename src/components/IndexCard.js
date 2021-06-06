@@ -9,7 +9,7 @@ export default function IndexCard(props) {
         {props.context.image ? (
           <Img fixed={props.context.image.childImageSharp.fixed} />
         ) : (
-          <p>Image here</p>
+          <p></p>
         )}
         <h2>{props.context.title}</h2>
         <Link to={props.context.link} className="button">

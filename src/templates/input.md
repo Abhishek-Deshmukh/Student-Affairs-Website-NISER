@@ -1,9 +1,9 @@
-<!-- Copy and paste the converted output. -->
+<!-- Coppppy and paste the converted output. -->
 
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 25.393 seconds.
+Conversion time: 47.153 seconds.
 
 
 Using this Markdown file:
@@ -16,19 +16,19 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Sat Mar 13 2021 23:08:10 GMT-0800 (PST)
+* Sun Jun 06 2021 11:13:44 GMT-0700 (PDT)
 * Source doc: Student Affairs Content - dev
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
 
 
 WARNING:
-You have 21 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
+You have 22 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
 
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 49.</p>
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 54.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
 <p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
@@ -80,6 +80,11 @@ You have 21 H1 headings. You may want to use the "H1 -> H2" option to demote all
 <a href="#gdcalert47">alert47</a>
 <a href="#gdcalert48">alert48</a>
 <a href="#gdcalert49">alert49</a>
+<a href="#gdcalert50">alert50</a>
+<a href="#gdcalert51">alert51</a>
+<a href="#gdcalert52">alert52</a>
+<a href="#gdcalert53">alert53</a>
+<a href="#gdcalert54">alert54</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
@@ -116,17 +121,67 @@ The following document can be converted into markdown using the [`Docs to Markdo
 *   [Graduated students in Ph.D. Program](https://www.niser.ac.in/content/passout-students-phd)
 
 
-# DOSA
+# Student Affairs Office
 
 Photo:
 
 Name: Dr. Renjith Mathew
 
-Role: The Dean of Student Affairs (Dean, SA) is the chairperson of Student Affairs, NISER. DOSA oversees the welfare of the student community. DOSA is responsible for communicating and interpreting University decisions to the student community and also coordinating and supervising co-curricular activities inside the campus. DOSA strives for maintaining an active, harmonious, and beneficial learning and living environment for students.
+Designation: Dean of Student Affairs, NISER
+
+Role: The Dean, SA is the chairperson of Student Affairs, NISER. DOSA oversees the welfare of the student community. DOSA is responsible for communicating and interpreting University decisions to the student community and also coordinating and supervising co-curricular activities inside the campus. DOSA strives for maintaining an active, harmonious, and beneficial learning and living environment for students.
 
 Address: [Office no], Admin Building, 1st floor
 
-Contacts: 2494010, dosa@niser.ac.in
+Contacts: 2494010, [dosa@niser.ac.in](mailto:dosa@niser.ac.in)
+
+Photo:
+
+Name: Rajeev Singh:
+
+Designation: Administrative office-I, NISER
+
+Role: Under the direction of the Dean of Students, helps in the planning, coordination, and administration of DOSA activities and programs, including student conduct and extracurricular programs.
+
+Address: Student Affairs office, Academic building, Ground Floor
+
+Contacts:+91-674-249-4042,[rajeev@niser.ac.in](mailto:rajeev@niser.ac.in)
+
+Photo:
+
+Name M Suryanarayan-
+
+Designation-SA-C(PET),NISER
+
+Role: The PET helps in organizing games and challenges that promote physical activity among the students and other residents on the campus. He provides an alternative exercise during workouts and classes for different levels of fitness and skill.PE helps to develop skills and physical development among young students and proper exercise and eating habits among them. He is responsible for coaching the sports team,explaining and enforcing safety rules about governing sports, recreational activities, and the use of sports and exercise gym equipment.
+
+Address: Student Activity Centre(SAC),office No-1
+
+Contacts:06742494412,[surya-pet@niser.ac.in](mailto:surya-pet@niser.ac.in)
+
+Photo:
+
+Name: Vijay Singh, NISER
+
+Designation: Upper-division Clerk
+
+Role: Under the direction of the Dean of Students, helps in the planning, coordination, and administration of DOSA activities and programs, including student conduct and extracurricular programs.
+
+Address: Student affairs office, Academic building, Ground floor.
+
+Contacts:
+
+Photo:
+
+Name:Chinmaya Ranjan Sundaray
+
+Designation: Clerical, NISER
+
+Role: He is concerned with  Student Affairs office-related works, especially routine documentation, and administrative tasks.
+
+Address: Student Affairs Office, Academic building, Ground floor.
+
+Contacts:
 
 
 # ANNOUNCEMENTS
@@ -165,7 +220,7 @@ Apart from classes, labs, libraries in all the schools of NISER there are variou
 
 # STUDENTS’ GYMKHANA
 
-Students’ Gymkhana is the student union of NISER. It works with a core to strengthen the voice of NISERites in all possible ways and coordinate actions on time.
+The members of Students’ Gymkhana are the student body representatives of NISER. It works to strengthen the voice of NISERites in all forums and coordinate action for the health, harmony and needs of all students.
 
 The Students Gymkhana along with its infrastructure is an organization to meet the following objectives:
 
@@ -181,19 +236,59 @@ The Students Gymkhana along with its infrastructure is an organization to meet t
 
 • To facilitate administrative and official support for all recognized student activities.
 
-. To organize cultural and sports events for students in NISER.
+. To provide the best possible level of health and amenities available to the students.
 
-The union is composed of 5 members:
+The Gymkhana is composed of 5 members:
 
-President, [Photo, Ashish Shukla, SCS Int-MSc. 4th year]
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+
+
+President, [Ashish Shukla, SCS Int-MSc. 4th year]
+
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
 
 Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
 
-Cultural Secretary, [Photo, Tanya Pattnaik, SBS Int-MSc. 4th-year]
 
-Sports Secretary, [Photo, Balabhadra Pradhan, SBS Int-MSc. 4th-year]
 
-Treasurer Secretary. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.jpg "image_tooltip")
+
+
+General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
+
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.jpg "image_tooltip")
+
+
+Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
+
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.jpg "image_tooltip")
+
+
+Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
 
 The members of Gymkhana are elected annually by an election conducted fairly under the eyes of Dean, SA.
 
@@ -454,6 +549,8 @@ The 2019 edition of IBT saw the participation of Batches 15,16,17,18 and 19. Bat
 RoboTech Club in collaboration with NAC developed a working demonstrative model of PRAGYAN Rove, which was on-board the Chandrayaan – II Mission of ISRO. Our Model was featured in the Chandrayaan II Launch event organised in NISER by School of Earth and Planetary Science (SEPS), NISER. Our model was a major point of attraction among many AV Media who covered this event.
 
 **IISM 2018:** (15-20 Dec, 2018) Sports Club
+
+NISER hosted the IISM 2018, inviting contingents from 9 other participating institutes, coordinating their stay and practice and organising all events of the sports meet on campus.
 
 
 # ALUMNI
@@ -1738,7 +1835,7 @@ RoboTech Club in collaboration with NAC developed a working demonstrative model 
 
 
 
-# CAMPUS LIFE  
+# CAMPUS LIFE
 
 
 ## Student Life
@@ -1788,6 +1885,99 @@ Another major sporting event in which the enthusiastic sports person waits for i
 
 The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together.
 
+Health Centre,NISER:
+
+Health centre in NISER, has been established to provide health care facility to the institute members and their dependent entitled family members, students , research fellows.It aims at providing comprehensive primary health care.Apart from basic health care it also provides health promotional activities like health education,periodic health check-up and dietary advices.health Centre provides health care under CHSS of DAE.Health centre in NISER, Bhubaneswar has been established to provide health care facility to the Institute members and their dependent entitled family members, students, research fellows. It aims at providing comprehensive primary health care. Apart from basic health care it also provides health promotional activities like health education, periodical health check-up and dietary advices.Health Centre provides health care under CHSS of DAE.
+
+Empanelled Hospitals
+
+Amri hospital,Bhubaneswar
+
+Apollo Hospital,Bhubaneswar
+
+Kalinga Hospital,Bhubaneswar
+
+Sparsh hospital and Critical Care,Bhubaneswar
+
+Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
+
+L V Prasad Eye Institute,Bhubaneswar
+
+Hemalata Hospital Research Centre, Bhubaneswar
+
+Emergency Contact No:
+
+Ambulance,NISER:+917077884599/+917682001216
+
+Contact Doctor in medical emergency only:+918480610024
+
+**For More information regarding HEALTH CENTRE, NISER visit **https://www.niser.ac.in/healthcentre/
+
+
+# STUDENT PLACEMENT CELL, NISER
+
+The Students Placement Cell, NISER, established in 2021, with an aim to provide access to opportunities to all graduating students of NISER Bhubaneswar, works to network and connect the students with open positions in academia, industry, and research programs, which will further their career development.
+
+**Faculty Incharge:**
+
+Photo:
+
+Dr. RENJITH MATHEW
+
+Contact no:
+
+Photo:2494010,dosa@niser.ac.in
+
+Photo:
+
+RAJEEV SINGH
+
+Contact no:+91-674-249-4042,rajeev@niser.ac.in
+
+**STUDENTS Co-ordinators**
+
+Photo:
+
+ASHISH SHUKLA,
+
+Contact no:7608094027,spc@niser.ac.in
+
+Photo:
+
+TANYA PATTNAIK
+
+Contact no:8118031373,spc@niser.ac.in
+
+Photo:
+
+ARNAV PAUL
+
+Contact no:7800207734,spc@niser.ac.in
+
+Photo:
+
+NIKHIL KUMAR
+
+Contact no:9470431483,spc@niser.ac.in
+
+Photo:
+
+Kanishk KUMAR
+
+Contact no:6370630981,spc@niser.ac.in
+
+Photo:
+
+ABHISHEK ANIL DESHMUKH
+
+Contact no:637004297,spc@niser.ac.in
+
+Photo:
+
+TATA SATYA PRATEEK
+
+Contact no:8500861867,spc@niser.ac.in
+
 
 # GALLERY
 
@@ -1796,36 +1986,6 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 
 
 #
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.jpg "image_tooltip")
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
-
 
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -1855,12 +2015,6 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 
 
 ![alt_text](images/image10.jpg "image_tooltip")
-
-
-
-## EVENTS
-
-
 
 
 <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -1893,6 +2047,12 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 ![alt_text](images/image15.jpg "image_tooltip")
 
 
+
+## EVENTS
+
+
+
+
 <p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -1923,16 +2083,10 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 ![alt_text](images/image20.jpg "image_tooltip")
 
 
-
-
-
 <p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image21.jpg "image_tooltip")
-
-
-
 
 
 <p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -1959,10 +2113,16 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 ![alt_text](images/image25.jpg "image_tooltip")
 
 
+
+
+
 <p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image26.jpg "image_tooltip")
+
+
+
 
 
 <p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -1995,9 +2155,6 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 ![alt_text](images/image31.jpg "image_tooltip")
 
 
-
-
-
 <p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -2026,6 +2183,9 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 
 
 ![alt_text](images/image36.jpg "image_tooltip")
+
+
+
 
 
 <p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2106,14 +2266,68 @@ The culture of NISER is one defined with variety and vibrancy. Inter and Intra c
 ![alt_text](images/image49.jpg "image_tooltip")
 
 
+<p id="gdcalert50" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image50.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert51">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image50.jpg "image_tooltip")
+
+
+<p id="gdcalert51" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image51.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert52">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image51.jpg "image_tooltip")
+
+
+<p id="gdcalert52" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image52.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert53">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image52.jpg "image_tooltip")
+
+
+<p id="gdcalert53" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image53.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert54">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image53.jpg "image_tooltip")
+
+
+<p id="gdcalert54" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image54.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert55">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image54.jpg "image_tooltip")
+
+
 
 # STUDENTS ACHIEVEMENTS
 
 
-## Medalist
+### Revival: All IISER Cultural Meet 2021
 
 
-### IISM Champions
+### 1. Pandemonium, Dance: Second position bagged by Srishti Shah
+
+
+### 2. ARTiculate: Team Penfighters 2.0 (Arnab Pal, Vidhee Sonewane, Soumik Bhattacharyya)-second runners up and Team Sassy (Arshia Anjum and Sriman Mishra)-special mention
+
+
+### 3. Manthan, drama: Pawn, by Team L&L (Subhakanta, Subhamjyoti, Ankur, Saumya and Saurabh)-second prize
+
+
+### 4. Lazarus, Music: Saina Rath- first position (vocals), Apratim Choudhary second position (instrumentals)
+
+
+### 5. Capture it, Photography: Vidhee Sonewane- special mention
+
+
+### Tenacity, the inter IISER online sports extravaganza 2021
+
+
+### 1. NISER-Chess champions
+
+
+### 2. PES tournament-second (Kamalesh Kar)
+
+
+### IISM
 
 **Special Mentions/ Featured players**
 
@@ -2381,4 +2595,4 @@ Jatni Indian Post, (752050), [Map Link](https://goo.gl/maps/PmjCz2yainhyedFk8), 
 
 Email-Id: [studentsgymkhana@niser.ac.in](mailto:studentsgymkhana@niser.ac.in)
 
-Gymkhana Office: SAC room no. 1 (after taking an appointment by mail)
+Gymkhana Office: SAC room no. 1 .

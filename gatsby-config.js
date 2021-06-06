@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `NISER Student Affairs`,
-    description: `This is the best student affairs website of any college!`,
+    title: `NISER | Student Affairs`,
+    description: `National Institute of Science Education and Research, Bhubaneswar's Student Affairs Page`,
   },
 
   plugins: [

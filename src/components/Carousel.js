@@ -19,7 +19,7 @@ export default function Carousel(props) {
 
   const images = useStaticQuery(graphql`
     {
-      a: file(relativePath: { eq: "contents/images/image1.jpg" }) {
+      a: file(relativePath: { eq: "contents/images/image6.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -27,13 +27,38 @@ export default function Carousel(props) {
         }
       }
 
-      b: file(relativePath: { eq: "contents/images/image2.jpg" }) {
+      b: file(relativePath: { eq: "contents/images/image7.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
           }
         }
       }
+
+      c: file(relativePath: { eq: "contents/images/image10.jpg" }) {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+
+      d: file(relativePath: { eq: "contents/images/image17.jpg" }) {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+
+      e: file(relativePath: { eq: "contents/images/image23.jpg" }) {
+        childImageSharp {
+          fluid {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+
     }
   `)
 
@@ -46,6 +71,15 @@ export default function Carousel(props) {
       </div>
       <div className="image-container">
         <Img fluid={images.b.childImageSharp.fluid} />
+      </div>
+      <div className="image-container">
+        <Img fluid={images.c.childImageSharp.fluid} />
+      </div>
+      <div className="image-container">
+        <Img fluid={images.d.childImageSharp.fluid} />
+      </div>
+      <div className="image-container">
+        <Img fluid={images.e.childImageSharp.fluid} />
       </div>
     </Slider>
     </div>

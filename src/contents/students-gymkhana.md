@@ -1,7 +1,7 @@
 ---
 title: "STUDENTS’ GYMKHANA"
 ---
-Students’ Gymkhana is the student union of NISER. It works with a core to strengthen the voice of NISERites in all possible ways and coordinate actions on time.
+The members of Students’ Gymkhana are the student body representatives of NISER. It works to strengthen the voice of NISERites in all forums and coordinate action for the health, harmony and needs of all students.
 
 The Students Gymkhana along with its infrastructure is an organization to meet the following objectives:
 
@@ -17,19 +17,54 @@ The Students Gymkhana along with its infrastructure is an organization to meet t
 
 • To facilitate administrative and official support for all recognized student activities.
 
-. To organize cultural and sports events for students in NISER.
+. To provide the best possible level of health and amenities available to the students.
 
-The union is composed of 5 members:
+The Gymkhana is composed of 5 members:
 
-President, [Photo, Ashish Shukla, SCS Int-MSc. 4th year]
+
+
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+
+
+President, [Ashish Shukla, SCS Int-MSc. 4th year]
+
+
+
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
 
 Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
 
-Cultural Secretary, [Photo, Tanya Pattnaik, SBS Int-MSc. 4th-year]
 
-Sports Secretary, [Photo, Balabhadra Pradhan, SBS Int-MSc. 4th-year]
 
-Treasurer Secretary. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
+
+
+![alt_text](images/image3.jpg "image_tooltip")
+
+
+General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
+
+
+
+
+
+![alt_text](images/image4.jpg "image_tooltip")
+
+
+Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
+
+
+
+
+
+![alt_text](images/image5.jpg "image_tooltip")
+
+
+Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
 
 The members of Gymkhana are elected annually by an election conducted fairly under the eyes of Dean, SA.
 

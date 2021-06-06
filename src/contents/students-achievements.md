@@ -1,10 +1,34 @@
 ---
 title: "STUDENTS ACHIEVEMENTS"
 ---
-## Medalist
+### Revival: All IISER Cultural Meet 2021
 
 
-### IISM Champions
+### 1. Pandemonium, Dance: Second position bagged by Srishti Shah
+
+
+### 2. ARTiculate: Team Penfighters 2.0 (Arnab Pal, Vidhee Sonewane, Soumik Bhattacharyya)-second runners up and Team Sassy (Arshia Anjum and Sriman Mishra)-special mention
+
+
+### 3. Manthan, drama: Pawn, by Team L&L (Subhakanta, Subhamjyoti, Ankur, Saumya and Saurabh)-second prize
+
+
+### 4. Lazarus, Music: Saina Rath- first position (vocals), Apratim Choudhary second position (instrumentals)
+
+
+### 5. Capture it, Photography: Vidhee Sonewane- special mention
+
+
+### Tenacity, the inter IISER online sports extravaganza 2021
+
+
+### 1. NISER-Chess champions
+
+
+### 2. PES tournament-second (Kamalesh Kar)
+
+
+### IISM
 
 **Special Mentions/ Featured players**
 
