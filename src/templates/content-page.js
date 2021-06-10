@@ -16,7 +16,7 @@ export default function ContentPage({ data }) {
     return {
       heading: x,
       path:
-        "/" + x.replaceAll(" ", "-").replaceAll("’", "").toLowerCase() + "/",
+        "/" + x.replace(/ /g, "-").replace(/’/g, "").toLowerCase() + "/",
     }
   })
   const [query, setQuery] = useState("")
@@ -46,7 +46,7 @@ export default function ContentPage({ data }) {
                   {headings.map(heading => {
                     if (
                       heading.heading.toUpperCase() ===
-                      post.frontmatter.title.toUpperCase().replaceAll("-", " ")
+                      post.frontmatter.title.toUpperCase().replace(/-/g, " ")
                     ) {
                       return <li style={{ opacity: 0.5 }}>{heading.heading}</li>
                     }

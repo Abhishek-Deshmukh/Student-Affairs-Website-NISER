@@ -138,7 +138,7 @@ export default function Home() {
     },
     {
       title: "Student Placement Cell",
-      link: "/student-placement-cell/",
+      link: "/student-placement-cell, -niser/",
     },
     {
       title: "Gallery",
@@ -148,6 +148,10 @@ export default function Home() {
     {
       title: "Students Achievements",
       link: "/students-achievements/",
+    },
+    {
+      title: "Health center",
+      link: "/health-center,-niser/",
     },
     {
       title: "Forms for Students",
@@ -221,7 +225,9 @@ export default function Home() {
           <div className="col-sm-12 col-md-6 col-lg-9 summary">
             <h2>Student Affairs</h2>
             <p class="container">
-              The members of Students’ Gymkhana are the student body
+              The student affairs office functions in the interest of all
+              students, working actively to resolve and respond to all student
+              related issues. The members of Students’ Gymkhana are the student body
               representatives of NISER. It works with a core to strengthen the
               voice of NISERites in all possible ways and coordinate actions
               on time.
