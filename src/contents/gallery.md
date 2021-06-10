@@ -4,83 +4,7 @@ title: "GALLERY"
 ## NISER (Campus)
 
 
-#
-
-
-
-![alt_text](images/image6.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image7.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image8.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image9.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image10.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image11.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image12.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image13.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image14.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image15.jpg "image_tooltip")
-
-
-
-## EVENTS
-
-
-
-
-
-
-![alt_text](images/image16.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image17.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image18.jpg "image_tooltip")
-
-
-
-
-![alt_text](images/image19.jpg "image_tooltip")
-
+##
 
 
 
@@ -114,11 +38,11 @@ title: "GALLERY"
 
 
 
-
-
-
 ![alt_text](images/image26.jpg "image_tooltip")
 
+
+
+## EVENTS
 
 
 
@@ -183,6 +107,9 @@ title: "GALLERY"
 
 
 
+
+
+
 ![alt_text](images/image38.jpg "image_tooltip")
 
 
@@ -233,6 +160,9 @@ title: "GALLERY"
 
 
 
+
+
+
 ![alt_text](images/image48.jpg "image_tooltip")
 
 
@@ -264,3 +194,58 @@ title: "GALLERY"
 
 
 ![alt_text](images/image54.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image55.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image56.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image57.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image58.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image59.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image60.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image61.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image62.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image63.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image64.jpg "image_tooltip")
+
+
+
+
+![alt_text](images/image65.jpg "image_tooltip")

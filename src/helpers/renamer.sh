@@ -4,11 +4,12 @@
 
 counter=1
 
-while [ $counter -le 53 ]
+while [ $counter -le 49 ]
 do
-  from="src/contents/images/image"$((54 - $counter))".jpg"
+  from="src/contents/images/image"$((60 - $counter))".jpg"
+  to="src/contents/images/image"$((69 - $counter))".jpg"
   ((counter++))
-  to="src/contents/images/image"$((60 - $counter))".jpg"
+  # echo "mv" $from $to
   mv $from $to
 done
 

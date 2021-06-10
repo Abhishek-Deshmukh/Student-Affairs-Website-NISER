@@ -138,7 +138,7 @@ export default function Home() {
     },
     {
       title: "Student Placement Cell",
-      link: "/student-placement-cell, -niser/",
+      link: "/student-placement-cell,-niser/",
     },
     {
       title: "Gallery",

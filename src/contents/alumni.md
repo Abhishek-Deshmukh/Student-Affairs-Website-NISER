@@ -1,6 +1,65 @@
 ---
 title: "ALUMNI"
 ---
+## Achievements of alumni
+
+**_Students Achievements: _**
+
+**Amit Kumar - _Assistant professor of Mathematics at NIT-Andhra pradesh._**
+
+**Mohammed Nasim-_ Faculty at IISER Berhampur._**
+
+**Sandeep Chatterjee- _Faculty at IISER Berhampur._**
+
+**Chitrasen Jena-_Faculty at IISER tirupati._**
+
+**Sabhyasachi Ghosh- _Faculty at IIT Bhilai._**
+
+**Shorba Bhattacharya - _secured a 1st rank in NET 2017_**
+
+**Pavan - secured a _2nd rand in NET 2019_**
+
+**Sesa Dev- _Research Associate at Georg-August University of Gottingen, Germany._**
+
+**_Vyashnavi v- PHD scholar at MIT_**
+
+**Mr. Vijay J Iyer-_ became the first recipient of the [Rajendran Raja Fellowship of Fermilab.](http://www.fnal.gov/pub/forphysicists/fellowships/rajendran_raja/index.html)_**
+
+**_Dr. Gaurav Jha- Process Engineer, Intel Corporation_**
+
+**_Dr. Soham Saha- Clinical Scientist, IPSEN_**
+
+**_Dr. Siddharth Satpathy- Machine Learning Engineer at Deepfence Inc._**
+
+**_Dr. Sabyasachi Barik- Photonics Engineer, Nexus Photonics_**
+
+**_Dr. Harveen Kaur- Process Engineer, Intel Corporation_**
+
+**_Dr. Dibyajyoti Dutta- Credit risk analyst, Goldman Sachs_**
+
+**_Dr. Adyasha Panigrahi- Senior Scientist at Sygnature Discovery_**
+
+**Dr. Sandeep Kumar Rana -  _Data scientist ,ARP Investment _**
+
+**Dr. Minaxi Sharma- _Managing member, Ample Electrical Solution_**
+
+**Dr. Samir Kumar - _Assistant Professor , Jai Prakash Narayan University ,Patna_**
+
+**Dr. Sabita Das- _Assistant professor ,KKS Women’s College_**
+
+**_Mr. Mohit Soni- Scientist at BARC_**
+
+**_Mr. Rudra Prasad Sahu- IIM, Lucknow_**
+
+**_Mr. Ankit Singh- IIM, Ranchi_**
+
+**_Mr. Srikant Kumar Sethi- IIM, Ranchi_**
+
+**_Mr. Suni Swain- IIM, Kashipur_**
+
+**_ _**
+
+
 ## Int. MSc.
 
 

@@ -1,9 +1,9 @@
-<!-- Coppppy and paste the converted output. -->
+<!-- Copyy and paste the converted output. -->
 
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 47.153 seconds.
+Conversion time: 28.303 seconds.
 
 
 Using this Markdown file:
@@ -16,7 +16,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Sun Jun 06 2021 11:13:44 GMT-0700 (PDT)
+* Wed Jun 09 2021 23:29:33 GMT-0700 (PDT)
 * Source doc: Student Affairs Content - dev
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
@@ -28,7 +28,7 @@ You have 22 H1 headings. You may want to use the "H1 -> H2" option to demote all
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 54.</p>
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 65.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
 <p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
@@ -85,6 +85,17 @@ You have 22 H1 headings. You may want to use the "H1 -> H2" option to demote all
 <a href="#gdcalert52">alert52</a>
 <a href="#gdcalert53">alert53</a>
 <a href="#gdcalert54">alert54</a>
+<a href="#gdcalert55">alert55</a>
+<a href="#gdcalert56">alert56</a>
+<a href="#gdcalert57">alert57</a>
+<a href="#gdcalert58">alert58</a>
+<a href="#gdcalert59">alert59</a>
+<a href="#gdcalert60">alert60</a>
+<a href="#gdcalert61">alert61</a>
+<a href="#gdcalert62">alert62</a>
+<a href="#gdcalert63">alert63</a>
+<a href="#gdcalert64">alert64</a>
+<a href="#gdcalert65">alert65</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
@@ -123,7 +134,13 @@ The following document can be converted into markdown using the [`Docs to Markdo
 
 # Student Affairs Office
 
-Photo:
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.jpg "image_tooltip")
+
 
 Name: Dr. Renjith Mathew
 
@@ -135,7 +152,13 @@ Address: [Office no], Admin Building, 1st floor
 
 Contacts: 2494010, [dosa@niser.ac.in](mailto:dosa@niser.ac.in)
 
-Photo:
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
 
 Name: Rajeev Singh:
 
@@ -147,7 +170,13 @@ Address: Student Affairs office, Academic building, Ground Floor
 
 Contacts:+91-674-249-4042,[rajeev@niser.ac.in](mailto:rajeev@niser.ac.in)
 
-Photo:
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.jpg "image_tooltip")
+
 
 Name M Suryanarayan-
 
@@ -159,7 +188,13 @@ Address: Student Activity Centre(SAC),office No-1
 
 Contacts:06742494412,[surya-pet@niser.ac.in](mailto:surya-pet@niser.ac.in)
 
-Photo:
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.jpg "image_tooltip")
+
 
 Name: Vijay Singh, NISER
 
@@ -169,9 +204,15 @@ Role: Under the direction of the Dean of Students, helps in the planning, coordi
 
 Address: Student affairs office, Academic building, Ground floor.
 
-Contacts:
+Contacts:+91-674-249-4033,vijay@niser.ac.in
 
-Photo:
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.jpg "image_tooltip")
+
 
 Name:Chinmaya Ranjan Sundaray
 
@@ -181,7 +222,7 @@ Role: He is concerned with  Student Affairs office-related works, especially rou
 
 Address: Student Affairs Office, Academic building, Ground floor.
 
-Contacts:
+Contacts:0674-2494044,chinmaysundaray@niser.ac.in
 
 
 # ANNOUNCEMENTS
@@ -242,50 +283,50 @@ The Gymkhana is composed of 5 members:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.jpg "image_tooltip")
+![alt_text](images/image6.jpg "image_tooltip")
 
 
 President, [Ashish Shukla, SCS Int-MSc. 4th year]
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+![alt_text](images/image7.jpg "image_tooltip")
 
 
 Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.jpg "image_tooltip")
+![alt_text](images/image8.jpg "image_tooltip")
 
 
 General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](images/image9.jpg "image_tooltip")
 
 
 Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](images/image10.jpg "image_tooltip")
 
 
 Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
@@ -554,6 +595,65 @@ NISER hosted the IISM 2018, inviting contingents from 9 other participating inst
 
 
 # ALUMNI
+
+
+## Achievements of alumni
+
+**_Students Achievements: _**
+
+**Amit Kumar - _Assistant professor of Mathematics at NIT-Andhra pradesh._**
+
+**Mohammed Nasim-_ Faculty at IISER Berhampur._**
+
+**Sandeep Chatterjee- _Faculty at IISER Berhampur._**
+
+**Chitrasen Jena-_Faculty at IISER tirupati._**
+
+**Sabhyasachi Ghosh- _Faculty at IIT Bhilai._**
+
+**Shorba Bhattacharya - _secured a 1st rank in NET 2017_**
+
+**Pavan - secured a _2nd rand in NET 2019_**
+
+**Sesa Dev- _Research Associate at Georg-August University of Gottingen, Germany._**
+
+**_Vyashnavi v- PHD scholar at MIT_**
+
+**Mr. Vijay J Iyer-_ became the first recipient of the [Rajendran Raja Fellowship of Fermilab.](http://www.fnal.gov/pub/forphysicists/fellowships/rajendran_raja/index.html)_**
+
+**_Dr. Gaurav Jha- Process Engineer, Intel Corporation_**
+
+**_Dr. Soham Saha- Clinical Scientist, IPSEN_**
+
+**_Dr. Siddharth Satpathy- Machine Learning Engineer at Deepfence Inc._**
+
+**_Dr. Sabyasachi Barik- Photonics Engineer, Nexus Photonics_**
+
+**_Dr. Harveen Kaur- Process Engineer, Intel Corporation_**
+
+**_Dr. Dibyajyoti Dutta- Credit risk analyst, Goldman Sachs_**
+
+**_Dr. Adyasha Panigrahi- Senior Scientist at Sygnature Discovery_**
+
+**Dr. Sandeep Kumar Rana -  _Data scientist ,ARP Investment _**
+
+**Dr. Minaxi Sharma- _Managing member, Ample Electrical Solution_**
+
+**Dr. Samir Kumar - _Assistant Professor , Jai Prakash Narayan University ,Patna_**
+
+**Dr. Sabita Das- _Assistant professor ,KKS Women’s College_**
+
+**_Mr. Mohit Soni- Scientist at BARC_**
+
+**_Mr. Rudra Prasad Sahu- IIM, Lucknow_**
+
+**_Mr. Ankit Singh- IIM, Ranchi_**
+
+**_Mr. Srikant Kumar Sethi- IIM, Ranchi_**
+
+**_Mr. Suni Swain- IIM, Kashipur_**
+
+**_ _**
 
 
 ## Int. MSc.
@@ -1885,136 +1985,40 @@ Another major sporting event in which the enthusiastic sports person waits for i
 
 The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together.
 
-Health Centre,NISER:
+
+# Health Centre,NISER
 
 Health centre in NISER, has been established to provide health care facility to the institute members and their dependent entitled family members, students , research fellows.It aims at providing comprehensive primary health care.Apart from basic health care it also provides health promotional activities like health education,periodic health check-up and dietary advices.health Centre provides health care under CHSS of DAE.Health centre in NISER, Bhubaneswar has been established to provide health care facility to the Institute members and their dependent entitled family members, students, research fellows. It aims at providing comprehensive primary health care. Apart from basic health care it also provides health promotional activities like health education, periodical health check-up and dietary advices.Health Centre provides health care under CHSS of DAE.
 
-Empanelled Hospitals
+**Empanelled Hospitals:**
 
-Amri hospital,Bhubaneswar
 
-Apollo Hospital,Bhubaneswar
 
-Kalinga Hospital,Bhubaneswar
+*   Amri hospital,Bhubaneswar
+*   Apollo Hospital,Bhubaneswar
+*   Kalinga Hospital,Bhubaneswar
+*   Sparsh hospital and Critical Care,Bhubaneswar
+*   Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
+*   L V Prasad Eye Institute,Bhubaneswar
+*   Hemalata Hospital Research Centre, Bhubaneswar
 
-Sparsh hospital and Critical Care,Bhubaneswar
+**Emergency Contact No:**
 
-Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
 
-L V Prasad Eye Institute,Bhubaneswar
 
-Hemalata Hospital Research Centre, Bhubaneswar
+*   Ambulance,NISER:+917077884599/+917682001216
+*   Contact Doctor in medical emergency only:+918480610024
 
-Emergency Contact No:
-
-Ambulance,NISER:+917077884599/+917682001216
-
-Contact Doctor in medical emergency only:+918480610024
-
-**For More information regarding HEALTH CENTRE, NISER visit **https://www.niser.ac.in/healthcentre/
+**For More information regarding HEALTH CENTRE, NISER visit: **[https://www.niser.ac.in/healthcentre/](https://www.niser.ac.in/healthcentre/)
 
 
 # STUDENT PLACEMENT CELL, NISER
 
 The Students Placement Cell, NISER, established in 2021, with an aim to provide access to opportunities to all graduating students of NISER Bhubaneswar, works to network and connect the students with open positions in academia, industry, and research programs, which will further their career development.
 
-**Faculty Incharge:**
 
-Photo:
+## Faculty Incharge:
 
-Dr. RENJITH MATHEW
-
-Contact no:
-
-Photo:2494010,dosa@niser.ac.in
-
-Photo:
-
-RAJEEV SINGH
-
-Contact no:+91-674-249-4042,rajeev@niser.ac.in
-
-**STUDENTS Co-ordinators**
-
-Photo:
-
-ASHISH SHUKLA,
-
-Contact no:7608094027,spc@niser.ac.in
-
-Photo:
-
-TANYA PATTNAIK
-
-Contact no:8118031373,spc@niser.ac.in
-
-Photo:
-
-ARNAV PAUL
-
-Contact no:7800207734,spc@niser.ac.in
-
-Photo:
-
-NIKHIL KUMAR
-
-Contact no:9470431483,spc@niser.ac.in
-
-Photo:
-
-Kanishk KUMAR
-
-Contact no:6370630981,spc@niser.ac.in
-
-Photo:
-
-ABHISHEK ANIL DESHMUKH
-
-Contact no:637004297,spc@niser.ac.in
-
-Photo:
-
-TATA SATYA PRATEEK
-
-Contact no:8500861867,spc@niser.ac.in
-
-
-# GALLERY
-
-
-## NISER (Campus)
-
-
-#
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.jpg "image_tooltip")
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.jpg "image_tooltip")
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.jpg "image_tooltip")
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.jpg "image_tooltip")
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.jpg "image_tooltip")
 
 
 <p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2023,10 +2027,25 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image11.jpg "image_tooltip")
 
 
+Dr. RENJITH MATHEW
+
+Contact no: 2494010,[dosa@niser.ac.in](mailto:dosa@niser.ac.in)
+
+
+
 <p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image12.jpg "image_tooltip")
+
+
+RAJEEV SINGH
+
+Contact no:+91-674-249-4042,[rajeev@niser.ac.in](mailto:rajeev@niser.ac.in)
+
+
+## STUDENTS Co-ordinators
+
 
 
 <p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2035,10 +2054,22 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image13.jpg "image_tooltip")
 
 
+ASHISH SHUKLA,
+
+Contact no:7608094027,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+
+
+
 <p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image14.jpg "image_tooltip")
+
+
+TANYA PATTNAIK
+
+Contact no:8118031373,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+
 
 
 <p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2047,9 +2078,9 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image15.jpg "image_tooltip")
 
 
+ARNAV PAUL
 
-## EVENTS
-
+Contact no:7800207734,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 
 
 
@@ -2059,10 +2090,22 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image16.jpg "image_tooltip")
 
 
+NIKHIL KUMAR
+
+Contact no:9470431483,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+
+
+
 <p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image17.jpg "image_tooltip")
+
+
+Kanishk KUMAR
+
+Contact no:6370630981,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+
 
 
 <p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2071,11 +2114,30 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image18.jpg "image_tooltip")
 
 
+ABHISHEK ANIL DESHMUKH
+
+Contact no:637004297,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+
+
+
 <p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image19.jpg "image_tooltip")
 
+
+TATA SATYA PRATEEK
+
+Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+
+
+# GALLERY
+
+
+## NISER (Campus)
+
+
+##
 
 <p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -2113,14 +2175,14 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image25.jpg "image_tooltip")
 
 
-
-
-
 <p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image26.jpg "image_tooltip")
 
+
+
+## EVENTS
 
 
 
@@ -2194,6 +2256,9 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image37.jpg "image_tooltip")
 
 
+
+
+
 <p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -2254,6 +2319,9 @@ Contact no:8500861867,spc@niser.ac.in
 ![alt_text](images/image47.jpg "image_tooltip")
 
 
+
+
+
 <p id="gdcalert48" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image48.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert49">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -2294,6 +2362,72 @@ Contact no:8500861867,spc@niser.ac.in
 
 
 ![alt_text](images/image54.jpg "image_tooltip")
+
+
+<p id="gdcalert55" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image55.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert56">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image55.jpg "image_tooltip")
+
+
+<p id="gdcalert56" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image56.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert57">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image56.jpg "image_tooltip")
+
+
+<p id="gdcalert57" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image57.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert58">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image57.jpg "image_tooltip")
+
+
+<p id="gdcalert58" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image58.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert59">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image58.jpg "image_tooltip")
+
+
+<p id="gdcalert59" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image59.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert60">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image59.jpg "image_tooltip")
+
+
+<p id="gdcalert60" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image60.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert61">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image60.jpg "image_tooltip")
+
+
+<p id="gdcalert61" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image61.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert62">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image61.jpg "image_tooltip")
+
+
+<p id="gdcalert62" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image62.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert63">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image62.jpg "image_tooltip")
+
+
+<p id="gdcalert63" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image63.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert64">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image63.jpg "image_tooltip")
+
+
+<p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image64.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image64.jpg "image_tooltip")
+
+
+<p id="gdcalert65" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image65.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert66">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image65.jpg "image_tooltip")
 
 
 

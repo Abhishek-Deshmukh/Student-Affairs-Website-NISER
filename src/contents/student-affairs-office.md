@@ -1,7 +1,8 @@
 ---
 title: "Student Affairs Office"
 ---
-Photo:
+![alt_text](images/image1.jpg "image_tooltip")
+
 
 Name: Dr. Renjith Mathew
 
@@ -13,7 +14,12 @@ Address: [Office no], Admin Building, 1st floor
 
 Contacts: 2494010, [dosa@niser.ac.in](mailto:dosa@niser.ac.in)
 
-Photo:
+
+
+
+
+![alt_text](images/image2.jpg "image_tooltip")
+
 
 Name: Rajeev Singh:
 
@@ -25,7 +31,12 @@ Address: Student Affairs office, Academic building, Ground Floor
 
 Contacts:+91-674-249-4042,[rajeev@niser.ac.in](mailto:rajeev@niser.ac.in)
 
-Photo:
+
+
+
+
+![alt_text](images/image3.jpg "image_tooltip")
+
 
 Name M Suryanarayan-
 
@@ -37,7 +48,12 @@ Address: Student Activity Centre(SAC),office No-1
 
 Contacts:06742494412,[surya-pet@niser.ac.in](mailto:surya-pet@niser.ac.in)
 
-Photo:
+
+
+
+
+![alt_text](images/image4.jpg "image_tooltip")
+
 
 Name: Vijay Singh, NISER
 
@@ -47,9 +63,14 @@ Role: Under the direction of the Dean of Students, helps in the planning, coordi
 
 Address: Student affairs office, Academic building, Ground floor.
 
-Contacts:
+Contacts:+91-674-249-4033,vijay@niser.ac.in
 
-Photo:
+
+
+
+
+![alt_text](images/image5.jpg "image_tooltip")
+
 
 Name:Chinmaya Ranjan Sundaray
 
@@ -59,4 +80,4 @@ Role: He is concerned with  Student Affairs office-related works, especially rou
 
 Address: Student Affairs Office, Academic building, Ground floor.
 
-Contacts:
+Contacts:0674-2494044,chinmaysundaray@niser.ac.in

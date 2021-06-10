@@ -19,7 +19,7 @@ export default function Carousel(props) {
 
   const images = useStaticQuery(graphql`
     {
-      a: file(relativePath: { eq: "contents/images/image6.jpg" }) {
+      a: file(relativePath: { eq: "contents/images/image20.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -27,7 +27,7 @@ export default function Carousel(props) {
         }
       }
 
-      b: file(relativePath: { eq: "contents/images/image7.jpg" }) {
+      b: file(relativePath: { eq: "contents/images/image21.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -35,7 +35,7 @@ export default function Carousel(props) {
         }
       }
 
-      c: file(relativePath: { eq: "contents/images/image10.jpg" }) {
+      c: file(relativePath: { eq: "contents/images/image24.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -43,7 +43,7 @@ export default function Carousel(props) {
         }
       }
 
-      d: file(relativePath: { eq: "contents/images/image17.jpg" }) {
+      d: file(relativePath: { eq: "contents/images/image31.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -51,7 +51,7 @@ export default function Carousel(props) {
         }
       }
 
-      e: file(relativePath: { eq: "contents/images/image23.jpg" }) {
+      e: file(relativePath: { eq: "contents/images/image37.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
