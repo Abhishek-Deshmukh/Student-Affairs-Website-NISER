@@ -138,7 +138,7 @@ export default function Home() {
     },
     {
       title: "Student Placement Cell",
-      link: "/student-placement-cell,-niser/",
+      link: "/student-placement-cell/",
     },
     {
       title: "Gallery",
@@ -151,7 +151,7 @@ export default function Home() {
     },
     {
       title: "Health center",
-      link: "/health-center,-niser/",
+      link: "/health-center/",
     },
     {
       title: "Forms for Students",

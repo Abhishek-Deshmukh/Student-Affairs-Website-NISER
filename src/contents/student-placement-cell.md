@@ -1,5 +1,5 @@
 ---
-title: "STUDENT PLACEMENT CELL, NISER"
+title: "STUDENT PLACEMENT CELL"
 ---
 The Students Placement Cell, NISER, established in 2021, with an aim to provide access to opportunities to all graduating students of NISER Bhubaneswar, works to network and connect the students with open positions in academia, industry, and research programs, which will further their career development.
 

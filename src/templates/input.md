@@ -1,9 +1,9 @@
-<!-- Copyy and paste the converted output. -->
+<!-- Copy and paste the converted output. -->
 
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 28.303 seconds.
+Conversion time: 57.029 seconds.
 
 
 Using this Markdown file:
@@ -16,7 +16,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β29
-* Wed Jun 09 2021 23:29:33 GMT-0700 (PDT)
+* Thu Jun 10 2021 12:04:44 GMT-0700 (PDT)
 * Source doc: Student Affairs Content - dev
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
@@ -227,7 +227,21 @@ Contacts:0674-2494044,chinmaysundaray@niser.ac.in
 
 # ANNOUNCEMENTS
 
-[No Announcements yet]
+
+## Novel Coronavirus (COVID-19)
+
+NISER is monitoring the evolving impacts of the COVID-19 virus in India and its possible impact on the NISER community.
+
+A team comprising members of senior management from across NISER, as well as health and safety and other relevant experts, meets daily to assess the situation and to decide on appropriate actions for NISER, taking into account the advice of expert external authorities. Our highest priority is to protect the health of NISER members and of everyone on the site, while allowing NISER to continue working throughout this difficult time. All measures are decided with this overarching objective in mind.
+
+By now it has been recognised that the virus may go through four stages of development that the expert health authorities have identified.
+
+
+
+*   Stage I - Alert of the spreading of the virus by WHO
+*   Stage II - A Host-State declares part of its territory, distant from NISER, as affected or threatened by an outbreak of COVID-19. The objective in this phase is to prevent and limit the spread of the virus.
+*   Stage III - The virus circulates widely in the area in which NISER is located
+*   Stage IV - Infection spreads at NISER itself.
 
 
 # NISER Detailed Map
@@ -1986,7 +2000,7 @@ Another major sporting event in which the enthusiastic sports person waits for i
 The culture of NISER is one defined with variety and vibrancy. Inter and Intra college cultural fests, festivals and competitions keep the student community on their toes, showcasing the bold and the best. The events run into many different genres banking on the novel themes and enthusiastic participation of the many clubs of the cultural committee of NISER. Talent, initiative and sheer determination keeps the cultural fuel of our college running and enables us to host our events, competitions and fests. NISER also takes great pleasure in extending an active volunteer base to the SPICMACAY and has hosted their events on campus. Days of National Importance are also celebrated at the community centre, amphitheatre and SAC to enjoy the festivities together.
 
 
-# Health Centre,NISER
+# Health Centre
 
 Health centre in NISER, has been established to provide health care facility to the institute members and their dependent entitled family members, students , research fellows.It aims at providing comprehensive primary health care.Apart from basic health care it also provides health promotional activities like health education,periodic health check-up and dietary advices.health Centre provides health care under CHSS of DAE.Health centre in NISER, Bhubaneswar has been established to provide health care facility to the Institute members and their dependent entitled family members, students, research fellows. It aims at providing comprehensive primary health care. Apart from basic health care it also provides health promotional activities like health education, periodical health check-up and dietary advices.Health Centre provides health care under CHSS of DAE.
 
@@ -2009,10 +2023,10 @@ Health centre in NISER, has been established to provide health care facility to 
 *   Ambulance,NISER:+917077884599/+917682001216
 *   Contact Doctor in medical emergency only:+918480610024
 
-**For More information regarding HEALTH CENTRE, NISER visit: **[https://www.niser.ac.in/healthcentre/](https://www.niser.ac.in/healthcentre/)
+**For More information regarding HEALTH CENTRE, NISER visit**: [Health Centre | National Institute of Science Education and Research](https://www.niser.ac.in/healthcentre/)
 
 
-# STUDENT PLACEMENT CELL, NISER
+# STUDENT PLACEMENT CELL
 
 The Students Placement Cell, NISER, established in 2021, with an aim to provide access to opportunities to all graduating students of NISER Bhubaneswar, works to network and connect the students with open positions in academia, industry, and research programs, which will further their career development.
 

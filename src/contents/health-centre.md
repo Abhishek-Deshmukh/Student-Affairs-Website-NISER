@@ -1,5 +1,5 @@
 ---
-title: "Health Centre,NISER"
+title: "Health Centre"
 ---
 Health centre in NISER, has been established to provide health care facility to the institute members and their dependent entitled family members, students , research fellows.It aims at providing comprehensive primary health care.Apart from basic health care it also provides health promotional activities like health education,periodic health check-up and dietary advices.health Centre provides health care under CHSS of DAE.Health centre in NISER, Bhubaneswar has been established to provide health care facility to the Institute members and their dependent entitled family members, students, research fellows. It aims at providing comprehensive primary health care. Apart from basic health care it also provides health promotional activities like health education, periodical health check-up and dietary advices.Health Centre provides health care under CHSS of DAE.
 
@@ -22,4 +22,4 @@ Health centre in NISER, has been established to provide health care facility to 
 *   Ambulance,NISER:+917077884599/+917682001216
 *   Contact Doctor in medical emergency only:+918480610024
 
-**For More information regarding HEALTH CENTRE, NISER visit: **[https://www.niser.ac.in/healthcentre/](https://www.niser.ac.in/healthcentre/)
+**For More information regarding HEALTH CENTRE, NISER visit**: [Health Centre | National Institute of Science Education and Research](https://www.niser.ac.in/healthcentre/)
