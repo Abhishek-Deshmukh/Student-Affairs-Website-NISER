@@ -7,19 +7,19 @@ Health centre in NISER, has been established to provide health care facility to 
 
 
 
-*   Amri hospital,Bhubaneswar
-*   Apollo Hospital,Bhubaneswar
-*   Kalinga Hospital,Bhubaneswar
-*   Sparsh hospital and Critical Care,Bhubaneswar
-*   Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
-*   L V Prasad Eye Institute,Bhubaneswar
-*   Hemalata Hospital Research Centre, Bhubaneswar
+* Amri hospital,Bhubaneswar
+* Apollo Hospital,Bhubaneswar
+* Kalinga Hospital,Bhubaneswar
+* Sparsh hospital and Critical Care,Bhubaneswar
+* Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
+* L V Prasad Eye Institute,Bhubaneswar
+* Hemalata Hospital Research Centre, Bhubaneswar
 
 **Emergency Contact No:**
 
 
 
-*   Ambulance,NISER:+917077884599/+917682001216
-*   Contact Doctor in medical emergency only:+918480610024
+* Ambulance,NISER:+917077884599/+917682001216
+* Contact Doctor in medical emergency only:+918480610024
 
 **For More information regarding HEALTH CENTRE, NISER visit**: [Health Centre | National Institute of Science Education and Research](https://www.niser.ac.in/healthcentre/)

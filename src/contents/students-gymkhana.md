@@ -28,7 +28,7 @@ The Gymkhana is composed of 5 members:
 ![alt_text](images/image6.jpg "image_tooltip")
 
 
-President, [Ashish Shukla, SCS Int-MSc. 4th year]
+President, [Ashish Shukla, SCS Int-MSc. 5th year]
 
 
 
@@ -37,7 +37,7 @@ President, [Ashish Shukla, SCS Int-MSc. 4th year]
 ![alt_text](images/image7.jpg "image_tooltip")
 
 
-Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
+Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 5th year]
 
 
 
@@ -46,7 +46,7 @@ Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
 ![alt_text](images/image8.jpg "image_tooltip")
 
 
-General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
+General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 5th-year]
 
 
 
@@ -55,7 +55,7 @@ General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
 ![alt_text](images/image9.jpg "image_tooltip")
 
 
-Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
+Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 5th-year]
 
 
 
@@ -64,7 +64,7 @@ Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
 ![alt_text](images/image10.jpg "image_tooltip")
 
 
-Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
+Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 5th-year]
 
 The members of Gymkhana are elected annually by an election conducted fairly under the eyes of Dean, SA.
 

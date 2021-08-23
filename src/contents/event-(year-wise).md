@@ -21,7 +21,7 @@ title: "EVENT (year-wise)"
 
 **Koffee With Kishore:** (10 Aug 2019) DMC : An cultural event organised on the occasion of the birthday of Kishore Kumar . It showcases drama, music, dance, stand up comedy and any other mode of entertainment that one can think of.
 
-**Inter-Batch Chess Tournament: **(Aug 2019) The Inter-Batch Tournament **(IBT)**, is a key event of the chess club which is aimed towards bringing the players of different batches together as a team and gauge their overall performance. Each batch puts out a team of 6(5 players and 1 sub), and a Swiss style team tournament is held. IBT helps to introduce the freshers batch to the chess culture in place already.
+**Inter-Batch Chess Tournament:** (Aug 2019) The Inter-Batch Tournament **(IBT)**, is a key event of the chess club which is aimed towards bringing the players of different batches together as a team and gauge their overall performance. Each batch puts out a team of 6(5 players and 1 sub), and a Swiss style team tournament is held. IBT helps to introduce the freshers batch to the chess culture in place already.
 
 The 2019 edition of IBT saw the participation of Batches 15,16,17,18 and 19. Batch 15, in their last ever IBT came out on top, while Batch 18 were the runners up.
 

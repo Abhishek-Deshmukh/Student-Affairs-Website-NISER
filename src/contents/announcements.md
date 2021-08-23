@@ -11,7 +11,7 @@ By now it has been recognised that the virus may go through four stages of devel
 
 
 
-*   Stage I - Alert of the spreading of the virus by WHO
-*   Stage II - A Host-State declares part of its territory, distant from NISER, as affected or threatened by an outbreak of COVID-19. The objective in this phase is to prevent and limit the spread of the virus.
-*   Stage III - The virus circulates widely in the area in which NISER is located
-*   Stage IV - Infection spreads at NISER itself.
+* Stage I - Alert of the spreading of the virus by WHO
+* Stage II - A Host-State declares part of its territory, distant from NISER, as affected or threatened by an outbreak of COVID-19. The objective in this phase is to prevent and limit the spread of the virus.
+* Stage III - The virus circulates widely in the area in which NISER is located
+* Stage IV - Infection spreads at NISER itself.

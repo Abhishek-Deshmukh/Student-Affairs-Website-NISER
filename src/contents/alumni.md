@@ -3,11 +3,11 @@ title: "ALUMNI"
 ---
 ## Achievements of alumni
 
-**_Students Achievements: _**
+**_Students Achievements:_**
 
 **Amit Kumar - _Assistant professor of Mathematics at NIT-Andhra pradesh._**
 
-**Mohammed Nasim-_ Faculty at IISER Berhampur._**
+**Mohammed Nasim-** **_Faculty at IISER Berhampur._**
 
 **Sandeep Chatterjee- _Faculty at IISER Berhampur._**
 
@@ -23,7 +23,7 @@ title: "ALUMNI"
 
 **_Vyashnavi v- PHD scholar at MIT_**
 
-**Mr. Vijay J Iyer-_ became the first recipient of the [Rajendran Raja Fellowship of Fermilab.](http://www.fnal.gov/pub/forphysicists/fellowships/rajendran_raja/index.html)_**
+**Mr. Vijay J Iyer-** **_became the first recipient of the [Rajendran Raja Fellowship of Fermilab.](http://www.fnal.gov/pub/forphysicists/fellowships/rajendran_raja/index.html)_**
 
 **_Dr. Gaurav Jha- Process Engineer, Intel Corporation_**
 
@@ -39,7 +39,7 @@ title: "ALUMNI"
 
 **_Dr. Adyasha Panigrahi- Senior Scientist at Sygnature Discovery_**
 
-**Dr. Sandeep Kumar Rana -  _Data scientist ,ARP Investment _**
+**Dr. Sandeep Kumar Rana -**  **_Data scientist ,ARP Investment_**
 
 **Dr. Minaxi Sharma- _Managing member, Ample Electrical Solution_**
 

@@ -35,7 +35,7 @@ export default function Carousel(props) {
         }
       }
 
-      c: file(relativePath: { eq: "contents/images/image24.jpg" }) {
+      c: file(relativePath: { eq: "contents/images/image22.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -43,7 +43,7 @@ export default function Carousel(props) {
         }
       }
 
-      d: file(relativePath: { eq: "contents/images/image31.jpg" }) {
+      d: file(relativePath: { eq: "contents/images/image47.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid
@@ -51,7 +51,7 @@ export default function Carousel(props) {
         }
       }
 
-      e: file(relativePath: { eq: "contents/images/image37.jpg" }) {
+      e: file(relativePath: { eq: "contents/images/image32.jpg" }) {
         childImageSharp {
           fluid {
             ...GatsbyImageSharpFluid

@@ -3,7 +3,7 @@
 <!-----
 NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 57.029 seconds.
+Conversion time: 36.872 seconds.
 
 
 Using this Markdown file:
@@ -15,8 +15,8 @@ Using this Markdown file:
 
 Conversion notes:
 
-* Docs to Markdown version 1.0β29
-* Thu Jun 10 2021 12:04:44 GMT-0700 (PDT)
+* Docs to Markdown version 1.0β30
+* Mon Aug 23 2021 09:05:17 GMT-0700 (PDT)
 * Source doc: Student Affairs Content - dev
 * Tables are currently converted to HTML tables.
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
@@ -28,7 +28,7 @@ You have 22 H1 headings. You may want to use the "H1 -> H2" option to demote all
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 65.</p>
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 79.</p>
 <ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
 <p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
@@ -96,6 +96,20 @@ You have 22 H1 headings. You may want to use the "H1 -> H2" option to demote all
 <a href="#gdcalert63">alert63</a>
 <a href="#gdcalert64">alert64</a>
 <a href="#gdcalert65">alert65</a>
+<a href="#gdcalert66">alert66</a>
+<a href="#gdcalert67">alert67</a>
+<a href="#gdcalert68">alert68</a>
+<a href="#gdcalert69">alert69</a>
+<a href="#gdcalert70">alert70</a>
+<a href="#gdcalert71">alert71</a>
+<a href="#gdcalert72">alert72</a>
+<a href="#gdcalert73">alert73</a>
+<a href="#gdcalert74">alert74</a>
+<a href="#gdcalert75">alert75</a>
+<a href="#gdcalert76">alert76</a>
+<a href="#gdcalert77">alert77</a>
+<a href="#gdcalert78">alert78</a>
+<a href="#gdcalert79">alert79</a>
 
 <p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
@@ -125,14 +139,14 @@ The following document can be converted into markdown using the [`Docs to Markdo
 
 
 
-*   [Existing students in 5-year Int. M.Sc. Program](https://www.niser.ac.in/content/continue-integrated-msc)
-*   [Graduated students in 5-year Int. M.Sc. Program](https://www.niser.ac.in/content/passout-integrated-msc)
-*   [Existing students in Int. Ph.D. Program](https://www.niser.ac.in/content/continue-int-msc-phd-students)
-*   [Existing students in Ph.D. Program](https://www.niser.ac.in/content/students-phd)
-*   [Graduated students in Ph.D. Program](https://www.niser.ac.in/content/passout-students-phd)
+* [Existing students in 5-year Int. M.Sc. Program](https://www.niser.ac.in/content/continue-integrated-msc)
+* [Graduated students in 5-year Int. M.Sc. Program](https://www.niser.ac.in/content/passout-integrated-msc)
+* [Existing students in Int. Ph.D. Program](https://www.niser.ac.in/content/continue-int-msc-phd-students)
+* [Existing students in Ph.D. Program](https://www.niser.ac.in/content/students-phd)
+* [Graduated students in Ph.D. Program](https://www.niser.ac.in/content/passout-students-phd)
 
 
-# Student Affairs Office
+# STUDENT AFFAIRS OFFICE
 
 
 
@@ -142,13 +156,13 @@ The following document can be converted into markdown using the [`Docs to Markdo
 ![alt_text](images/image1.jpg "image_tooltip")
 
 
-Name: Dr. Renjith Mathew
+Dr. Renjith Mathew
 
-Designation: Dean of Student Affairs, NISER
+Dean of Student Affairs, NISER
 
-Role: The Dean, SA is the chairperson of Student Affairs, NISER. DOSA oversees the welfare of the student community. DOSA is responsible for communicating and interpreting University decisions to the student community and also coordinating and supervising co-curricular activities inside the campus. DOSA strives for maintaining an active, harmonious, and beneficial learning and living environment for students.
+The Dean, SA is the chairperson of Student Affairs, NISER. DOSA        oversees the welfare of the student community. DOSA is responsible for communicating and interpreting University decisions to the student community and also coordinating and supervising co-curricular activities inside the campus. DOSA strives for maintaining an active, harmonious, and beneficial learning and living environment for students.
 
-Address: [Office no], Admin Building, 1st floor
+[Office no], Admin Building, 1st floor
 
 Contacts: 2494010, [dosa@niser.ac.in](mailto:dosa@niser.ac.in)
 
@@ -160,13 +174,13 @@ Contacts: 2494010, [dosa@niser.ac.in](mailto:dosa@niser.ac.in)
 ![alt_text](images/image2.jpg "image_tooltip")
 
 
-Name: Rajeev Singh:
+Rajeev Singh
 
-Designation: Administrative office-I, NISER
+Administrative officer-I, NISER
 
-Role: Under the direction of the Dean of Students, helps in the planning, coordination, and administration of DOSA activities and programs, including student conduct and extracurricular programs.
+Under the direction of the Dean of Students, helps in the planning, coordination, and administration of DOSA activities and programs, including student conduct and extracurricular programs.
 
-Address: Student Affairs office, Academic building, Ground Floor
+Student Affairs office, Academic building, Ground Floor
 
 Contacts:+91-674-249-4042,[rajeev@niser.ac.in](mailto:rajeev@niser.ac.in)
 
@@ -178,13 +192,13 @@ Contacts:+91-674-249-4042,[rajeev@niser.ac.in](mailto:rajeev@niser.ac.in)
 ![alt_text](images/image3.jpg "image_tooltip")
 
 
-Name M Suryanarayan-
+M Suryanarayan
 
-Designation-SA-C(PET),NISER
+SA-C(PET),NISER
 
-Role: The PET helps in organizing games and challenges that promote physical activity among the students and other residents on the campus. He provides an alternative exercise during workouts and classes for different levels of fitness and skill.PE helps to develop skills and physical development among young students and proper exercise and eating habits among them. He is responsible for coaching the sports team,explaining and enforcing safety rules about governing sports, recreational activities, and the use of sports and exercise gym equipment.
+The PET helps in organizing games and challenges that promote physical activity among the students and other residents on the campus. He provides an alternative exercise during workouts and classes for different levels of fitness and skill.PE helps to develop skills and physical development among young students and proper exercise and eating habits among them. He is responsible for coaching the sports team,explaining and enforcing safety rules about governing sports, recreational activities, and the use of sports and exercise gym equipment.
 
-Address: Student Activity Centre(SAC),office No-1
+Student Activity Centre(SAC),office No-1
 
 Contacts:06742494412,[surya-pet@niser.ac.in](mailto:surya-pet@niser.ac.in)
 
@@ -196,13 +210,13 @@ Contacts:06742494412,[surya-pet@niser.ac.in](mailto:surya-pet@niser.ac.in)
 ![alt_text](images/image4.jpg "image_tooltip")
 
 
-Name: Vijay Singh, NISER
+Vijay Singh
 
-Designation: Upper-division Clerk
+Upper-division Clerk, NISER
 
 Role: Under the direction of the Dean of Students, helps in the planning, coordination, and administration of DOSA activities and programs, including student conduct and extracurricular programs.
 
-Address: Student affairs office, Academic building, Ground floor.
+Student affairs office, Academic building, Ground floor.
 
 Contacts:+91-674-249-4033,vijay@niser.ac.in
 
@@ -214,13 +228,13 @@ Contacts:+91-674-249-4033,vijay@niser.ac.in
 ![alt_text](images/image5.jpg "image_tooltip")
 
 
-Name:Chinmaya Ranjan Sundaray
+Chinmaya Ranjan Sundaray
 
-Designation: Clerical, NISER
+Clerical, NISER
 
-Role: He is concerned with  Student Affairs office-related works, especially routine documentation, and administrative tasks.
+He is concerned with  Student Affairs office-related works, especially routine documentation, and administrative tasks.
 
-Address: Student Affairs Office, Academic building, Ground floor.
+Student Affairs Office, Academic building, Ground floor.
 
 Contacts:0674-2494044,chinmaysundaray@niser.ac.in
 
@@ -238,10 +252,10 @@ By now it has been recognised that the virus may go through four stages of devel
 
 
 
-*   Stage I - Alert of the spreading of the virus by WHO
-*   Stage II - A Host-State declares part of its territory, distant from NISER, as affected or threatened by an outbreak of COVID-19. The objective in this phase is to prevent and limit the spread of the virus.
-*   Stage III - The virus circulates widely in the area in which NISER is located
-*   Stage IV - Infection spreads at NISER itself.
+* Stage I - Alert of the spreading of the virus by WHO
+* Stage II - A Host-State declares part of its territory, distant from NISER, as affected or threatened by an outbreak of COVID-19. The objective in this phase is to prevent and limit the spread of the virus.
+* Stage III - The virus circulates widely in the area in which NISER is located
+* Stage IV - Infection spreads at NISER itself.
 
 
 # NISER Detailed Map
@@ -303,7 +317,7 @@ The Gymkhana is composed of 5 members:
 ![alt_text](images/image6.jpg "image_tooltip")
 
 
-President, [Ashish Shukla, SCS Int-MSc. 4th year]
+President, [Ashish Shukla, SCS Int-MSc. 5th year]
 
 
 
@@ -313,7 +327,7 @@ President, [Ashish Shukla, SCS Int-MSc. 4th year]
 ![alt_text](images/image7.jpg "image_tooltip")
 
 
-Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
+Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 5th year]
 
 
 
@@ -323,7 +337,7 @@ Campus Secretary, [Photo, Chandranathan A, SPS Int-MSc. 4th year]
 ![alt_text](images/image8.jpg "image_tooltip")
 
 
-General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
+General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 5th-year]
 
 
 
@@ -333,7 +347,7 @@ General Secretary, Cultural Affairs, [Tanya Pattnaik, SBS Int-MSc. 4th-year]
 ![alt_text](images/image9.jpg "image_tooltip")
 
 
-Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
+Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 5th-year]
 
 
 
@@ -343,7 +357,7 @@ Sports Secretary, [Balabhadra Pradhan, SBS Int-MSc. 4th-year]
 ![alt_text](images/image10.jpg "image_tooltip")
 
 
-Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 4th-year]
+Treasurer. [Photo, Arnav Paul, SCS Int-MSc. 5th-year]
 
 The members of Gymkhana are elected annually by an election conducted fairly under the eyes of Dean, SA.
 
@@ -433,7 +447,7 @@ Eligibility:
 
 Students who are in 1st, 2nd, 3rd or 4th year of their degree programs.
 
-Source: https://www.nest.net.in/
+Source: [https://www.nest.net.in/](https://www.nest.net.in/)
 
 
 # CLUB INFORMATION
@@ -441,9 +455,16 @@ Source: https://www.nest.net.in/
 NISER has various clubs aimed at promoting/organising various cultural, sports and other student activities. The various clubs of NISER are:
 
 
+## Arena
+
+NISER’s esports club, formed during the global pandemic, strives to bring together the gaming community of the institute under one banner.
+
+**Contact**: Subham Mishra (9178505655), [esports@niser.ac.in](mailto:esports@niser.ac.in)
+
+
 ## Arts Club
 
-A place where one can express themselves through the language of art.
+The NISER Art Club is the abode of the arCists - science nerds cum art freaks, a place where the future researchers set free the creative juices contained in their minds. arC aims to be the place where people find joy in art. In here we encourage people to come out of their stress-filled sedentary routines and find solace in colours, to convert blank white pages into Chef-d'oeuvre.
 
 **Contact**: Prajwal Roopnath (8431619842), [arc@niser.ac.in](mailto:arc@niser.ac.in)
 
@@ -459,21 +480,21 @@ The club takes part in various activities and experiments that are related to As
 
 Our club hosts an interdisciplinary platform where we get together to discuss, decipher and decode how the brain and its neuronal networks work together to produce action and thoughts, and how much the brain matters in everyday life.
 
-**Contact**: Abhinav (9417880864), brainmatters@niser.ac.in
+**Contact**: Abhinav (9417880864), [brainmatters@niser.ac.in](mailto:brainmatters@niser.ac.in)
 
 
 ## Chess Club
 
 We aim to promote the game among the students and develop budding talent. We also prepare NISER's team for IISM’s Chess games each year.
 
-**Contact:** Amareshwar (6370666477), chess.club@niser.ac.in
+**Contact:** Amareshwar (6370666477), [chess.club@niser.ac.in](mailto:chess.club@niser.ac.in)
 
 
 ## Coding Club
 
 We aim to cultivate and promote a coding culture among people in NISER. Club activities range from student seminars on (theoretical) computer science topics to recreational programming contests.
 
-**Contact**: Ayush Singh (8745928569), code@niser.ac.in
+**Contact**: Abhishek Anil Deshmukh (6370504297), [code@niser.ac.in](mailto:code@niser.ac.in)
 
 
 ## Dance Club
@@ -482,7 +503,7 @@ When in doubt, DANCE it out.
 
 Dance club provides a small stress free niche where we can meet, create, teach and grow together without setting boundaries. We encourage participation in intra and inter college events to gain exposure and experience.
 
-**Contact**: Vaishali (7004806893), dance@niser.ac.in
+**Contact**: Vaishali (7004806893), [dance@niser.ac.in](mailto:dance@niser.ac.in)
 
 
 ## Drama and Music Club
@@ -491,42 +512,42 @@ A club dedicated to promoting, conducting, and nurturing Drama and Music culture
 
 The Club conducts inter and intra college events, moderates the music room and is the coordinator of SPICMACAY, NISER chapter.
 
-**Contact:** Yashaswini (9406583817), dmc@niser.ac.in
+**Contact:** Yashaswini (9406583817), [dmc@niser.ac.in](mailto:dmc@niser.ac.in)
 
 
 ## Film Club
 
 Film Club of NISER is the club for the movie lovers of NISER. Started in 2013 by a few film enthusiasts, the club has ever since promoted the culture of film appreciation and film making amongst the student community of NISER.
 
-**Contact:** Suraj Sahoo (9078675657), filmclub@niser.ac.in
+**Contact:** Suraj Sahoo (9078675657), [filmclub@niser.ac.in](mailto:filmclub@niser.ac.in)
 
 
 ## Literary Club
 
-Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus. Additionally the club overlooks _The Polyglots_, an initiative to provide a platform to learn different regional and international languages.
+Anything and everything literary, that’s LitC NISER! The club maintains a community library stocked with a variety of genres in literature. Club activities happen at least twice a semester and involve open mic sessions, debates, creative writing, book exhibitions, etc with a view of widening the scope of literary activities on the campus.
 
-**Contact:** Vinayak (7073534191), litc@niser.ac.in
+**Contact:** Vinayak (7073534191), [litc@niser.ac.in](mailto:litc@niser.ac.in)
 
 
 ## Mathematix Club
 
 MathematiX club hosts various activities of interest for math enthusiasts of NISER, with undergraduate students being the target audience. Since its inception in 2009, its prime motive has been to introduce students to topics not generally encountered in the undergraduate curriculum and provide a platform to students where mathematical ideas can be discussed and debated.
 
-**Contact:**  Archisman Bhattacharjee (7319151917), mathematicx@niser.ac.in
+**Contact:**  Archisman Bhattacharjee (7319151917), [mathematicx@niser.ac.in](mailto:mathematicx@niser.ac.in)
 
 
 ## Nature Club
 
 Adventure and having fun while learning and caring about nature is at the heart of OorNa, The Nature Club. As NISER is a campus gifted with many different species of plants, birds, and even a few animals, the club conducts nature walks which are both educational and recreational at the same time. It also conducts nature walks in other places near the campus. Also, the club encourages students to come up with any event which they might organize with its help.
 
-**Contact**: Devashish Sonowal (9348377323), oorna_natureclub@niser.ac.in
+**Contact**: Ayush Parag (9955816150), [oorna_natureclub@niser.ac.in](mailto:oorna_natureclub@niser.ac.in)
 
 
 ## Photography Club
 
 The photography club conducts photography competitions round semester with themes and agendas, we also cover nearly event happening in NISER
 
-**Contact:** Debashish Paik (9078450563), shots@niser.ac.in
+**Contact:** Debashish Paik (9078450563), [shots@niser.ac.in](mailto:shots@niser.ac.in)
 
 
 ## Quizone (Quiz Club)
@@ -542,35 +563,42 @@ We at Quizone are committed to promoting the culture of quizzing on campus and o
 
 As a community we empower each other with skills and knowledge about present day technology such as Development Board Programming, Image Processing, IOT  etc. We are currently working on a one year schedule for all our club members with the hopes of enabling everyone with the required knowledge of using technology in the most efficient way for functioning in various feats of our  academic and professional career."
 
-**Contact:** Jyothish (7597204329), rtc@niser.ac.in
+**Contact:** Jyothish (7597204329), [rtc@niser.ac.in](mailto:rtc@niser.ac.in)
 
 
 ## Science Activities Club
 
 The goal of Science Activities Club, NISER is to work as a platform for science communication for NISER students as well as nearby school children. The club was established in 2013. Over the course of the last 6 years, we have organised various outreach programmes involving our students and students from schools and colleges from Jatni, Bhubaneswar and Cuttack. We are the proud organiser of the NISER OPEN DAY, which is a great opportunity for people from outside NISER to visit us and learn about all types of research that have been going on in NISER. We are also organising DARK MATTER DAY from 2017 to celebrate the advancement in Dark Matter research across the globe. Apart from these major events, we also organise Student and Faculty delivered Talks on every subject and research area, throughout the year, to communicate both the latest research and the foundational ideas to the masses.
 
-**Contact**: Manabputra (9153156311), sac@niser.ac.in
+**Contact**: Saswat Kumar Pati (8908920270), Shubham Kumar (9097591993), Pulkit Ojha (8207871720), Prathmesh Patil (9510201621), sac@niser.ac.in
 
 
 ## Sports Club
 
 Sports club administers all the sports activities at NISER. It represents the institute at various sports events.
 
-**Contact:** Balabhadra Pradhan (8114794378), sportsclub@niser.ac.in
+**Contact:** Balabhadra Pradhan (8114794378), [sportsclub@niser.ac.in](mailto:sportsclub@niser.ac.in)
+
+
+## Vaktavya
+
+The Debate club of NISER has the motto -“Striving to speak what we think and defend what we speak.” The club is dedicated to fostering a culture of debate and discussion where members partake in exchanging ideas about issues that matter.
+
+**Contact:** Deepak Kumar Sharma (8917633964), [vaktavya@niser.ac.in](mailto:vaktavya@niser.ac.in)
 
 
 ## Yoga Club
 
 A club which aims to keep NISER minds and body healthy through yoga.
 
-**Contact:** Shyamali Naikwade (9405650548), yogaclub@niser.ac.in
+**Contact:** Shyamali Naikwade (9405650548), [yogaclub@niser.ac.in](mailto:yogaclub@niser.ac.in)
 
 
 ## Zaariya
 
 Zaariya was built on the shoulders and combined wisdom of many. When it all started we were yet a small community of students and faculty but within this group was a need, the need to go out and do something for the community at large. The motive of Zaariya is the intertwining of lives, learning, and growing together with society.
 
-**Contact**: Prem Nigam Kar (8466872125), zaariya@niser.ac.in
+**Contact**: Prem Nigam Kar (8466872125), [zaariya@niser.ac.in](mailto:zaariya@niser.ac.in)
 
 
 # EVENT (year-wise)
@@ -595,7 +623,7 @@ Zaariya was built on the shoulders and combined wisdom of many. When it all star
 
 **Koffee With Kishore:** (10 Aug 2019) DMC : An cultural event organised on the occasion of the birthday of Kishore Kumar . It showcases drama, music, dance, stand up comedy and any other mode of entertainment that one can think of.
 
-**Inter-Batch Chess Tournament: **(Aug 2019) The Inter-Batch Tournament **(IBT)**, is a key event of the chess club which is aimed towards bringing the players of different batches together as a team and gauge their overall performance. Each batch puts out a team of 6(5 players and 1 sub), and a Swiss style team tournament is held. IBT helps to introduce the freshers batch to the chess culture in place already.
+**Inter-Batch Chess Tournament:** (Aug 2019) The Inter-Batch Tournament **(IBT)**, is a key event of the chess club which is aimed towards bringing the players of different batches together as a team and gauge their overall performance. Each batch puts out a team of 6(5 players and 1 sub), and a Swiss style team tournament is held. IBT helps to introduce the freshers batch to the chess culture in place already.
 
 The 2019 edition of IBT saw the participation of Batches 15,16,17,18 and 19. Batch 15, in their last ever IBT came out on top, while Batch 18 were the runners up.
 
@@ -613,11 +641,11 @@ NISER hosted the IISM 2018, inviting contingents from 9 other participating inst
 
 ## Achievements of alumni
 
-**_Students Achievements: _**
+**_Students Achievements:_**
 
 **Amit Kumar - _Assistant professor of Mathematics at NIT-Andhra pradesh._**
 
-**Mohammed Nasim-_ Faculty at IISER Berhampur._**
+**Mohammed Nasim-** **_Faculty at IISER Berhampur._**
 
 **Sandeep Chatterjee- _Faculty at IISER Berhampur._**
 
@@ -633,7 +661,7 @@ NISER hosted the IISM 2018, inviting contingents from 9 other participating inst
 
 **_Vyashnavi v- PHD scholar at MIT_**
 
-**Mr. Vijay J Iyer-_ became the first recipient of the [Rajendran Raja Fellowship of Fermilab.](http://www.fnal.gov/pub/forphysicists/fellowships/rajendran_raja/index.html)_**
+**Mr. Vijay J Iyer-** **_became the first recipient of the [Rajendran Raja Fellowship of Fermilab.](http://www.fnal.gov/pub/forphysicists/fellowships/rajendran_raja/index.html)_**
 
 **_Dr. Gaurav Jha- Process Engineer, Intel Corporation_**
 
@@ -649,7 +677,7 @@ NISER hosted the IISM 2018, inviting contingents from 9 other participating inst
 
 **_Dr. Adyasha Panigrahi- Senior Scientist at Sygnature Discovery_**
 
-**Dr. Sandeep Kumar Rana -  _Data scientist ,ARP Investment _**
+**Dr. Sandeep Kumar Rana -**  **_Data scientist ,ARP Investment_**
 
 **Dr. Minaxi Sharma- _Managing member, Ample Electrical Solution_**
 
@@ -2008,20 +2036,20 @@ Health centre in NISER, has been established to provide health care facility to 
 
 
 
-*   Amri hospital,Bhubaneswar
-*   Apollo Hospital,Bhubaneswar
-*   Kalinga Hospital,Bhubaneswar
-*   Sparsh hospital and Critical Care,Bhubaneswar
-*   Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
-*   L V Prasad Eye Institute,Bhubaneswar
-*   Hemalata Hospital Research Centre, Bhubaneswar
+* Amri hospital,Bhubaneswar
+* Apollo Hospital,Bhubaneswar
+* Kalinga Hospital,Bhubaneswar
+* Sparsh hospital and Critical Care,Bhubaneswar
+* Kalinga Institute of Medical Sciences and PBMH,Bhubaneswar
+* L V Prasad Eye Institute,Bhubaneswar
+* Hemalata Hospital Research Centre, Bhubaneswar
 
 **Emergency Contact No:**
 
 
 
-*   Ambulance,NISER:+917077884599/+917682001216
-*   Contact Doctor in medical emergency only:+918480610024
+* Ambulance,NISER:+917077884599/+917682001216
+* Contact Doctor in medical emergency only:+918480610024
 
 **For More information regarding HEALTH CENTRE, NISER visit**: [Health Centre | National Institute of Science Education and Research](https://www.niser.ac.in/healthcentre/)
 
@@ -2031,7 +2059,7 @@ Health centre in NISER, has been established to provide health care facility to 
 The Students Placement Cell, NISER, established in 2021, with an aim to provide access to opportunities to all graduating students of NISER Bhubaneswar, works to network and connect the students with open positions in academia, industry, and research programs, which will further their career development.
 
 
-## Faculty Incharge:
+## Convener:
 
 
 
@@ -2044,6 +2072,8 @@ The Students Placement Cell, NISER, established in 2021, with an aim to provide 
 Dr. RENJITH MATHEW
 
 Contact no: 2494010,[dosa@niser.ac.in](mailto:dosa@niser.ac.in)
+
+Administrative officer
 
 
 
@@ -2130,7 +2160,7 @@ Contact no:6370630981,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 
 ABHISHEK ANIL DESHMUKH
 
-Contact no:637004297,[spc@niser.ac.in](mailto:spc@niser.ac.in)
+Contact no:6370504297,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 
 
 
@@ -2159,11 +2189,17 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 ![alt_text](images/image20.jpg "image_tooltip")
 
 
+
+##
+
 <p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image21.jpg "image_tooltip")
 
+
+
+##
 
 <p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -2171,11 +2207,17 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 ![alt_text](images/image22.jpg "image_tooltip")
 
 
+
+##
+
 <p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image23.jpg "image_tooltip")
 
+
+
+##
 
 <p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -2195,12 +2237,6 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 ![alt_text](images/image26.jpg "image_tooltip")
 
 
-
-## EVENTS
-
-
-
-
 <p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image27.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -2211,6 +2247,12 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 
 
 ![alt_text](images/image28.jpg "image_tooltip")
+
+
+
+## EVENTS
+
+
 
 
 <p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image29.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2261,9 +2303,6 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 ![alt_text](images/image36.jpg "image_tooltip")
 
 
-
-
-
 <p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -2277,6 +2316,9 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 
 
 ![alt_text](images/image38.jpg "image_tooltip")
+
+
+
 
 
 <p id="gdcalert39" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image39.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert40">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
@@ -2432,6 +2474,13 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 ![alt_text](images/image63.jpg "image_tooltip")
 
 
+
+###
+    UMANG 2021
+
+
+
+
 <p id="gdcalert64" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image64.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert65">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
@@ -2442,6 +2491,96 @@ Contact no:8500861867,[spc@niser.ac.in](mailto:spc@niser.ac.in)
 
 
 ![alt_text](images/image65.jpg "image_tooltip")
+
+
+<p id="gdcalert66" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image66.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert67">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image66.jpg "image_tooltip")
+
+
+<p id="gdcalert67" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image67.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert68">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image67.jpg "image_tooltip")
+
+
+<p id="gdcalert68" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image68.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert69">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image68.jpg "image_tooltip")
+
+
+<p id="gdcalert69" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image69.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert70">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image69.jpg "image_tooltip")
+
+
+<p id="gdcalert70" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image70.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert71">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image70.jpg "image_tooltip")
+
+
+
+
+
+<p id="gdcalert71" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image71.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert72">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image71.jpg "image_tooltip")
+
+
+<p id="gdcalert72" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image72.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert73">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image72.jpg "image_tooltip")
+
+
+<p id="gdcalert73" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image73.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert74">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image73.jpg "image_tooltip")
+
+
+<p id="gdcalert74" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image74.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert75">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image74.jpg "image_tooltip")
+
+
+<p id="gdcalert75" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image75.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert76">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image75.jpg "image_tooltip")
+
+
+<p id="gdcalert76" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image76.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert77">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image76.jpg "image_tooltip")
+
+
+<p id="gdcalert77" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image77.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert78">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image77.jpg "image_tooltip")
+
+
+<p id="gdcalert78" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image78.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert79">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image78.jpg "image_tooltip")
+
+
+
+
+
+<p id="gdcalert79" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image79.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert80">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image79.jpg "image_tooltip")
 
 
 
@@ -2577,14 +2716,14 @@ a)You may contact the NISER administration to report your complaints against Rag
 
 
 
-*   Dr. Brundaban Sahu, Chairman (brundaban.sahu@niser.ac.in)
-*   Dr. Sumedha, Member (sumedha@niser.ac.in)
-*   Dr. P.C. Ravikumar, Member (pcr@niser.ac.in)
-*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
-*   Dr. Rudresh Acharya, Member (rudresh.acharya@niser.ac.in)
-*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
-*   Dr. Subhankar Mishra, Member (smishra@niser.ac.in)
-*   Dr. Amaresh Kumar Jaiswal, Member (a.jaiswal@niser.ac.in)
+* Dr. Brundaban Sahu, Chairman (brundaban.sahu@niser.ac.in)
+* Dr. Sumedha, Member (sumedha@niser.ac.in)
+* Dr. P.C. Ravikumar, Member (pcr@niser.ac.in)
+* Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+* Dr. Rudresh Acharya, Member (rudresh.acharya@niser.ac.in)
+* Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+* Dr. Subhankar Mishra, Member (smishra@niser.ac.in)
+* Dr. Amaresh Kumar Jaiswal, Member (a.jaiswal@niser.ac.in)
 
 b)We, at the Ragging Prevention Program are ready to help. You can call us any time on 1800 180 5522. It is a free phone. You can also send an E mail on helpline@antiragging.in.
 
@@ -2598,27 +2737,27 @@ The Government of India (GoI) has enacted the Protection of Women from Sexual Ha
 
 
 1.  ‘Sexual harassment’ includes any one or more of the following acts of behaviors (whether directly or by implication), namely:
-    *   physical contact or advances,
-    *   demand or request for sexual favors,
-    *   sexually colored remarks,
-    *   showing any pornography,
-    *   any other unwelcome physical, verbal, non-verbal conduct of a sexual nature.
+    * physical contact or advances,
+    * demand or request for sexual favors,
+    * sexually colored remarks,
+    * showing any pornography,
+    * any other unwelcome physical, verbal, non-verbal conduct of a sexual nature.
 2. The following circumstances, if it occurs or present in relation to or connected with any act or behavior with sexual harassment may amount to sexual harassment:
-    *   implied or explicit promise of preferential treatment in employment,
-    *   implied or explicit threat of detrimental treatment in employment,
-    *   implied or explicit threat about her present or future employment status,
-    *   humiliating treatment likely to affect her health or safety,
-    *   interference with her work or creating an intimidating or offensive or hostile work environment for her.
+    * implied or explicit promise of preferential treatment in employment,
+    * implied or explicit threat of detrimental treatment in employment,
+    * implied or explicit threat about her present or future employment status,
+    * humiliating treatment likely to affect her health or safety,
+    * interference with her work or creating an intimidating or offensive or hostile work environment for her.
 3. You may file your grievances against Sexual Harassment to any member of the ‘women’ cell of NISER’. The members of this committee which examines the issues related to Sexual Harassment in NISER are:
-    *   Dr. Harapriya Mohapatra, Chairman (hm@niser.ac.in)
-    *   Dr. Shikha Verma, Member (shikha@niser.ac.in)
-    *   Dr. S. Perucheranlathan, Member (peru@niser.ac.in)
-    *   Dr. Nabin Jana, Member (nabinjana@niser.ac.in)
-    *   Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
-    *   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
-    *   Dr. Bibhupada Tripathy, Member (aoacad@niser.ac.in)
-    *   Mrs. Shabnam Khanum, Member (shabnumk@niser.ac.in)
-    *   Mr. Apolina Lakra, Member ([apolina@niser.ac.in](mailto:apolina@niser.ac.in))
+    * Dr. Harapriya Mohapatra, Chairman (hm@niser.ac.in)
+    * Dr. Shikha Verma, Member (shikha@iopb.res.in)
+    * Dr. S. Perucheranlathan, Member (peru@niser.ac.in)
+    * Dr. Nabin Jana, Member (nabinjana@niser.ac.in)
+    * Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
+    * Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+    * Dr. Bibhupada Tripathy, Member (aoacad@niser.ac.in)
+    * Mrs. Shabnam Khanum, Member (shabnumk@niser.ac.in)
+    * Mr. Apolina Lakra, Member ([apolina@niser.ac.in](mailto:apolina@niser.ac.in))
 
 You may also file your complaint directly at [http://www.shebox.nic.in/user/register](http://www.shebox.nic.in/user/register).
 
@@ -2633,17 +2772,17 @@ In pursuance of the regulation of the University Grants Commission, New Delhi (U
 
 1. Students facing any kind of discrimination based on their caste in Campus at academics/hostel/student-activity/sports/events/etc. are encouraged to file grievances against it.
 2.  The following committee will examine the issues related to the caste discrimination complaints received from SC/ST/OBC students in NISER:
-    *   Dr. Binod Kumar Sahoo, Chairman (bksahoo@niser.ac.in)
-    *   Dr. Sudip Burman, Co-Chairperson (sburman@niser.ac.in)
-    *   Dr. Saikat Hira, Member (saikat.hira@niser.ac.in)
-    *   Mr. Purna Chandra Sahu, Member (purna@niser.ac.in)
-    *   Mr. Sanjaya Kumar Patro, Member (sanjayakumar@niser.ac.in)
-    *   Mr. Bhagwan Dhal, Member
-    *   Mr. Nabin Kumar Sahoo, Member (nabin@niser.ac.in)
-    *   Mrs. Apolina Akra, Member (apolina@niser.ac.in)
-    *   Mrs. Bandita Pradhan, Member
-    *   Mrs. Lopamudra Sahoo, Member (lsahoo@niser.ac.in)
-    *   Mr. Hiralal Das, Member Secretary (hiralal@niser.ac.in)
+    * Dr. Binod Kumar Sahoo, Chairman (bksahoo@niser.ac.in)
+    * Dr. Sudip Burman, Co-Chairperson (sburman@niser.ac.in)
+    * Dr. Saikat Hira, Member (saikat.hira@niser.ac.in)
+    * Mr. Purna Chandra Sahu, Member (purna@niser.ac.in)
+    * Mr. Sanjaya Kumar Patro, Member (sanjayakumar@niser.ac.in)
+    * Mr. Bhagwan Dhal, Member (bhagaban87@niser.ac.in)
+    * Mr. Nabin Kumar Sahoo, Member (nabin@niser.ac.in)
+    * Mrs. Apolina Akra, Member (apolina@niser.ac.in)
+    * Mrs. Bandita Pradhan, Member
+    * Mrs. Lopamudra Sahoo, Member (lsahoo@niser.ac.in)
+    * Mr. Hiralal Das, Member Secretary (hiralal@niser.ac.in)
 3. You are encouraged to contact any of the members of this committee to file a complaint against caste discrimination.
 
 [Click here to view Circular](https://www.niser.ac.in/docs/2017/SC-ST-OBC-cell-constitution.pdf)
@@ -2655,33 +2794,33 @@ In pursuance of the regulation of the University Grants Commission, New Delhi (U
 
 1. Mental health issues can have a profound impact on how we think, feel, and behave. They can range from the daily worries we all have from time to time, to serious long-term problems that require treatment to manage effectively. If mental health issues are ignored or dismissed as character traits it can lead to further problems.
 2. The common mental illness observed are:
-    *   depression
-    *   anxiety
-    *   obsessive-compulsive disorder (OCD)
-    *   phobias
-    *   post-traumatic stress disorder (PTSD)
-    *   panic disorders.
-    *   schizophrenia
-    *   eating disorders
-    *   substance abuse
-    *   bipolar disorder
-    *   personality disorder.
-3. NISER will be partnering with YourDost to provide access to counseling services to students. Link to [YourDost](https://yourdost.com). Students can also explore [YourDost](http://yourdost.com/blog/) blog for tips on mental health.
+    * depression
+    * anxiety
+    * obsessive-compulsive disorder (OCD)
+    * phobias
+    * post-traumatic stress disorder (PTSD)
+    * panic disorders.
+    * schizophrenia
+    * eating disorders
+    * substance abuse
+    * bipolar disorder
+    * personality disorder.
+3. NISER will be partnering with **YourDost** to provide access to counseling services to students. Link to **[YourDost](https://yourdost.com)**. Students can also explore **[YourDost](http://yourdost.com/blog/)** blog for tips on mental health.
 4. [Got anxiety?](https://adaa.org/sites/default/files/GotAnxiety-2014.pdf) For college students from ADAA
 5. Within NISER, students can approach any members of the counseling cell:
-    *   Dr. Rooplekha Khuntia, Convener (rooplekha@niser.ac.in)
-    *   Dr. Renjith Mathew, Member (renjith.mathew@niser.ac.in)
-    *   Dr. Kartikeswar Senapati, Member (kartik@niser.ac.in)
-    *   Dr. Sayantani Bhattacharya, Member (santana@niser.ac.in)
-    *   Dr. Arindam Ghosh, Member (aringh@niser.ac.in)
-    *   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
-    *   Dr. Debasmita P. Alone, Member (debasmita@niser.ac.in)
-    *   Mr. Anuj Verma,Student Member (anuj.verma@niser.ac.in)
-    *   Ms. N K U Sarada Anoushka, Student Member (n.anoushka@niser.ac.in)
-    *   Mr. Suritra Bandyopadhyay, Student Member (suritra.bandyopadhyay@niser.ac.in)
-    *   Ms. Priya Sahu, Student Member (priya.sahu@niser.ac.in)
-    *   Ms. Manali Banerjee, Student Member (manali.banerjee@niser.ac.in)
-    *   Ms. Bratati mukherjee, Student Member (bratati.mukherjee@niser.ac.in)
+    * Dr. Rooplekha Khuntia, Convener (rooplekha@niser.ac.in)
+    * Dr. Renjith Mathew, Member (renjith.mathew@niser.ac.in)
+    * Dr. Kartikeswar Senapati, Member (kartik@niser.ac.in)
+    * Dr. Sayantani Bhattacharya, Member (santana@niser.ac.in)
+    * Dr. Arindam Ghosh, Member (aringh@niser.ac.in)
+    * Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+    * Dr. Debasmita P. Alone, Member (debasmita@niser.ac.in)
+    * Mr. Anuj Verma,Student Member (anuj.verma@niser.ac.in)
+    * Ms. N K U Sarada Anoushka, Student Member (n.anoushka@niser.ac.in)
+    * Mr. Suritra Bandyopadhyay, Student Member (suritra.bandyopadhyay@niser.ac.in)
+    * Ms. Priya Sahu, Student Member (priya.sahu@niser.ac.in)
+    * Ms. Manali Banerjee, Student Member (manali.banerjee@niser.ac.in)
+    * Ms. Bratati mukherjee, Student Member (bratati.mukherjee@niser.ac.in)
 
 [Click here to view the Circular](https://www.niser.ac.in/docs/2020/Students_Counselling_Cell_2020.pdf)
 
@@ -2693,9 +2832,9 @@ In pursuance of the regulation of the University Grants Commission, New Delhi (U
 
 
 
-*   Students are expected not to indulge in any activity which is likely to bring down the prestige of the institute. He/She should also show due respect and courtesy to the teachers, administrators, officers and employees of the institute, and good neighborly behavior to fellow students. Due attention and courtesy is to be paid to visitors to the institute and residents of the Campus.
-*   Lack of courtesy and decorum, unbecoming conduct (both within and outside the institute), wilful damage and/or removal of institute property or belongings of fellow students, disturbing others in their studies, adoption of unfair means during examinations, breach of rules and regulations of the institute, noisy and unseemly behavior and similar other undesirable activities shall constitute violation of the Code of Conduct for students.
-*   Ragging in any form is strictly prohibited and is considered a serious offense.
+* Students are expected not to indulge in any activity which is likely to bring down the prestige of the institute. He/She should also show due respect and courtesy to the teachers, administrators, officers and employees of the institute, and good neighborly behavior to fellow students. Due attention and courtesy is to be paid to visitors to the institute and residents of the Campus.
+* Lack of courtesy and decorum, unbecoming conduct (both within and outside the institute), wilful damage and/or removal of institute property or belongings of fellow students, disturbing others in their studies, adoption of unfair means during examinations, breach of rules and regulations of the institute, noisy and unseemly behavior and similar other undesirable activities shall constitute violation of the Code of Conduct for students.
+* Ragging in any form is strictly prohibited and is considered a serious offense.
 
 
 ## Disciplinary Action Committee for the Students (DACS):
@@ -2704,17 +2843,17 @@ The following committee has been constituted to look after the Disciplinary  iss
 
 
 
-*   Dr. Renjith Mathew, Chairman (renjith.mathew@niser.ac.in)
-*   Dr. Brundaban Sahu, Member (brundaban.sahu@niser.ac.in)
-*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
-*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
-*   Dr. Binod Kumar Sahoo, Member (bksahoo@niser.ac.in)
-*   Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
-*   Mr. Haresh Kumar Chaudhary, Member (hk.chaudhary@niser.ac.in)
-*   Ms. Konthalapalli Hradini, Member (konthalapalli.hradhini@niser.ac.in)
-*   Ms. Rashmi Rekha Sahoo, Member (rashmirekha.sahoo@niser.ac.in)
-*   Mr. Subhrakant Jena, Member (subhrakant.jena@niser.ac.in)
-*   Mr. Rajeev Kumar Singh, Member (rajeev@niser.ac.in)
+* Dr. Renjith Mathew, Chairman (renjith.mathew@niser.ac.in)
+* Dr. Brundaban Sahu, Member (brundaban.sahu@niser.ac.in)
+* Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+* Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+* Dr. Binod Kumar Sahoo, Member (bksahoo@niser.ac.in)
+* Dr. Rooplekha Khuntia, Member (rooplekha@niser.ac.in)
+* Mr. Haresh Kumar Chaudhary, Member (hk.chaudhary@niser.ac.in)
+* Ms. Konthalapalli Hradini, Member (konthalapalli.hradhini@niser.ac.in)
+* Ms. Rashmi Rekha Sahoo, Member (rashmirekha.sahoo@niser.ac.in)
+* Mr. Subhrakant Jena, Member (subhrakant.jena@niser.ac.in)
+* Mr. Rajeev Kumar Singh, Member (rajeev@niser.ac.in)
 
 [Click here to view Circular](https://www.niser.ac.in/docs/2019/DACS_2019.pdf)
 
@@ -2740,6 +2879,20 @@ Jatni Indian Post, (752050), [Map Link](https://goo.gl/maps/PmjCz2yainhyedFk8), 
 
 
 # CONTACT US
+
+DOSA office
+
+Admin Building, first floor
+
+Ph: 2494010
+
+dosa@niser.ac.in
+
+Student Affairs office
+
+Academic building,Ground Floor
+
+Ph 2494042
 
 Email-Id: [studentsgymkhana@niser.ac.in](mailto:studentsgymkhana@niser.ac.in)
 

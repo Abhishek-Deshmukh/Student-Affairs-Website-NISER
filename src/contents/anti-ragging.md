@@ -30,14 +30,14 @@ a)You may contact the NISER administration to report your complaints against Rag
 
 
 
-*   Dr. Brundaban Sahu, Chairman (brundaban.sahu@niser.ac.in)
-*   Dr. Sumedha, Member (sumedha@niser.ac.in)
-*   Dr. P.C. Ravikumar, Member (pcr@niser.ac.in)
-*   Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
-*   Dr. Rudresh Acharya, Member (rudresh.acharya@niser.ac.in)
-*   Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
-*   Dr. Subhankar Mishra, Member (smishra@niser.ac.in)
-*   Dr. Amaresh Kumar Jaiswal, Member (a.jaiswal@niser.ac.in)
+* Dr. Brundaban Sahu, Chairman (brundaban.sahu@niser.ac.in)
+* Dr. Sumedha, Member (sumedha@niser.ac.in)
+* Dr. P.C. Ravikumar, Member (pcr@niser.ac.in)
+* Dr. Deepak Kumar Dalai, Member (deepak@niser.ac.in)
+* Dr. Rudresh Acharya, Member (rudresh.acharya@niser.ac.in)
+* Dr. Sudakshina Prusty, Member (sprusty@niser.ac.in)
+* Dr. Subhankar Mishra, Member (smishra@niser.ac.in)
+* Dr. Amaresh Kumar Jaiswal, Member (a.jaiswal@niser.ac.in)
 
 b)We, at the Ragging Prevention Program are ready to help. You can call us any time on 1800 180 5522. It is a free phone. You can also send an E mail on helpline@antiragging.in.
 
