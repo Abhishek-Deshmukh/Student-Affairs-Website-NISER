@@ -1,9 +1,8 @@
 # student_affairs
 
 ## Project setup
-Install Node.js, npm and [Gatsby](https://www.gatsbyjs.com/tutorial/part-zero/#using-the-gatsby-cli). Change into the project directory and run
 ```
-$ npm install
+$ yarrn install
 $ gatsby develop
 ```
 The site can then be accessed at localhost:8000/ .
@@ -20,6 +19,7 @@ $ npm run feed
 
 ## TODO
 
+- [ ] Update people
 - [x] Content on the navigationBar
 - [x] Implement Search functionality
 - [x] Link cards on home page to actual pages
